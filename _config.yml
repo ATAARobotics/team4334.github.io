@@ -1,0 +1,9 @@
+name: "Team 4334"
+description: "Official website of Team 4334 - Alberta Tech Alliance"
+
+permalink: pretty
+url: http://team4334.github.io
+
+paginator: 10
+
+markdown: rdiscount
