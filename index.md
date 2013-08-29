@@ -2,13 +2,22 @@
 layout: default
 ---
 
+<style>
+.carousel .left {
+    background-color: blue;
+}
+</style>
+
 <div id="carousel" class="carousel slide bs-docs-carousel-example">
     <ol class="carousel-indicators">
-        <li data-target="#carousel" data-slide-to="0" class="active"></li>
-        <li data-target="#carousel" data-slide-to="1"></li>
-        <li data-target="#carousel" data-slide-to="2"></li>
-        <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
+        {% for post in site.posts limit: 1 %}
+            <li data-target="#carousel" data-slide-to="0" class="active"></li>
+        {% endfor %}
+        {% assign x = 0 %}
+        {% for post in site.posts limit: 4 offset: 1 %}
+            {% assign x = x + 1 %}
+            <li data-target="#carousel" data-slide-to="{{ x }}"></li>
+        {% endfor %}
     </ol>
     <div class="carousel-inner">
         {% for post in site.posts limit: 1 %}
@@ -30,10 +39,11 @@ layout: default
             </div>
         {% endfor %}
     </div>
-    <a class="left carousel-control" href="#carousel" data-slide="prev">
-        <span class="icon-prev"></span>
+    <a class="carousel-control" href="#carousel" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
     </a>
-    <a class="right carousel-control" href="#carousel" data-slide="next">
-        <span class="icon-next"></span>
+    <a class="carousel-control" href="#carousel" data-slide="next" style="right: 0;left: auto;">
+        <span class="glyphicon glyphicon-chevron-right"></span>
     </a>
 </div>
+

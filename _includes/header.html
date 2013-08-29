@@ -8,14 +8,8 @@
 
         <link href="/css/bootstrap.min.css" rel="stylesheet">
         <style>
-            .navbar {
-                position: fixed !important;
-                top: 0px;
-                width: 80%;
-                right: 10%;
-                left: 10%;
-            }
-            body {
+            html, body {
+                height:100%;
                 background-color: #E0E0E0;
             }
         </style>
@@ -28,9 +22,8 @@
         <![endif]-->
     </head>
 
-    <body style="padding-top:60px;">
-
-        <nav class="navbar navbar-default" role="navigation">
+    <body style="padding-top:65px;">
+        <nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="position:absolute;top: 0px;width: 80%;right: 10%;left: 10%;">
             <div class="navbar-header">
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
                     <span class="sr-only">Toggle navigation</span>
@@ -40,17 +33,27 @@
                 </button>
                 <a class="navbar-brand" href="/"><img height="20px" src="/img/logo.png"></a>
             </div>
-            
-            <p class="navbar-text">Achieving the unbelievable.</p>
-            
-            <ul class="nav navbar-nav navbar-right">
-                <li><a href="/history">History</a></li>
-                <li><a href="/team">Team</a></li>
-                <li><a href="/media">Media</a></li>
-                <li><a href="/sponsors">Sponsors</a></li>
-                <li><a href="/resources">Resources</a></li>
-                <li><a href="/contact">Contact</a></li>
-            </ul>
+            <div class="collapse navbar-collapse">
+ 
+                <p class="navbar-text">Achieving the unbelievable.</p>
+                
+                <form action="http://google.com/cse" class="navbar-form navbar-left" role="search">
+                    <input type="hidden" name="cx" value="008443684888986985988:bygwunlqra4"></input>
+                    <div class="form-group">
+                        <input type="text" name="q" class="form-control" placeholder="Search"></input>
+                    </div>
+                    <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+                </form>            
+                
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href="/history">History</a></li>
+                    <li><a href="/team">Team</a></li>
+                    <li><a href="/media">Media</a></li>
+                    <li><a href="/sponsors">Sponsors</a></li>
+                    <li><a href="/resources">Resources</a></li>
+                    <li><a href="/contact">Contact</a></li>
+                </ul>
+            </div>
         </nav>
 
-        <div class="container">
+        <div class="container" style="padding-bottom:70px;">
