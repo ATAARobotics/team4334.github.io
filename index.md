@@ -8,7 +8,7 @@ layout: default
 }
 </style>
 
-<div id="carousel" class="carousel slide bs-docs-carousel-example">
+<div id="carousel" class="carousel slide">
     <ol class="carousel-indicators">
         {% for post in site.posts limit: 1 %}
             <li data-target="#carousel" data-slide-to="0" class="active"></li>
