@@ -3,6 +3,8 @@ title: FIRST
 layout: default
 ---
 
+![](/img/FIRST.png)
+
 "To transform our culture by creating a world where science and technology are celebrated and where young people dream of becoming science and technology leaders."
 -Dean Kamen, Founder
 
