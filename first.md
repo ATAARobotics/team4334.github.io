@@ -1,5 +1,4 @@
 ---
-title: FIRST
 layout: default
 ---
 
