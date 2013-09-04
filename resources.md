@@ -7,9 +7,11 @@ Team 4334 is proud to make its resources available for all teams to use.
 
 ## Our Projects
 
-- [Gordian](https://github.com/Team4334/gordian) - Basic scripting language for portable programs with no external dependencies.
-- [atalibj](https://github.com/Team4334/atalibj) - ATA's abstract FRC libraries (Java)
+- [Gordian](http://www.4334.ca/gordian) - Basic scripting language for portable programs with no external dependencies.
+- [atalibj](http://www.4334.ca/atalibj) - ATA's abstract FRC libraries (Java)
 - [Scouting13](https://github.com/joelg236/Scouting13) - ATA's Java swing application used for scouting at competitions. Saves data as a custom data type which can be compiled into csv files.
+- [Android Scouting App](https://play.google.com/store/apps/details?id=appinventor.ai_hiyou102.Scouting) - Our Google Fusiontable Android scouting app which can be used for scouting at competion.
 - [FRC West Curriculum](http://frc-west.github.io/) - FRC Western Canada's official courses that earn high school credits, written solely by a team 4334 member
+
 
 We plan to make curriculum for all sub-teams and make it available for free here.

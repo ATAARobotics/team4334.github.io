@@ -25,10 +25,6 @@ Basic information about our team:
         <td>Started in</td>
         <td>2011-2012 Season</td>
     </tr>
-    <tr>
-        <td>The Blue Alliance</td>
-        <td><a href="http://www.thebluealliance.com/team/4334">here</a></td>
-    </tr>
 </table>
 
 <br />
