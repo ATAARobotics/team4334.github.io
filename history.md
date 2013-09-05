@@ -44,47 +44,88 @@ The 2013 season brought some success, winning the first Western Canadian regiona
 
 
 # Awards
-<table border="2px" width="100%">
-<tr><td>
-    <h2>2012</h2>
-</td></tr>
+<table class="table table-condensed">
+            <tbody><tr>
+              <th>Year</th>
+              <th>Event</th>
+              <th>Awards</th>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
+              <td><a href="http://www.thebluealliance.com/event/2013iri">Indiana Robotics Invitational</a></td>
+              <td></td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
+              <td><a href="http://www.thebluealliance.com/event/2013gal">Galileo Division</a></td>
+              <td></td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
+              <td><a href="http://www.thebluealliance.com/event/2013abca">Western Canadian FRC Regional</a></td>
+              <td>
+                
+                  Woodie Flowers Finalist Award
+                   (Craig Maynard)<br>
+                
+                  FIRST Dean's List Finalist #2
+                   (Alexander Rodrigues)<br>
+                
+                  Regional Winners #2
+                  <br>
+                
+                  Innovation in Control Award sponsored by Rockwell Automation
+                  <br>
+                
+              </td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
+              <td><a href="http://www.thebluealliance.com/event/2013wase">Seattle Regional</a></td>
+              <td></td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.thebluealliance.com/team/4334/2012">2012</a></td>
+              <td><a href="http://www.thebluealliance.com/event/2012iri">Indiana Robotics Invitational</a></td>
+              <td>
+Indiana Robotics Invitational Winners #3
+</td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.thebluealliance.com/team/4334/2012">2012</a></td>
+              <td><a href="http://www.thebluealliance.com/event/2012cmp">Einstein Field</a></td>
+              <td></td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.thebluealliance.com/team/4334/2012">2012</a></td>
+              <td><a href="http://www.thebluealliance.com/event/2012arc">Archimedes Division</a></td>
+              <td>Coopertition Award - <br>
 
-<tr><td>
-    <h5>GTR East</h5>
-    <ul>
-        <li>Rookie All Star Award
-        <li>Highest Rookie Seed
-        <li>Coopertition Award
-</ul>
-
-<h5>Championship</h5>
-    <ul>
-        <li>Coopertition Award - Archimedes
-        <li>Championship Division Winners - Archimedes
-    </ul>
-</td></tr>
-
-<tr><td>
-    <h2>2013</h2>
-</td></tr>
-
-<tr><td>
-    <h5>Western Canadian</h5>
-    <ul>
-        <li>Innovation in Control Award
-        <li>Woodie Flowers Finalist Award
-        <li>Regional Winners
-        <li>FIRST Dean's List Finalist Award
-    </ul>
-</td></tr>
-
-</table>
-
-<sub style="float:right;padding-top:4px;">
-Always updated [here](http://www.usfirst.org/whats-going-on/team/FRC/87499).
-</sub>
-
-# Wins
-- Archimedes 2012 (1114, 2056)
-- IRI 2012 (1114, 2826, 245)
-- Western Canadian Regional 2013 (1334, 4591, 4633)
+	Archimedes Division Winners #3</td>
+            </tr>
+            
+            <tr>
+              <td><a href="http://www.thebluealliance.com/team/4334/2012">2012</a></td>
+              <td><a href="http://www.thebluealliance.com/event/2012on">Greater Toronto East Regional</a></td>
+              <td>
+                
+                  Rookie All Star Award
+                  <br>
+                
+                  Coopertition Award
+                  <br>
+                
+                  Highest Rookie Seed
+                  <br>
+                
+              </td>
+            </tr>
+            
+          </tbody></table>
