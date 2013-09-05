@@ -1,8 +1,18 @@
 ---
 title: Photos
-layout: default
+layout: no_sidebar
 ---
+
+
+2013
+-------
+***
 
 ### IRI
 
-<div style="text-align:center"><iframe class="imgur-album" width="100%" height="550" frameborder="0" src="http://imgur.com/a/SyK67/embed"></iframe><div style="margin-top:5px"><strong><a href="http://imgur.com/a/SyK67" target="_blank">IRI 2013 - Imgur</a></strong> from <strong><a href="http://hiyou102.imgur.com" target="_blank">hiyou102</a></strong></div><div style="margin-bottom:5px;margin-top:5px"><a target="_blank" href="http://embed.ly?src=embed"><img src="http://cdn.embed.ly/logos/embedly-powered-small-light.png" /></a></div></div>
+<iframe align="center" src="http://www.flickr.com/slideShow/index.gne?group_id=&user_id=&set_id=72157635383055727&text=" frameBorder="0" width="700" height="650" scrolling="no"></iframe>
+
+### Calgary Flood Relief
+
+<iframe align="center" src="http://www.flickr.com/slideShow/index.gne?set_id=72157635383510923" width="700" height="650" frameBorder="0" scrolling="no"></iframe><br />
+
