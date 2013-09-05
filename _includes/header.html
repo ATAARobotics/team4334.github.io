@@ -54,11 +54,25 @@
                     <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
                 </form>            
             
+		 <ul class="nav navbar-nav navbar-right">
+   
+ 		 </ul>
                 <ul class="nav navbar-nav navbar-right">
+
                     <li class="{% if page.url contains 'first' %}active{% endif %}"><a href="/first">FIRST</a></li>
                     <li class="{% if page.url contains 'team' %}active{% endif %}"><a href="/team">Team</a></li>
                     <li class="{% if page.url contains 'history' %}active{% endif %}"><a href="/history">History</a></li>
                     <li class="{% if page.url contains 'media' %}active{% endif %}"><a href="/media">Media</a></li>
+  			<li class="dropdown">
+        			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Media <b class="caret"></b></a>
+        		<ul class="dropdown-menu">
+        			  <li><a href="/photos"">Photos</a></li>
+				  <li><a href="/videos">Videos</a></li>
+				  <li><a href="/chairmans">Chairman's Award</a></li>
+				 
+      			  </ul>
+      		</li>
+  		 
                     <li class="{% if page.url contains 'sponsors' %}active{% endif %}"><a href="/sponsors">Sponsors</a></li>
                     <li class="{% if page.url contains 'resources' %}active{% endif %}"><a href="/resources">Resources</a></li>
                     <li class="{% if page.url contains 'contact' %}active{% endif %}"><a href="/contact">Contact</a></li>
