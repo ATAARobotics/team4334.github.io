@@ -61,10 +61,10 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown">Media<b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a href="/photos">Photos</a></li>
-                        <li><a href="/videos">Videos</a></li>
-                        <li><a href="/news">In the News</a></li>
-                        <li><a href="/chairmans">Chairman's Award</a></li>
+                        <li class="{% if page.url contains 'photos' %}active{% endif %}"><a href="/photos">Photos</a></li>
+                        <li class="{% if page.url contains 'videos' %}active{% endif %}"><a href="/videos">Videos</a></li>
+                        <li class="{% if page.url contains 'news' %}active{% endif %}"><a href="/news">In the News</a></li>
+                        <li class="{% if page.url contains 'chairmans' %}active{% endif %}"><a href="/chairmans">Chairman's Award</a></li>
                     </ul>
                 <li class="{% if page.url contains 'sponsors' %}active{% endif %}"><a href="/sponsors">Sponsors</a></li>
                 <li class="{% if page.url contains 'resources' %}active{% endif %}"><a href="/resources">Resources</a></li>
