@@ -36,13 +36,13 @@ Basic information about our team:
     </ol>
     <div class="carousel-inner">
         <div class="item active">
-            <img style="margin: 0 auto;" src="/img/2013-team.jpg" alt="Image not found!">
+            <img src="/img/2013-team.jpg" alt="Image not found!">
             <div class="carousel-caption">
                 <h3>2013</h3>
             </div>
         </div>
         <div class="item">
-            <img style="margin: 0 auto;" src="/img/2012-team.jpg" alt="Image not found!">
+            <img src="/img/2012-team.jpg" alt="Image not found!">
             <div class="carousel-caption">
                 <h3>2012</h3>
             </div>
