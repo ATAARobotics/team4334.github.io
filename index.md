@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 ---
 
 <style>
@@ -8,6 +8,7 @@ layout: default
 }
 </style>
 
+<center><h1>Recent Posts</h1></center>
 <div id="carousel" class="carousel slide">
     <ol class="carousel-indicators">
         {% for post in site.posts limit: 1 %}
