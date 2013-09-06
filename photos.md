@@ -1,6 +1,6 @@
 ---
 title: Photos
-layout: no_sidebar
+layout: default 
 ---
 
 {% for x in site.posts %}
