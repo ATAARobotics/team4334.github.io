@@ -45,87 +45,72 @@ The 2013 season brought some success, winning the first Western Canadian regiona
 
 # Awards
 <table class="table table-condensed">
-            <tbody><tr>
-              <th>Year</th>
-              <th>Event</th>
-              <th>Awards</th>
-            </tr>
-            
-            <tr>
-              <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
-              <td><a href="http://www.thebluealliance.com/event/2013iri">Indiana Robotics Invitational</a></td>
-              <td></td>
-            </tr>
-            
-            <tr>
-              <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
-              <td><a href="http://www.thebluealliance.com/event/2013gal">Galileo Division</a></td>
-              <td></td>
-            </tr>
-            
-            <tr>
-              <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
-              <td><a href="http://www.thebluealliance.com/event/2013abca">Western Canadian FRC Regional</a></td>
-              <td>
-                
-                  Woodie Flowers Finalist Award
-                   (Craig Maynard)<br>
-                
-                  FIRST Dean's List Finalist #2
-                   (Alexander Rodrigues)<br>
-                
-                  Regional Winners #2
-                  <br>
-                
-                  Innovation in Control Award sponsored by Rockwell Automation
-                  <br>
-                
-              </td>
-            </tr>
-            
-            <tr>
-              <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
-              <td><a href="http://www.thebluealliance.com/event/2013wase">Seattle Regional</a></td>
-              <td></td>
-            </tr>
-            
-            <tr>
-              <td><a href="http://www.thebluealliance.com/team/4334/2012">2012</a></td>
-              <td><a href="http://www.thebluealliance.com/event/2012iri">Indiana Robotics Invitational</a></td>
-              <td>
-Indiana Robotics Invitational Winners #3
-</td>
-            </tr>
-            
-            <tr>
-              <td><a href="http://www.thebluealliance.com/team/4334/2012">2012</a></td>
-              <td><a href="http://www.thebluealliance.com/event/2012cmp">Einstein Field</a></td>
-              <td></td>
-            </tr>
-            
-            <tr>
-              <td><a href="http://www.thebluealliance.com/team/4334/2012">2012</a></td>
-              <td><a href="http://www.thebluealliance.com/event/2012arc">Archimedes Division</a></td>
-              <td>Coopertition Award - <br>
-
-	Archimedes Division Winners #3</td>
-            </tr>
-            
-            <tr>
-              <td><a href="http://www.thebluealliance.com/team/4334/2012">2012</a></td>
-              <td><a href="http://www.thebluealliance.com/event/2012on">Greater Toronto East Regional</a></td>
-              <td>
-                
-                  Rookie All Star Award
-                  <br>
-                
-                  Coopertition Award
-                  <br>
-                
-                  Highest Rookie Seed
-                  <br>
-                
-              </td>
-            </tr>
-            
-          </tbody></table>
+    <tbody>
+        <tr>
+            <th>Year</th>
+            <th>Event</th>
+            <th>Awards</th>
+        </tr>
+        <tr>
+            <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2013iri">Indiana Robotics Invitational</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2013gal">Galileo Division</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2013abca">Western Canadian FRC Regional</a></td>
+            <td>
+                Woodie Flowers Finalist Award (Craig Maynard)
+                <br>
+                FIRST Dean's List Finalist #2 (Alexander Rodrigues)
+                <br>
+                Regional Winners #2
+                <br>
+                Innovation in Control Award sponsored by Rockwell Automation
+            </td>
+        </tr>
+        <tr>
+            <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2013wase">Seattle Regional</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="http://www.thebluealliance.com/team/4334/2012">2012</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2012iri">Indiana Robotics Invitational</a></td>
+            <td>
+                Indiana Robotics Invitational Winners #3
+            </td>
+        </tr>
+        <tr>
+            <td><a href="http://www.thebluealliance.com/team/4334/2012">2012</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2012cmp">Einstein Field</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="http://www.thebluealliance.com/team/4334/2012">2012</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2012arc">Archimedes Division</a></td>
+            <td>
+                Coopertition Award - 
+                <br>
+                Archimedes Division Winners #3
+            </td>
+        </tr>
+        <tr>
+            <td><a href="http://www.thebluealliance.com/team/4334/2012">2012</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2012on">Greater Toronto East Regional</a></td>
+            <td>
+                Rookie All Star Award
+                <br>
+                Coopertition Award
+                <br>
+                Highest Rookie Seed
+                <br>
+            </td>
+        </tr>
+    </tbody>
+</table>
