@@ -4,8 +4,8 @@ layout: default
 ---
 
 Basic information about our team:
-<table border="2px" width="100%">
-    <tr style="border: 1px solid;">
+<table width="100%" class="table-bordered">
+    <tr>
         <td><b>Type</b></td>
         <td><b>Information</b></td>
     </tr>
@@ -55,3 +55,45 @@ Basic information about our team:
         <span class="glyphicon glyphicon-chevron-right"></span>
     </a>
 </div>
+
+
+# Members
+
+<table>
+    <tr>
+        <td>
+            <img style="height:450px;" src="/members/joel-gallant.jpeg" alt="Joel Gallant" class="img-rounded">
+        </td>
+        <td>
+            <img style="height:450px;" src="/members/chris-lemmon.png" alt="Chris Lemmon" class="img-rounded">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Joel Gallant</h3>
+        </td>
+        <td>
+            <h3>Chris Lemmon</h3>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul class="list-unstyled">
+                <li>Team Leader
+                <li>Programming Leader
+                <li>Strategy co-head
+                <li>Scouting co-head
+                <li>Drive Coach
+            </ul>
+        </td>
+        <td>
+            <ul class="list-unstyled">
+                <li>Team Captain
+                <li>Drive Team
+                <li>Fabrication co-head
+                <li>Strategy co-head
+                <li>Design co-head
+            </ul>
+        </td>
+    </tr>
+</table>
