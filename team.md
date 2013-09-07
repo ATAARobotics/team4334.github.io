@@ -67,6 +67,9 @@ Basic information about our team:
         <td>
             <img style="height:450px;" src="/members/chris-lemmon.png" alt="Chris Lemmon" class="img-rounded">
         </td>
+        <td>
+            <img style="height:450px;" src="/members/mac-hunik.jpg" alt="Mac Hunik" class="img-rounded">
+        </td>
     </tr>
     <tr>
         <td>
@@ -74,6 +77,9 @@ Basic information about our team:
         </td>
         <td>
             <h3>Chris Lemmon</h3>
+        </td>
+        <td>
+            <h3>Mac Hunik</h3>
         </td>
     </tr>
     <tr>
@@ -88,7 +94,16 @@ Basic information about our team:
         </td>
         <td>
             <ul class="list-unstyled">
-                <li>Team Captain
+                <li>Team Co-Captain
+                <li>Drive Team
+                <li>Fabrication co-head
+                <li>Strategy co-head
+                <li>Design co-head
+            </ul>
+        </td>
+        <td>
+            <ul class="list-unstyled">
+                <li>Team Co-Captain
                 <li>Drive Team
                 <li>Fabrication co-head
                 <li>Strategy co-head
