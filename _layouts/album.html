@@ -19,7 +19,7 @@
             <b><h6>{{ page.date | date_to_long_string }}</h6></b>
 
             {% for photo in page.photos %}
-                <a href="{{ page.root }}{{ photo }}" class="thumbnail"><img src="{{ page.root }}{{ photo }}"></a><br />
+                <a href="{{ page.root }}{{ photo }}" class="thumbnail"><img src="{{ page.root }}thumbs/{{ photo }}"></a><br />
             {% endfor %}
 
         </div>
