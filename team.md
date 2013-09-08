@@ -70,6 +70,9 @@ Basic information about our team:
         <td>
             <img style="height:450px;" src="/members/mac-hunik.jpg" alt="Mac Hunik" class="img-rounded">
         </td>
+		<td>
+            <img style="height:450px;" src="/members/denis-trailin.jpg" alt="Mac Hunik" class="img-rounded">
+        </td>
     </tr>
     <tr>
         <td>
@@ -80,6 +83,9 @@ Basic information about our team:
         </td>
         <td>
             <h3>Mac Hunik</h3>
+        </td>
+		td>
+            <h3>Denis Trailin</h3>
         </td>
     </tr>
     <tr>
@@ -108,6 +114,13 @@ Basic information about our team:
                 <li>Fabrication co-head
                 <li>Strategy co-head
                 <li>Design co-head
+            </ul>
+        </td>
+		<td>
+            <ul class="list-unstyled">
+                <li>PR Team Head
+                <li>Scouting Head
+                <li>Programmer
             </ul>
         </td>
     </tr>
