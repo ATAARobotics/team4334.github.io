@@ -84,6 +84,7 @@ Basic information about our team:
         <td>
             <h3>Mac Hunik</h3>
         </td>
+        <td>
             <h3>Denis Trailin</h3>
         </td>
     </tr>
