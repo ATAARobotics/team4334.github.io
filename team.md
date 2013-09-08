@@ -122,8 +122,12 @@ Basic information about our team:
             <img style="height:400px;width:300px;" src="/members/alex-vu.jpg" alt="Alex Vu" class="img-rounded">
         </td>
 		<td>
-            <img style="height:400px;width:300px;" src="/members/denis-trailin.jpg" alt="Mac Hunik" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/denis-trailin.jpg" alt="Denis Trailin" class="img-rounded">
         </td>
+		<td>
+            <img style="height:400px;width:300px;" src="/members/clayton-mcneil.jpg" alt="Clayton McNeil" class="img-rounded">
+        </td>
+    </tr>
     </tr>
     <tr>
         <td>
@@ -132,6 +136,10 @@ Basic information about our team:
         <td>
             <h3>Denis Trailin</h3>
         </td>
+        <td>
+            <h3>Clayton McNeil</h3>
+        </td>
+    </tr>
     </tr>
     <tr>
         <td>
@@ -146,6 +154,12 @@ Basic information about our team:
                 <li>PR Team Head
                 <li>Scouting Head
                 <li>Programmer
+            </ul>
+        </td>
+		<td>
+            <ul class="list-unstyled">
+                <li>Electrical Head
+                <li>CAD Head
             </ul>
         </td>
     </tr>
