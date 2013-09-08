@@ -62,16 +62,13 @@ Basic information about our team:
 <table>
     <tr>
         <td>
-            <img style="height:450px;" src="/members/joel-gallant.jpeg" alt="Joel Gallant" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/joel-gallant.jpeg" alt="Joel Gallant" class="img-rounded">
         </td>
         <td>
-            <img style="height:450px;" src="/members/chris-lemmon.png" alt="Chris Lemmon" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/chris-lemmon.png" alt="Chris Lemmon" class="img-rounded">
         </td>
         <td>
-            <img style="height:450px;" src="/members/mac-hunik.jpg" alt="Mac Hunik" class="img-rounded">
-        </td>
-		<td>
-            <img style="height:450px;" src="/members/denis-trailin.jpg" alt="Mac Hunik" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/mac-hunik.jpg" alt="Mac Hunik" class="img-rounded">
         </td>
     </tr>
     <tr>
@@ -83,9 +80,6 @@ Basic information about our team:
         </td>
         <td>
             <h3>Mac Hunik</h3>
-        </td>
-        <td>
-            <h3>Denis Trailin</h3>
         </td>
     </tr>
     <tr>
@@ -119,25 +113,24 @@ Basic information about our team:
                 <li>Design co-head
             </ul>
         </td>
-		<td>
-            <ul class="list-unstyled">
-                <li>PR Team Head
-                <li>Scouting Head
-                <li>Programmer
-            </ul>
-        </td>
     </tr>
 </table>
 
 <table>
     <tr>
         <td>
-            <img style="height:450px;" src="/members/alex-vu.jpg" alt="Alex Vu" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/alex-vu.jpg" alt="Alex Vu" class="img-rounded">
+        </td>
+		<td>
+            <img style="height:400px;width:300px;" src="/members/denis-trailin.jpg" alt="Mac Hunik" class="img-rounded">
         </td>
     </tr>
     <tr>
         <td>
             <h3>Alex Vu</h3>
+        </td>
+        <td>
+            <h3>Denis Trailin</h3>
         </td>
     </tr>
     <tr>
@@ -146,6 +139,13 @@ Basic information about our team:
                 <li>One Year Experience
                 <li>Fabrication Member
                 <li>CAD Member
+            </ul>
+        </td>
+		<td>
+            <ul class="list-unstyled">
+                <li>PR Team Head
+                <li>Scouting Head
+                <li>Programmer
             </ul>
         </td>
     </tr>
