@@ -151,6 +151,7 @@ Basic information about our team:
         </td>
 		<td>
             <ul class="list-unstyled">
+                <li>Two Years Experience
                 <li>PR Team Head
                 <li>Scouting Head
                 <li>Programmer
@@ -158,6 +159,7 @@ Basic information about our team:
         </td>
 		<td>
             <ul class="list-unstyled">
+                <li>Two Years Experience
                 <li>Electrical Head
                 <li>CAD Head
             </ul>
