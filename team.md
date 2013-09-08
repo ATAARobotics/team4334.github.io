@@ -85,6 +85,7 @@ Basic information about our team:
     <tr>
         <td>
             <ul class="list-unstyled">
+                <li>Two Years Experience
                 <li>Team Leader
                 <li>Programming Leader
                 <li>Strategy co-head
@@ -94,6 +95,7 @@ Basic information about our team:
         </td>
         <td>
             <ul class="list-unstyled">
+                <li>Two Years Experience
                 <li>Team Co-Captain
                 <li>Drive Team
                 <li>Fabrication co-head
@@ -103,11 +105,34 @@ Basic information about our team:
         </td>
         <td>
             <ul class="list-unstyled">
+                <li>Two Years Experience
                 <li>Team Co-Captain
                 <li>Drive Team
                 <li>Fabrication co-head
                 <li>Strategy co-head
                 <li>Design co-head
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>
+            <img style="height:450px;" src="/members/alex-vu.jpg" alt="Alex Vu" class="img-rounded">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Alex Vu</h3>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul class="list-unstyled">
+                <li>One Year Experience
+                <li>Fabrication Member
+                <li>CAD Member
             </ul>
         </td>
     </tr>
