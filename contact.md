@@ -3,7 +3,7 @@ title: Contact Us
 layout: default
 ---
 
-<form action="http://getsimpleform.com/messages?api_token=1657de8d9b61414cd109a31eec7ef821" method="post">
+<form action="http://getsimpleform.com/messages?form_api_token=1657de8d9b61414cd109a31eec7ef821" method="post">
 <div class="form-group">
     <div class="form-inline">
         <p><div class="form-group">
