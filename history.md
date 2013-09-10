@@ -3,13 +3,13 @@ title: History
 layout: default
 ---
 
-ATA started with one student - Alex Rodriguez. From a great background in FTC and FRC, winning world championships in FTC and winning a spot to world championships in FRC, he chose during his grade 11 year to start a team in Bishop Carroll. In a short 6 months, he organized, trained and got the resources in order to compete in 2012. Although it would be a great accomplishment for such a team to finish a robot on time, the team’s goals were higher. From making a practise robot, to analysing live streams for hours, to strategizing alliance possibilities, the team set themselves up to be winners. And they did win. Being highest seeded rookie team, and winning rookie all-star award in the Greater Toronto Regional, they earned their spot in the world championships in St. Louis.
+ATA started with one student - Alex Rodrigues. From a great background in FTC and FRC, winning world championships in FTC and winning a spot to world championships in FRC, he chose during his grade 11 year to start a team at Bishop Carroll. In a short 6 months, he organized, trained and got the resources that were required in order to compete in 2012. Although it would be a great accomplishment for such a team to finish a robot on time, the team’s goals were higher. From making a practise robot, to analysing live streams for hours, to strategizing alliance possibilities, the team set themselves up to be winners. And they did win. Being highest seeded rookie team, and winning rookie all-star award in the Greater Toronto Regional, they earned their spot in the world championships in St. Louis.
 
-In St. Louis, the humble beginnings soon began big dreams. After a struggle in qualifications surrounded by technical problems, they were able to pique the interest of hall-of-fame team 1114 and all-time winningest team 2056. This alliance selection was later dubbed the “Eh Team”, in reference to their dominant strategy, and the three teams’ Canadian heritage. ATA’s defense, coupled with 2056’s fast shooting and 1114’s accuracy became a triple threat that won them their division in the world championships, bringing them to the Einstein field - the most prestigious field in FIRST.
+In St. Louis, the humble beginnings soon began big dreams. After a struggle in qualifications surrounded by technical problems, they were able to pique the interest of hall-of-fame team 1114 and team 2056, the longest winning steak holder in <i>FIRST</i>. This alliance selection was later dubbed the “Eh Team”, in reference to their dominant strategy, and the three teams’ Canadian heritage. ATA’s defense, coupled with 2056’s fast shooting and 1114’s accuracy became a triple threat that won them their division in the world championships, bringing them to the Einstein field - the most prestigious field in FIRST.
 
 Briefly after this run, ATA went on to win what is commonly known as the hardest competition, IRI, with 1114 and 2826.
 
-The 2013 season brought some success, winning the first Western Canadian regional. Unfortunately due to alliance selections, ATA lost in quarterfinals at world championships.
+The 2013 season brought some success, winning the first Western Canadian regional. At Championships, the team made it quarterfinals in Gallileo division.
 
 # Robots
 
