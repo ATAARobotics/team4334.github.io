@@ -25,8 +25,10 @@ layout: home
         {% endfor %}
     </ol>
     <div class="carousel-inner">
-        {% for post in site.posts limit: 1 %}
-          {% if post.layout == 'post' %}
+        {% assign x = 0 %}
+        {% for post in site.posts %}
+          {% if post.layout == 'post' and x == 0 %}
+            {% capture x %}{{ x | plus:1 }}{% endcapture %}
             <div class="item active">
                 <a href="{{ post.url }}"><img style="height:450px;" src="{{ post.img }}" alt="Image not found!"></a>
                 <div class="carousel-caption">
@@ -36,8 +38,10 @@ layout: home
             </div>
           {% endif %}
         {% endfor %}
-        {% for post in site.posts limit: 4 offset: 1 %}
-          {% if post.layout == 'post' %}
+        {% capture x %}{{ x | plus:1 }}{% endcapture %}
+        {% for post in site.posts offset: x %}
+          {% if post.layout == 'post' and x != 0 %}
+            {% assign x = {{ x }} + 1 %}
             <div class="item">
                 <a href="{{ post.url }}"><img style="height:450px;" src="{{ post.img }}" alt="Image not found!"></a>
                 <div class="carousel-caption">
