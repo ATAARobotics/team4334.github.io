@@ -7,8 +7,10 @@
                     <button type="button" class="btn"><a href="/photos">Albums</a></button>
                 </div>
                 <div class="btn-group">
+                {% assign x = 5 %}
                 {% for x in site.posts %}
-                  {% if x.layout == 'album' && x.url != page.url %}
+                  {% if x.layout == 'album' and x.url != page.url and x != 0 %}
+                    {% capture x %}{{ x | minus:1 }}{% endcapture %}
                     <button type="button" class="btn btn-default"><a href="{{ x.url }}">{{ x.title }}</a></button>
                   {% endif %}
                 {% endfor %}

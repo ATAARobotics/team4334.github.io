@@ -20,9 +20,10 @@ layout: home
           {% endif %}
         {% endfor %}
         {% capture x %}{{ x | plus:1 }}{% endcapture %}
+        {% assign i = 4 %}
         {% for post in site.posts offset: x %}
-          {% if post.layout == 'post' and x != 0 %}
-            {% assign x = {{ x }} + 1 %}
+          {% if post.layout == 'post' and i != 0 %}
+            {% capture i %}{{ i | minus: 1 }}{% endcapture %}
             <div class="item">
                 <img style="min-height:200px;max-height:425px;" src="{{ post.img }}" alt="Image not found!">
                 <div class="carousel-caption" style="padding-bottom: 0px;">
