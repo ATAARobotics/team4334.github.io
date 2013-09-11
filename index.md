@@ -14,7 +14,7 @@ layout: home
                 <div class="carousel-caption" style="padding-bottom: 0px;">
                     <h3>{{ post.title }}</h3>
                     <p>{{ post.description }}
-                    <p><a class="btn btn-large btn-default" href="{{ post.url }}">Learn more</a>
+                    <p><a class="btn btn-large btn-default" href="{{ post.url }}">Read more</a>
                 </div>
             </div>
           {% endif %}
@@ -28,7 +28,7 @@ layout: home
                 <div class="carousel-caption" style="padding-bottom: 0px;">
                     <h3>{{ post.title }}</h3>
                     <p>{{ post.description }}</p>
-                    <p><a class="btn btn-large btn-default" href="{{ post.url }}">Learn more</a>
+                    <p><a class="btn btn-large btn-default" href="{{ post.url }}">Read more</a>
                 </div>
             </div>
           {% endif %}
