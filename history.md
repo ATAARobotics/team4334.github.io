@@ -20,14 +20,14 @@ The 2013 season brought some success, winning the first Western Canadian regiona
     </ol>
     <div class="carousel-inner">
         <div class="item active">
-			<a href="/img/ATA-promo.jpg"><img style="margin: 0 auto;height:650px;" src="/img/2013-robot.jpg" alt="Image not found!"></a>
+			<a href="/img/ATA-promo.jpg"><img style="max-height:650px;" src="/img/2013-robot.jpg" alt="Image not found!"></a>
             <div class="carousel-caption">
                 <h3>2013 - Murdock</h3>
                 <p>Murdock is a full-court shooter robot that aligns itself into a corner and fires frisbees from 54' away.</p>
             </div>
         </div>
         <div class="item">
-            <img style="margin: 0 auto;height:650px;" src="/img/2012-robot.jpg" alt="Image not found!">
+            <img style="max-height:650px;" src="/img/2012-robot.jpg" alt="Image not found!">
             <div class="carousel-caption">
                 <h3>2012 - Rex</h3>
                 <p>Rex is a feeder robot that picks up balls and sends them over the bump.</p>

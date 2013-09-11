@@ -17,6 +17,13 @@
                 height:100%;
                 background-color: #F5F5F5;
             }
+            .navbar-wrapper {
+                margin-top: 10px;
+                margin-bottom: -10px;
+            }
+            .navbar-wrapper .navbar {
+                border-radius: 6px;
+            }
             .carousel-caption {
                 text-shadow: 2.5px 2px 2px black;
             }
@@ -25,6 +32,13 @@
                 max-width: 100%;
                 margin-right: auto;
                 margin-left: auto;
+            }
+            .carousel-control {
+                opacity: 0;
+            }
+            .carousel-control:hover,
+            .carousel-control:focus {
+                opacity: 0.3;
             }
             .navbar-default .navbar-nav > .disabled > a,
             .navbar-default .navbar-nav > .disabled > a:hover,
@@ -39,42 +53,46 @@
         <![endif]-->
     </head>
     
-    <body style="padding-top:60px;">
-        <nav class="navbar navbar-default navbar-fixed-top" role="navigation" style="position:absolute;top: 0px;width: 80%;right: 10%;left: 10%;">
-            <div class="navbar-header">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand" href="/"><img height="20px" src="/img/logo.png"></a>
-            </div>
-            <div class="collapse navbar-collapse nav-collapse">
-                <form action="http://google.com/cse" class="navbar-form navbar-left" role="search">
-                    <input type="hidden" name="cx" value="008443684888986985988:bygwunlqra4"></input>
-                    <div class="form-group">
-                        <input type="text" name="q" class="form-control" placeholder="Search"></input>
+    <body>
+        <div class="navbar-wrapper">
+            <div class="container">
+                <nav class="navbar navbar-default" role="navigation">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="/"><img height="20px" src="/img/logo.png"></a>
                     </div>
-                    <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
-                </form>            
-   
-            <ul class="nav navbar-nav navbar-right">
-                <li class="{% if page.url contains 'first' %}active{% endif %}"><a href="/first"><i>FIRST</i></a></li>
-                <li class="{% if page.url contains 'team' %}active{% endif %}"><a href="/team">Team</a></li>
-                <li class="{% if page.url contains 'history' %}active{% endif %}"><a href="/history">History</a></li>
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Media<b class="caret"></b></a>
-                    <ul class="dropdown-menu">
-                        <li class="{% if page.url contains 'photos' %}active{% endif %}"><a href="/photos">Photos</a></li>
-                        <li class="{% if page.url contains 'videos' %}active{% endif %}"><a href="/videos">Videos</a></li>
-                        <li class="{% if page.url contains 'news' %}active{% endif %}"><a href="/news">In the News</a></li>
-                        <li class="{% if page.url contains 'chairmans' %}active{% endif %}"><a href="/chairmans">Chairman's Award</a></li>
-                    </ul>
-                <li class="{% if page.url contains 'sponsors' %}active{% endif %}"><a href="/sponsors">Sponsors</a></li>
-                <li class="{% if page.url contains 'resources' %}active{% endif %}"><a href="/resources">Resources</a></li>
-                <li class="{% if page.url contains 'contact' %}active{% endif %}"><a href="/contact">Contact</a></li>
+                    <div class="collapse navbar-collapse nav-collapse">
+                        <form action="http://google.com/cse" class="navbar-form navbar-left" role="search">
+                            <input type="hidden" name="cx" value="008443684888986985988:bygwunlqra4"></input>
+                            <div class="form-group">
+                                <input type="text" name="q" class="form-control" placeholder="Search"></input>
+                            </div>
+                            <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+                        </form>            
+           
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="{% if page.url contains 'first' %}active{% endif %}"><a href="/first"><i>FIRST</i></a></li>
+                        <li class="{% if page.url contains 'team' %}active{% endif %}"><a href="/team">Team</a></li>
+                        <li class="{% if page.url contains 'history' %}active{% endif %}"><a href="/history">History</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Media<b class="caret"></b></a>
+                            <ul class="dropdown-menu">
+                                <li class="{% if page.url contains 'photos' %}active{% endif %}"><a href="/photos">Photos</a></li>
+                                <li class="{% if page.url contains 'videos' %}active{% endif %}"><a href="/videos">Videos</a></li>
+                                <li class="{% if page.url contains 'news' %}active{% endif %}"><a href="/news">In the News</a></li>
+                                <li class="{% if page.url contains 'chairmans' %}active{% endif %}"><a href="/chairmans">Chairman's Award</a></li>
+                            </ul>
+                        <li class="{% if page.url contains 'sponsors' %}active{% endif %}"><a href="/sponsors">Sponsors</a></li>
+                        <li class="{% if page.url contains 'resources' %}active{% endif %}"><a href="/resources">Resources</a></li>
+                        <li class="{% if page.url contains 'contact' %}active{% endif %}"><a href="/contact">Contact</a></li>
+                    </div>
+                </nav>
             </div>
-        </nav>
+        </div>
 
-        <div class="container" style="padding-bottom:52px;">
+        <div class="container" style="padding-bottom:70px;">
