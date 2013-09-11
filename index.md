@@ -10,7 +10,7 @@ layout: home
           {% if post.layout == 'post' and x == 0 %}
             {% capture x %}{{ x | plus:1 }}{% endcapture %}
             <div class="item active">
-                <img style="max-height:425px;" src="{{ post.img }}" alt="Image not found!">
+                <img style="min-height:200px;max-height:425px;" src="{{ post.img }}" alt="Image not found!">
                 <div class="carousel-caption" style="padding-bottom: 0px;">
                     <h3>{{ post.title }}</h3>
                     <p>{{ post.description }}
@@ -24,7 +24,7 @@ layout: home
           {% if post.layout == 'post' and x != 0 %}
             {% assign x = {{ x }} + 1 %}
             <div class="item">
-                <img style="max-height:425px;" src="{{ post.img }}" alt="Image not found!">
+                <img style="min-height:200px;max-height:425px;" src="{{ post.img }}" alt="Image not found!">
                 <div class="carousel-caption" style="padding-bottom: 0px;">
                     <h3>{{ post.title }}</h3>
                     <p>{{ post.description }}</p>
