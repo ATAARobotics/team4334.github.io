@@ -2,7 +2,7 @@
 layout: first
 ---
 
-<a href="http://www.usfirst.org/"><img src="/img/FIRST-full.png" alt="FIRST" width="100%"></a>
+<a href="http://www.usfirst.org/"><img src="/img/FIRST-letters.png" alt="FIRST" width="100%"></a>
 
 # Mission
 
