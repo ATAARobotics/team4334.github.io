@@ -4,6 +4,10 @@ layout: first
 
 <a href="http://www.usfirst.org/"><img src="/img/FIRST-letters.png" alt="FIRST" width="100%"></a>
 
+<center>
+<b>For Inspiration and Recognition of Science and Technology</b>
+</center>
+
 # Mission
 
 FIRST's mission is to inspire young people to be science and technology leaders, by engaging them in exciting mentor-based programs that build science, engineering and technology skills, that inspire innovation, and that foster well-rounded life capabilities including self-confidence, communication, and leadership.
