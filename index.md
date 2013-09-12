@@ -42,9 +42,7 @@ layout: home
     </a>
 </div>
 
-<center><img src="/img/logo.png" height="100px" style="padding-top:15px;">
-
-<h1>Team 4334 - Alberta Tech Alliance</h1></center>
+<center><h1>Team 4334 - Alberta Tech Alliance</h1></center>
 
 <div class="row">
     <div class="col-md-8">
