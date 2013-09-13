@@ -166,3 +166,25 @@ Basic information about our team:
         </td>
     </tr>
 </table>
+
+<table>
+	<tr>
+		<td>
+			<img style="height:400px;width:300px;" src="/members/britton-baylis-giuffre.png" alt="Alex Vu" class="img-rounded">
+		</td>
+
+	</tr>
+	<tr>
+		<td>
+			<h3>Britton Baylis Guiffre</h3>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<ul class="list-unstyled">
+				<li>One  Year Experiance
+				<li>Fabrication Member
+			</ul>
+		</td>
+	</tr>
+</table>
