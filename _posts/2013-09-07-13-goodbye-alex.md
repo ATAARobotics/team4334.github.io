@@ -11,9 +11,7 @@ Alex is the reason that this team exists. He came from Bishop Grandin's team, a 
 
 ATA will always keep Alex's passion for robotics, and will try to honour the legacy he created.
 
-    I sincerely hope to do half as well as Alex did in his two short years on Team 4334. We hope to push success in the following years.
-
-        Joel Gallant
-        New Team Leader
+"I sincerely hope to do half as well as Alex did in his two short years on Team 4334. We hope to push success in the following years."
+-Joel Gallant, New Team Leader
 
 Thank you Alex, for everything you did for us!
