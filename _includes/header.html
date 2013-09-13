@@ -14,15 +14,11 @@
         <link href="/css/bootstrap.min.css" rel="stylesheet">
         <style>
             html, body {
-                height:100%;
                 background-color: #F5F5F5;
             }
             .navbar-wrapper {
                 margin-top: 10px;
                 margin-bottom: -10px;
-            }
-            .navbar-wrapper .navbar {
-                border-radius: 6px;
             }
             .carousel-caption {
                 text-shadow: 2.5px 2px 2px black;
@@ -45,6 +41,29 @@
             .navbar-default .navbar-nav > .disabled > a:focus {
                 background-color: transparent !important;
             }
+            .footer {
+                background-color: #383838;
+                position: absolute;
+                margin-bottom: 0px;
+                width: 100%;
+                min-height: 50px;
+            }
+            .footer span {
+                color: #bfbfbf;
+            }
+            .footer .inner {
+                margin-top: 17px;
+                position: absolute;
+                width: 100%;
+            }
+            .footer .left {
+                float: left;
+                padding-left: 2%;
+            }
+            .footer .right {
+                float: right;
+                padding-right: 2%;
+            }
         </style>
         <link href="/css/bootstrap-theme.min.css" rel="stylesheet">
         <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
@@ -56,7 +75,7 @@
     <body>
         <div class="navbar-wrapper">
             <div class="container">
-                <nav class="navbar navbar-default" role="navigation">
+                <nav class="navbar navbar-static-top navbar-default" role="navigation">
                     <div class="navbar-header">
                         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
                             <span class="sr-only">Toggle navigation</span>
@@ -66,7 +85,7 @@
                         </button>
                         <a class="navbar-brand" href="/"><img height="20px" src="/img/logo.png"></a>
                     </div>
-                    <div class="collapse navbar-collapse nav-collapse">
+                    <div class="collapse navbar-collapse">
                         <form action="http://google.com/cse" class="navbar-form navbar-left" role="search">
                             <input type="hidden" name="cx" value="008443684888986985988:bygwunlqra4"></input>
                             <div class="form-group">
