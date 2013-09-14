@@ -24,6 +24,10 @@ layout: default
         <h4 class="media-heading">Github</h4>
         Our organization on github for sharing code, CADs and other projects.
     </a>
+    <a class="list-group-item" href="/proposal">
+        <h4 class="media-heading">Proposal Form</h4>
+        Submit your project or plans to be executed.
+    </a>
     <a class="list-group-item" href="/contact">
         <h4 class="media-heading">Contact Us</h4>
         Message the team about membership.
