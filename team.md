@@ -184,6 +184,7 @@ Basic information about our team:
 			<ul class="list-unstyled">
 				<li>One  Year Experiance
 				<li>Fabrication Member
+				<li>CAD Member
 			</ul>
 		</td>
 	</tr>
