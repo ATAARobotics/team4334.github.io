@@ -176,7 +176,7 @@ Basic information about our team:
 	</tr>
 	<tr>
 		<td>
-			<h3>Britton Baylis Guiffre</h3>
+			<h3>Britton Baylis-Guiffre</h3>
 		</td>
 	</tr>
 	<tr>
