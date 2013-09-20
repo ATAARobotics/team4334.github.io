@@ -13,7 +13,11 @@
 
         <link href="/css/bootstrap.min.css" rel="stylesheet">
         <style>
+            * {
+                margin: 0;
+            }
             html, body {
+                height: 100%;
                 background-color: #F5F5F5;
                 padding: 0;
             }
@@ -44,6 +48,9 @@
             }
             .body {
                 min-height: 100%;
+                height: auto !important;
+                height: 100%;
+                margin: 0 auto -20px; /* the bottom margin is the negative value of the footer's height */
             }
             @media screen and (max-width: 550px) {
                 footer {
