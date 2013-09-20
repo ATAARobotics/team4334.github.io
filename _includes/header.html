@@ -22,7 +22,7 @@
                 padding: 0;
             }
             .navbar-wrapper {
-                margin-top: 10px;
+                padding-top: 10px;
                 margin-bottom: -10px;
             }
             .carousel-caption {
@@ -47,24 +47,23 @@
                 background-color: transparent !important;
             }
             .body {
-                min-height: 100%;
-                height: auto !important;
-                height: 100%;
-                margin: 0 auto -20px; /* the bottom margin is the negative value of the footer's height */
+                /* Firefox */
+                min-height: -moz-calc(100% - 50px);
+                /* WebKit */
+                min-height: -webkit-calc(100% - 50px);
+                /* Opera */
+                min-height: -o-calc(100% - 50px);
+                /* Standard */
+                min-height: calc(100% - 50px);
+                padding-bottom: 30px;
             }
             @media screen and (max-width: 550px) {
                 footer {
                     display: none; 
                 }
             }
-            footer {
-                bottom: 0;
-                padding-top: 30px;
-            }
             .footer {
                 background-color: #383838;
-                position: absolute;
-                margin-bottom: 0px;
                 width: 100%;
                 min-height: 50px;
             }
@@ -93,46 +92,47 @@
     </head>
     
     <body>
-        <div class="navbar-wrapper">
-            <div class="container">
-                <nav class="navbar navbar-static-top navbar-default" role="navigation">
-                    <div class="navbar-header">
-                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
-                        <a class="navbar-brand" href="/"><img height="20px" src="/img/logo.png"></a>
-                    </div>
-                    <div class="collapse nav-collapse navbar-collapse">
-                        <form action="http://google.com/cse" class="navbar-form navbar-left" role="search">
-                            <input type="hidden" name="cx" value="008443684888986985988:bygwunlqra4"></input>
-                            <div class="form-group">
-                                <input type="text" name="q" class="form-control" placeholder="Search"></input>
-                            </div>
-                            <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
-                        </form>            
-           
-                    <ul class="nav navbar-nav navbar-right">
-                        <li class="{% if page.url contains 'first' %}active{% endif %}"><a href="/first"><i>FIRST</i></a></li>
-                        <li class="{% if page.url contains 'team' %}active{% endif %}"><a href="/team">Team</a></li>
-                        <li class="{% if page.url contains 'history' %}active{% endif %}"><a href="/history">History</a></li>
-                        <li class="dropdown">
-                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">Media<b class="caret"></b></a>
-                            <ul class="dropdown-menu">
-                                <li class="{% if page.url contains 'photos' %}active{% endif %}"><a href="/photos">Photos</a></li>
-                                <li class="{% if page.url contains 'videos' %}active{% endif %}"><a href="/videos">Videos</a></li>
-                                <li class="{% if page.url contains 'news' %}active{% endif %}"><a href="/news">In the News</a></li>
-                                <li class="{% if page.url contains 'chairmans' %}active{% endif %}"><a href="/chairmans">Chairman's Award</a></li>
-                            </ul>
-                        <li class="{% if page.url contains 'sponsors' %}active{% endif %}"><a href="/sponsors">Sponsors</a></li>
-                        <li class="{% if page.url contains 'resources' %}active{% endif %}"><a href="/resources">Resources</a></li>
-                        <li class="{% if page.url contains 'members' %}active{% endif %}"><a href="/members">Members</a></li>
-                        <li class="{% if page.url contains 'contact' %}active{% endif %}"><a href="/contact">Contact</a></li>
-                    </div>
-                </nav>
+        <div class="body">
+            <div class="navbar-wrapper">
+                <div class="container">
+                    <nav class="navbar navbar-static-top navbar-default" role="navigation">
+                        <div class="navbar-header">
+                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
+                                <span class="sr-only">Toggle navigation</span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                                <span class="icon-bar"></span>
+                            </button>
+                            <a class="navbar-brand" href="/"><img height="20px" src="/img/logo.png"></a>
+                        </div>
+                        <div class="collapse nav-collapse navbar-collapse">
+                            <form action="http://google.com/cse" class="navbar-form navbar-left" role="search">
+                                <input type="hidden" name="cx" value="008443684888986985988:bygwunlqra4"></input>
+                                <div class="form-group">
+                                    <input type="text" name="q" class="form-control" placeholder="Search"></input>
+                                </div>
+                                <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
+                            </form>            
+               
+                        <ul class="nav navbar-nav navbar-right">
+                            <li class="{% if page.url contains 'first' %}active{% endif %}"><a href="/first"><i>FIRST</i></a></li>
+                            <li class="{% if page.url contains 'team' %}active{% endif %}"><a href="/team">Team</a></li>
+                            <li class="{% if page.url contains 'history' %}active{% endif %}"><a href="/history">History</a></li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Media<b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li class="{% if page.url contains 'photos' %}active{% endif %}"><a href="/photos">Photos</a></li>
+                                    <li class="{% if page.url contains 'videos' %}active{% endif %}"><a href="/videos">Videos</a></li>
+                                    <li class="{% if page.url contains 'news' %}active{% endif %}"><a href="/news">In the News</a></li>
+                                    <li class="{% if page.url contains 'chairmans' %}active{% endif %}"><a href="/chairmans">Chairman's Award</a></li>
+                                </ul>
+                            <li class="{% if page.url contains 'sponsors' %}active{% endif %}"><a href="/sponsors">Sponsors</a></li>
+                            <li class="{% if page.url contains 'resources' %}active{% endif %}"><a href="/resources">Resources</a></li>
+                            <li class="{% if page.url contains 'members' %}active{% endif %}"><a href="/members">Members</a></li>
+                            <li class="{% if page.url contains 'contact' %}active{% endif %}"><a href="/contact">Contact</a></li>
+                        </div>
+                    </nav>
+                </div>
             </div>
-        </div>
 
-        <div class="container body">
+            <div class="container">
