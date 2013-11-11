@@ -46,7 +46,7 @@ layout: home
 
 <div class="row">
     <div class="col-md-8">
-        <p>We are 4334, an FRC robotics team based in Calgary, Alberta, Canada. We strive to actively improve ourselves and others spreading FIRST Robotics ideals and values both in and out of competition. With a team compliment of determined, committed and skilled members, we each work year round to promote personal and general improvement within our team and others. We strongly believe that competition and a consistant "try-again" attitude is what leads to innovation and further understanding.
+        <p>We are 4334, a FRC robotics team based in Calgary, Alberta, Canada. We strive to actively improve ourselves and others spreading FIRST Robotics ideals and values both in and out of competition. With a team compliment of determined, committed and skilled members, we each work year round to promote personal and general improvement within our team and others. We strongly believe that competition and a consistant "try-again" attitude is what leads to innovation and further understanding.
         <p>Each of our members is encouraged to challenge themselves to their fullest potential. We do not settle for what seems possible. We work harder, push ourselves farther and achieve what some would consider impossible. 
         <div class="list-group">
             <a class="list-group-item" href="/first">
