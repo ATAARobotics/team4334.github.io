@@ -4,4 +4,4 @@ description: Team 4334 volunteering with the Salvation Army Toy Distribution to 
 img: /albums/ToyDistro/thumbs/DSC07117.JPG
 layout: post
 ---
-This weekend member of Team 4334 helped the Salvation Army with it's annual Toy Distribution. The charity, which gives Christmas gifts to families in need was happy to have Alberta Tech Alliance help. The team helped by sorting gifts, making stocking stuffers and doing a  variety of other tasks. 
+This weekend member of Team 4334 helped the Salvation Army with it's annual Toy Distribution. The charity, which gives Christmas gifts to families in need was happy to have Alberta Tech Alliance help. The team helped by sorting gifts, making stocking stuffers and doing a  variety of other tasks. The rest of the photos form the event can be found [here](/2013/11/23/salvation-army/).
