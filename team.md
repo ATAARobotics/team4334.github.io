@@ -88,29 +88,30 @@ Basic information about our team:
                 <li>Two Years Experience
                 <li>Team Leader
                 <li>Programming Leader
-                <li>Strategy co-head
-                <li>Scouting co-head
+                <li>Strategy Leader
+                <li>Scouting Leader
+                <li>Competition Preperations Leader
+                <li>PR Member
+                <li>Awards Member
+            </ul>
+        </td>
+        <td>
+            <ul class="list-unstyled">
+                <li>Two Years Experience
+                <li>Leadership
                 <li>Drive Coach
+                <li>Assembly Leader
+                <li>CAD Member
+                <li>Competition Preperations Member
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Two Years Experience
-                <li>Team Co-Captain
                 <li>Drive Team
-                <li>Fabrication co-head
-                <li>Strategy co-head
-                <li>Design co-head
-            </ul>
-        </td>
-        <td>
-            <ul class="list-unstyled">
-                <li>Two Years Experience
-                <li>Team Co-Captain
-                <li>Drive Team
-                <li>Fabrication co-head
-                <li>Strategy co-head
-                <li>Design co-head
+                <li>Fabrication Leader
+                <li>CAD Leader
+                <li>Competition Preperations Member
             </ul>
         </td>
     </tr>
@@ -145,23 +146,25 @@ Basic information about our team:
         <td>
             <ul class="list-unstyled">
                 <li>One Year Experience
-                <li>Fabrication Member
+                <li>Team Leader Shadow
                 <li>CAD Member
+                <li>Fabrication Member
+                <li>Assembly Member
+                <li>Competition Preperations Member
             </ul>
         </td>
 		<td>
             <ul class="list-unstyled">
                 <li>Two Years Experience
-                <li>PR Team Head
-                <li>Scouting Head
-                <li>Programmer
+                <li>Awards Leader
+                <li>PR Member
+                <li>Programming Member
             </ul>
         </td>
 		<td>
             <ul class="list-unstyled">
                 <li>Two Years Experience
-                <li>Electrical Head
-                <li>CAD Head
+                <li>Electronics Leader
             </ul>
         </td>
     </tr>
@@ -170,9 +173,8 @@ Basic information about our team:
 <table>
 	<tr>
 		<td>
-			<img style="height:400px;width:300px;" src="/members/britton-baylis-giuffre.png" alt="Alex Vu" class="img-rounded">
+			<img style="height:400px;width:300px;" src="/members/britton-baylis-giuffre.png" alt="Britton Baylis-Guiffre" class="img-rounded">
 		</td>
-
 	</tr>
 	<tr>
 		<td>
@@ -182,9 +184,9 @@ Basic information about our team:
 	<tr>
 		<td>
 			<ul class="list-unstyled">
-				<li>One  Year Experiance
+				<li>One Year Experiance
 				<li>Fabrication Member
-				<li>CAD Member
+				<li>Assembly Member
 			</ul>
 		</td>
 	</tr>
