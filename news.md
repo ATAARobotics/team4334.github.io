@@ -3,6 +3,8 @@ title: ATA in the News
 layout: default
 ---
 
+[Robot wars descends on Calgary](http://globalnews.ca/video/1253124/robot-wars-descends-on-calgary)
+
 [Calgary student robotics team wins best national rookie award](http://www.cbc.ca/news/canada/calgary/story/2012/03/13/calgary-tech-robots-tournament-students.html)
 
 [Robotics competition to challenge students in Calgary](http://metronews.ca/news/calgary/496528/robotics-compeition-to-challenge-students-in-calgary/)
