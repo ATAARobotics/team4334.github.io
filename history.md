@@ -9,9 +9,9 @@ In St. Louis, the humble beginnings soon began big dreams. After a struggle in q
 
 Briefly after this run, ATA went on to win what is commonly known as the hardest competition, IRI, with 1114 and 2826.
 
-The 2013 and 2014 seasons brought some success. We won the FIRST Western Canadian regional in both years. In 2013, at Championships, the team made it quarterfinals in Gallileo division.
+The 2013 and 2014 seasons brought some success. We won the FIRST Western Canadian regional in both years. At the 2013 Championships, the team made it quarterfinals in Gallileo division.
 
-In 2014, the team won the Chairman's Award.
+In 2014, the team won the Regional Chairman's Award for Western Canada.
 
 # Robots
 
@@ -61,6 +61,22 @@ In 2014, the team won the Chairman's Award.
             <th>Awards</th>
         </tr>
         <tr>
+            <td><a href="http://www.thebluealliance.com/team/4334/2014">2014</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2014abca">Western Canadian Regional</a></td>
+            <td>
+                Regional Chairman's Award
+                <br>
+                Regional Winner
+            </td>
+        </tr>
+        <tr>
+            <td><a href="http://www.thebluealliance.com/team/4334/2014">2014</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2014utwv">Utah Regional</a></td>
+            <td>
+                Judge's Award
+            </td>
+        </tr>
+        <tr>
             <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
             <td><a href="http://www.thebluealliance.com/event/2013iri">Indiana Robotics Invitational</a></td>
             <td></td>
@@ -72,7 +88,7 @@ In 2014, the team won the Chairman's Award.
         </tr>
         <tr>
             <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
-            <td><a href="http://www.thebluealliance.com/event/2013abca">Western Canadian FRC Regional</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2013abca">Western Canadian Regional</a></td>
             <td>
                 Woodie Flowers Finalist Award (Craig Maynard)
                 <br>
