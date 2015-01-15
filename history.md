@@ -22,6 +22,13 @@ In 2014, the team won the Chairman's Award.
     </ol>
     <div class="carousel-inner">
         <div class="item active">
+            <img style="max-height:650px;" src="/albums/RobotReveal2014/main.jpg" alt="Image not found!">
+            <div class="carousel-caption">
+                <h3>2014 - Momentum</h3>
+                <p>Momentum is a highly agile robot with the primary goal of finishing and imbounding.</p>
+            </div>
+        </div>
+        <div class="item">
 			<a href="/img/ATA-promo.jpg"><img style="max-height:650px;" src="/img/2013-robot.jpg" alt="Image not found!"></a>
             <div class="carousel-caption">
                 <h3>2013 - Murdock</h3>
