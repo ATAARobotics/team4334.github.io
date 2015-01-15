@@ -9,7 +9,7 @@ In St. Louis, the humble beginnings soon began big dreams. After a struggle in q
 
 Briefly after this run, ATA went on to win what is commonly known as the hardest competition, IRI, with 1114 and 2826.
 
-The 2013 and 2014 seasons brought some success. We won the FIRST Western Canadian regional in both years. At the 2013 Championships, the team made it quarterfinals in Gallileo division.
+The 2013 and 2014 seasons brought some success. ATA won the FIRST Western Canadian regional in both years. At the 2013 Championships, the team made it quarterfinals in Gallileo division.
 
 In 2014, the team won the Regional Chairman's Award for Western Canada.
 
