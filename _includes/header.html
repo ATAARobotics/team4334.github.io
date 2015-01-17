@@ -118,6 +118,7 @@
                         <ul class="nav navbar-nav navbar-right">
                             <li class="{% if page.url contains 'first' %}active{% endif %}"><a href="/first"><i>FIRST</i></a></li>
                             <li class="{% if page.url contains 'team' %}active{% endif %}"><a href="/team">Team</a></li>
+                            <li class="{% if page.url contains 'archive' %}active{% endif %}"><a href="/archive">Blog</a></li>
                             <li class="{% if page.url contains 'history' %}active{% endif %}"><a href="/history">History</a></li>
                             <li class="dropdown">
                                 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Media<b class="caret"></b></a>
@@ -126,12 +127,10 @@
                                     <li class="{% if page.url contains 'videos' %}active{% endif %}"><a href="/videos">Videos</a></li>
                                     <li class="{% if page.url contains 'news' %}active{% endif %}"><a href="/news">In the News</a></li>
                                     <li class="{% if page.url contains 'chairmans' %}active{% endif %}"><a href="/chairmans/2014">Chairman's Award</a></li>
- 				    <li class="{% if page.url contains 'archive' %}active{% endif %}"><a href="/archive">Post Archive</a></li>
                                 </ul>
                             <li class="{% if page.url contains 'sponsors' %}active{% endif %}"><a href="/sponsors">Sponsors</a></li>
-                            <li class="{% if page.url contains 'resources' %}active{% endif %}"><a href="/resources">Resources</a></li>
-                            <li class="{% if page.url contains 'members' %}active{% endif %}"><a href="/members">Members</a></li>
-                            <li class="{% if page.url contains 'contact' %}active{% endif %}"><a href="/contact">Contact</a></li>
+                            <li class="{% if page.url contains 'resources' %}active{% endif %}"><a href="/resources">Projects</a></li>
+                            <li class="{% if page.url contains 'members' %}active{% endif %}"><a href="/members">Contact</a></li>
                         </div>
                     </nav>
                 </div>
