@@ -23,7 +23,7 @@ Our sponsors are an essential piece of success. They provide the capacity that a
     </a>
 </div>
 
-### 2014 Sponsors
+### 2015 Season Sponsors
 <div id="carousel-4" class="carousel slide">
     <div class="carousel-inner">
         <div class="item active">
@@ -50,6 +50,12 @@ Our sponsors are an essential piece of success. They provide the capacity that a
         <div class="item">
             <a href="http://www.jtgraphix.ca/"><img style="height:250px;" src="/img/2014JT_Graphix_Logo.png" alt="JT Graphix"></a>
         </div>
+        <div class="item">
+            <a href="http://avmaxgroup.com/"><img style="height:250px;" src="/img/2014Avmax.png" alt="Avmax"></a>
+        </div>
+        <div class="item">
+            <a href="http://www.laserequation.com/"><img style="height:250px;" src="/img/2014LaserEquation.png" alt="Laser Equation"></a>
+        </div>
     </div>
     <a class="left carousel-control" href="#carousel-4" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left"></span>
@@ -60,7 +66,7 @@ Our sponsors are an essential piece of success. They provide the capacity that a
 </div>
 
 
-### 2013 Sponsors
+### 2014 Season Sponsors
 <div id="carousel-3" class="carousel slide">
     <div class="carousel-inner">
         <div class="item active">
@@ -84,7 +90,7 @@ Our sponsors are an essential piece of success. They provide the capacity that a
     </a>
 </div>
 
-### 2012 Sponsors
+### 2013 Season Sponsors
 <div id="carousel-2" class="carousel slide">
     <div class="carousel-inner">
         <div class="item active">
