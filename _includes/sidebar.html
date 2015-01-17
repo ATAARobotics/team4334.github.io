@@ -1,7 +1,7 @@
 <div class="well well-lg" style="background-color:#D8D6D6;background-image:none;">
     <h3>Recent Blog Posts </h3>
     <ul>
-    {% for post in site.posts limit: 5 %}
+    {% for post in site.posts limit: 10 %}
         {% if post.layout == 'post' %}
         <li><a href="{{ post.url }}">{{ post.title }}</a></li>
         {% endif %}

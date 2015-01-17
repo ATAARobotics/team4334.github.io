@@ -67,7 +67,7 @@ layout: home
             </a>
             <a class="list-group-item" href="/sponsors">
                 <h4 class="media-heading">Sponsors</h4>
-                Our sponsors provide us the opportunity to learn, improve and become better people.
+                Our sponsors provide us the opportunity to learn, improve and become a better team.
             </a>
             <a class="list-group-item" href="/photos">
                 <h4 class="media-heading">Photos</h4>
