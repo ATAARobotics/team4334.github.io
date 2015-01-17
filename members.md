@@ -40,7 +40,7 @@ layout: default
         Our schedule for every meeting, workshop, event and timeline.
     </a>
     <a class="list-group-item" href="https://www.facebook.com/groups/162919983808277/">
-        <h4 class="media-heading">Facebook</h4>
+        <h4 class="media-heading">Facebook Group</h4>
         Our private facebook group (contact Joel for invite)
     </a>
     <a class="list-group-item" href="https://drive.google.com/folderview?id=0B8oF1GHzyAwHNUNKckRWRFhxcnc&usp=sharing">

@@ -61,6 +61,10 @@ layout: home
                 <h4 class="media-heading">History</h4>
                 We have a history of success on and off the field. Our reputation is very important to us, and we push ourselves every year.
             </a>
+            <a class="list-group-item" href="/archive">
+                <h4 class="media-heading">Our Blog</h4>
+                Keeping you up to date with our most recent events.
+            </a>
             <a class="list-group-item" href="/sponsors">
                 <h4 class="media-heading">Sponsors</h4>
                 Our sponsors provide us the opportunity to learn, improve and become better people.
