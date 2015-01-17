@@ -47,6 +47,9 @@ Our sponsors are an essential piece of success. They provide the capacity that a
         <div class="item">
             <a href="http://www.isacalgary.ca/"><img style="height:250px;" src="/img/2014ISA_Calgary2Col_EPS.png" alt="ISA Calgary Section"></a>
         </div>
+        <div class="item">
+            <a href="http://www.jtgraphix.ca/"><img style="height:250px;" src="/img/2014JT_Graphix_Logo.png" alt="JT Graphix"></a>
+        </div>
     </div>
     <a class="left carousel-control" href="#carousel-4" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left"></span>
