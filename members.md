@@ -18,6 +18,10 @@ layout: default
         <h4 class="media-heading">Twitter</h4>
         Follow us on Twitter.
     </a>
+    <a class="list-group-item" href="https://www.youtube.com/user/Team4334ATA">
+        <h4 class="media-heading">YouTube</h4>
+        Subscribe to our YouTube channel.
+    </a>
     <a class="list-group-item" href="http://www.thebluealliance.com/team/4334">
         <h4 class="media-heading">The Blue Alliance</h4>
         Our page on The Blue Alliance.

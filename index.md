@@ -65,10 +65,6 @@ layout: home
                 <h4 class="media-heading">Our Blog</h4>
                 Keeping you up to date with our most recent events.
             </a>
-            <a class="list-group-item" href="/sponsors">
-                <h4 class="media-heading">Sponsors</h4>
-                Our sponsors provide us the opportunity to learn, improve and become a better team.
-            </a>
             <a class="list-group-item" href="/photos">
                 <h4 class="media-heading">Photos</h4>
                 Find photos of the team and our activities.
@@ -76,10 +72,6 @@ layout: home
             <a class="list-group-item" href="/videos">
                 <h4 class="media-heading">Videos</h4>
                 Our archive of uploaded videos.
-            </a>
-            <a class="list-group-item" href="/news">
-                <h4 class="media-heading">In the News</h4>
-                Find our team in local media.
             </a>
         </div>
     </div>
