@@ -59,67 +59,63 @@ Basic information about our team:
 
 # Members
 
-<li class="dropdown">
-    <a href="#" class="dropdown-toggle" data-toggle="dropdown">Members<b class="caret"></b></a>
-        <ul class="dropdown-menu">
-            <table>
-                <tr>
-                    <td>
-                        <img style="height:400px;width:300px;" src="/members/joel-gallant.jpeg" alt="Joel Gallant" class="img-rounded">
-                    </td>
-                    <td>
-                        <img style="height:400px;width:300px;" src="/members/chris-lemmon.png" alt="Chris Lemmon" class="img-rounded">
-                    </td>
-                    <td>
-                        <img style="height:400px;width:300px;" src="/members/mac-hunik.jpg" alt="Mac Hunik" class="img-rounded">
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <h3>Joel Gallant</h3>
-                    </td>
-                    <td>
-                        <h3>Chris Lemmon</h3>
-                    </td>
-                    <td>
-                        <h3>Mac Hunik</h3>
-                    </td>
-                </tr>
-                <tr>
-                    <td>
-                        <ul class="list-unstyled">
-                            <li>Two Years Experience
-                            <li>Team Leader
-                            <li>Programming Leader
-                            <li>Strategy Leader
-                            <li>Scouting Leader
-                            <li>Competition Preperations Leader
-                            <li>PR Member
-                            <li>Awards Member
-                        </ul>
-                    </td>
-                    <td>
-                        <ul class="list-unstyled">
-                            <li>Two Years Experience
-                            <li>Leadership
-                            <li>Drive Coach
-                            <li>Assembly Leader
-                            <li>CAD Member
-                            <li>Competition Preperations Member
-                        </ul>
-                    </td>
-                    <td>
-                        <ul class="list-unstyled">
-                            <li>Two Years Experience
-                            <li>Drive Team
-                            <li>Fabrication Leader
-                            <li>CAD Leader
-                            <li>Competition Preperations Member
-                        </ul>
-                    </td>
-                </tr>
-            </table>
-        </ul>
+<table>
+    <tr>
+        <td>
+            <img style="height:400px;width:300px;" src="/members/joel-gallant.jpeg" alt="Joel Gallant" class="img-rounded">
+        </td>
+        <td>
+            <img style="height:400px;width:300px;" src="/members/chris-lemmon.png" alt="Chris Lemmon" class="img-rounded">
+        </td>
+        <td>
+            <img style="height:400px;width:300px;" src="/members/mac-hunik.jpg" alt="Mac Hunik" class="img-rounded">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Joel Gallant</h3>
+        </td>
+        <td>
+            <h3>Chris Lemmon</h3>
+        </td>
+        <td>
+            <h3>Mac Hunik</h3>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <ul class="list-unstyled">
+                <li>Two Years Experience
+                <li>Team Leader
+                <li>Programming Leader
+                <li>Strategy Leader
+                <li>Scouting Leader
+                <li>Competition Preperations Leader
+                <li>PR Member
+                <li>Awards Member
+            </ul>
+        </td>
+        <td>
+            <ul class="list-unstyled">
+                <li>Two Years Experience
+                <li>Leadership
+                <li>Drive Coach
+                <li>Assembly Leader
+                <li>CAD Member
+                <li>Competition Preperations Member
+            </ul>
+        </td>
+        <td>
+            <ul class="list-unstyled">
+                <li>Two Years Experience
+                <li>Drive Team
+                <li>Fabrication Leader
+                <li>CAD Leader
+                <li>Competition Preperations Member
+            </ul>
+        </td>
+    </tr>
+</table>
 
 <table>
     <tr>
