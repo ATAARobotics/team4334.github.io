@@ -57,4 +57,4 @@ layout: default
     </a>
 </div>
 
-For all additional requests, email [Joel](mailto:joel@4334.ca).
+For all additional requests, email [Alex](mailto:alex@4334.ca).

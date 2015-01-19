@@ -33,9 +33,16 @@ Basic information about our team:
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1" class="active"></li>
+        <li data-target="#carousel" data-slide-to="2" class="active"></li>
     </ol>
     <div class="carousel-inner">
         <div class="item active">
+            <img src="/img/2014-team.png" alt="Image not found!">
+            <div class="carousel-caption">
+                <h3>2014</h3>
+            </div>
+        </div>
+        <div class="item">
             <img src="/img/2013-team.jpg" alt="Image not found!">
             <div class="carousel-caption">
                 <h3>2013</h3>
