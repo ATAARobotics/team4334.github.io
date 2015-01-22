@@ -62,8 +62,3 @@ Basic information about our team:
         <span class="glyphicon glyphicon-chevron-right"></span>
     </a>
 </div>
-
-
-## Members
-
-The 'Members' section is under construction.
