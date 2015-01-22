@@ -5,12 +5,12 @@
         <div class="col-md-2">
             <ul class="nav nav-pills nav-stacked">
                 <li class="{% if page.url == '/team/' %}active{% endif %}"><a href="/team/"><i>Team</i></a>
-                <li class="{% if page.url contains 'mentors' %}active{% endif %}"><a href="/team/Mentors">Mentors</a>
-                <li class="{% if page.url contains 'current_members' %}active{% endif %}"><a href="/team/Current Members">Current Members</a>
-                <li class="{% if page.url contains 'alumni' %}active{% endif %}"><a href="/team/Alumni">Alumni</a>
+                <li class="{% if page.url contains 'mentors' %}active{% endif %}"><a href="/team/mentors">Mentors</a>
+                <li class="{% if page.url contains 'current_members' %}active{% endif %}"><a href="/team/current_members">Current Members</a>
+                <li class="{% if page.url contains 'alumni' %}active{% endif %}"><a href="/team/alumni">Alumni</a>
             </ul>
         </div>
-        <div class="col-md-7">
+        <div class="col-md-6">
             <center><h1>{{ page.title }}</h1></center>
             {{ content }}
         </div>
