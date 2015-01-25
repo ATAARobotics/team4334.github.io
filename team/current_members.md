@@ -37,6 +37,7 @@ layout: team
                 <li>PR Member
                 <li>Awards Member
                 <li>Rookie Year: 2013
+                <li><a href="https://github.com/Vupa"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
         <td>
@@ -84,6 +85,7 @@ layout: team
             <ul class="list-unstyled">
                 <li>Programming Leader
                 <li>Rookie Year: 2013
+                <li><a href="https://github.com/Relkofizz"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
         <td>
@@ -273,6 +275,7 @@ layout: team
             <ul class="list-unstyled">
                 <li>Programming Member
                 <li>Rookie Year: 2015
+                <li><a href="https://github.com/Jayden-C"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
         <td>
@@ -424,6 +427,7 @@ layout: team
             <ul class="list-unstyled">
                 <li>Programming Member
                 <li>Rookie Year: 2015
+                <li><a href="https://github.com/jonbla"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
     </tr>
@@ -458,7 +462,7 @@ layout: team
                 <li>Programming Member
                 <li>Awards Member
                 <li>Rookie Year: 2015
-                <li><a href="https://twitter.com/Team4334"><img src="/img/twitter.png" height="20px" title="Twitter"></a>
+                <li><a href="https://twitter.com/Sav01027"><img src="/img/twitter.png" height="20px" title="Twitter"></a><a href="https://github.com/SavSidorov"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
         <td>
