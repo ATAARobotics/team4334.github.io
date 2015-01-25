@@ -6,7 +6,7 @@ layout: team
 <table>
     <tr>
         <td>
-            <img style="height:400px;width:300px;" src="/members/mac-hunik.jpg" alt="Mac Hunik" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/machunik.png" alt="Mac Hunik" class="img-rounded">
         </td>
         <td>
             <img style="height:400px;width:300px;" src="/members/clayton-mcneil.jpg" alt="Clayton McNeil" class="img-rounded">
