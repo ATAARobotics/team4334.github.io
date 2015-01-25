@@ -6,7 +6,7 @@ layout: team
 <table>
     <tr>
         <td>
-            <img style="height:400px;width:300px;" src="/members/alexvu2.png" alt="Alex Vu" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/alex-vu.jpg" alt="Alex Vu" class="img-rounded">
         </td>
         <td>
             <img style="height:400px;width:300px;" src="/members/aaronbailey.png" alt="Aaron Bailey" class="img-rounded">
