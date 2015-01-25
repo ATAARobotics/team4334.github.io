@@ -458,6 +458,7 @@ layout: team
                 <li>Programming Member
                 <li>Awards Member
                 <li>Rookie Year: 2015
+                <li><a href="https://twitter.com/Team4334"><img src="/img/twitter.png" height="20px" title="Twitter"></a>
             </ul>
         </td>
         <td>
