@@ -38,7 +38,12 @@ layout: team
             <ul class="list-unstyled">
                 <li>Two Years Experience
                 <li>Former Team Leader
+                <li>Former Programming Leader
+                <li>Former Strategy Leader
+                <li>Former Scouting Leader
+                <li>Former Competition Preperations Leader
                 <li>Years on Team: 2012-2014
+                <li><a href="https://github.com/joelg236"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
         <td>
@@ -85,7 +90,9 @@ layout: team
         <td>
             <ul class="list-unstyled">
                 <li>Former Awards Leader
+                <li>Former Programming Co-leader
                 <li>Years on Team: 2012-2014
+                <li><a href="https://github.com/hiyou102"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
         <td>
