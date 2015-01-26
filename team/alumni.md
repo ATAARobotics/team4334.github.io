@@ -33,13 +33,11 @@ layout: team
                 <li>Former Team Leader
                 <li>Former Programming Leader
                 <li>Former Strategy Leader
-                <li>Former Scouting Leader
                 <li>Former Competition Preperations Leader
                 <li>Former CAD Leader
                 <li>Former Assembly Leader
                 <li>Former Electronics Leader
                 <li>Former Awards Leader
-                <li>Former PR Leader
                 <li>Years on Team: 2012-2013
             </ul>
         </td>

@@ -63,6 +63,11 @@ In 2014, the team won the Regional Chairman's Award for Western Canada.
         </tr>
         <tr>
             <td><a href="http://www.thebluealliance.com/team/4334/2014">2014</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2014cur">Curie Division</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="http://www.thebluealliance.com/team/4334/2014">2014</a></td>
             <td><a href="http://www.thebluealliance.com/event/2014abca">Western Canadian Regional</a></td>
             <td>
                 Regional Chairman's Award
