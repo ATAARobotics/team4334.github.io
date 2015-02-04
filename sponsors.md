@@ -56,6 +56,12 @@ Our sponsors are an essential piece of success. They provide the capacity that a
         <div class="item">
             <a href="http://www.laserequation.com/"><img style="height:250px;" src="/img/2014LaserEquation.png" alt="Laser Equation"></a>
         </div>
+        <div class="item">
+            <a href="http://www.laserequation.com/"><img style="height:250px;" src="/img/2014LaserEquation.png" alt="Laser Equation"></a>
+        </div>
+        <div class="item">
+            <a href="http://www.maximmanufacturing.ca/"><img style="height:250px;" src="/img/2014maxim.png" alt="Maxim Manufacturing"></a>
+        </div>
     </div>
     <a class="left carousel-control" href="#carousel-4" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left"></span>
@@ -80,6 +86,9 @@ Our sponsors are an essential piece of success. They provide the capacity that a
         </div>
         <div class="item">
             <a href="http://www.aaronmachineshop.com/"><img style="height:250px;" src="/img/aaronmachineshop.png" alt="Aaron Machine Shop"></a>
+        </div>
+        <div class="item">
+            <a href="http://www.maximmanufacturing.ca/"><img style="height:250px;" src="/img/2014maxim.png" alt="Maxim Manufacturing"></a>
         </div>
     </div>
     <a class="left carousel-control" href="#carousel-3" data-slide="prev">
