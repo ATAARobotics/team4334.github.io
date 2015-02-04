@@ -82,7 +82,7 @@ Our sponsors are an essential piece of success. They provide the capacity that a
             <a href="http://www.solidworks.com/pages/google_contact/contact.html?scid=ext_aw_Canada_SolidWorks_Brand_&keyword=solidworks&creative=50305421646&gclid=Cj0KEQiAuMOlBRDf6_izz93n-pEBEiQAsJCJWvKUGbN0Ii8K0y5WfXVn2TIIWh00X9RNGQnVim-ofLkaApn78P8HAQ"><img style="height:250px;" src="/img/2014SolidWorks_logo.png" alt="SolidWorks"></a>
         </div>
         <div class="item">
-            <a href="http://www.GitHub.com"><img style="height:250px;" src="/img/github-full.png" alt="GitHub"></a>
+            <a href="http://www.GitHub.com"><img style="height:250px;" src="/img/2014github_logo_social_coding_outlined.png" alt="GitHub"></a>
         </div>
         <div class="item">
             <a href="http://www.aeicm.com/"><img style="height:250px;" src="/img/2014august.png" alt="August Electronics"></a>

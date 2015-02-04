@@ -459,6 +459,7 @@ layout: team
     <tr>
         <td>
             <ul class="list-unstyled">
+                <li>Website Builder
                 <li>Programming Member
                 <li>Awards Member
                 <li>Rookie Year: 2015
