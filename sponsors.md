@@ -90,6 +90,12 @@ Our sponsors are an essential piece of success. They provide the capacity that a
         <div class="item">
             <a href="http://www.qsine.ca/"><img style="height:250px;" src="/img/2014QsineLogo.png" alt="QSINE"></a>
         </div>
+        <div class="item">
+            <a href="http://simplespaces.ca/"><img style="height:250px;" src="/img/simple-logo.png" alt="Simple Spaces"></a>
+        </div>
+        <div class="item">
+            <a href="http://www.timhortons.com/ca/en/index.php"><img style="height:250px;" src="/img/Tims.png" alt="Tim Hortons"></a>
+        </div>
     </div>
     <a class="left carousel-control" href="#carousel-4" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left"></span>
