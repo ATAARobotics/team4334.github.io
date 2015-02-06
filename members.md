@@ -34,7 +34,7 @@ layout: default
     </a>
     <a class="list-group-item" href="/contact">
         <h4 class="media-heading">Contact Us</h4>
-        Message the team about membership.
+        Send us a message.
     </a>
 </div>
 

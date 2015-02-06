@@ -38,7 +38,7 @@ layout: team
                 <li>Former Assembly Leader
                 <li>Former Electronics Leader
                 <li>Former Awards Leader
-                <li>Years on Team: 2012-2013
+                <li>Seasons: 2012-2013
             </ul>
         </td>
         <td>
@@ -48,7 +48,7 @@ layout: team
                 <li>Former Strategy Leader
                 <li>Former Scouting Leader
                 <li>Former Competition Preperations Leader
-                <li>Years on Team: 2012-2014
+                <li>Seasons: 2012-2014
                 <li><a href="https://github.com/joelg236"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
@@ -56,7 +56,7 @@ layout: team
             <ul class="list-unstyled">
                 <li>Former Fabrication Leader
                 <li>Former CAD Leader
-                <li>Years on Team: 2012-2014
+                <li>Seasons: 2012-2014
             </ul>
         </td>
     </tr>
@@ -90,21 +90,21 @@ layout: team
             <ul class="list-unstyled">
                 <li>Former Drive Coach
                 <li>Former Assembly Leader
-                <li>Years on Team: 2012-2014
+                <li>Seasons: 2012-2014
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Former Awards Leader
                 <li>Former Programming Co-leader
-                <li>Years on Team: 2012-2014
+                <li>Seasons: 2012-2014
                 <li><a href="https://github.com/hiyou102"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Former Electronics Leader
-                <li>Years on Team: 2012-2014
+                <li>Seasons: 2012-2014
             </ul>
         </td>
     </tr>
@@ -125,7 +125,7 @@ layout: team
 		<td>
 			<ul class="list-unstyled">
 				<li>Former Team Member
-				<li>Years on Team: 2013-2014
+				<li>Seasons: 2013-2014
 			</ul>
 		</td>
 	</tr>

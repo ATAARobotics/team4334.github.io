@@ -23,7 +23,7 @@ Basic information about our team:
     </tr>
     <tr>
         <td>Started in</td>
-        <td>2011-2012 Season</td>
+        <td>2012 Season</td>
     </tr>
 </table>
 

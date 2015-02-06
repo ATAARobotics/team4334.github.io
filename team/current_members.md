@@ -36,7 +36,7 @@ layout: team
                 <li>Scouting Member
                 <li>PR Member
                 <li>Awards Member
-                <li>Rookie Year: 2013
+                <li>Rookie Season: 2013
                 <li><a href="https://github.com/Vupa"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
@@ -44,14 +44,14 @@ layout: team
             <ul class="list-unstyled">
                 <li>Fabication Co-leader
                 <li>PR Co-leader
-                <li>Rookie Year: 2013
+                <li>Rookie Season: 2013
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Assembly Leader
                 <li>CAD Member
-                <li>Rookie Year: 2013
+                <li>Rookie Season: 2013
             </ul>
         </td>
     </tr>
@@ -84,7 +84,7 @@ layout: team
         <td>
             <ul class="list-unstyled">
                 <li>Programming Leader
-                <li>Rookie Year: 2013
+                <li>Rookie Season: 2013
                 <li><a href="https://github.com/Relkofizz"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
@@ -93,13 +93,13 @@ layout: team
                 <li>Electronics Leader
                 <li>Drive Team
                 <li>CAD Member
-                <li>Rookie Year: 2014
+                <li>Rookie Season: 2014
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Scouting Leader
-                <li>Rookie Year: 2014
+                <li>Rookie Season: 2014
             </ul>
         </td>
     </tr>
@@ -133,20 +133,20 @@ layout: team
             <ul class="list-unstyled">
                 <li>Awards Leader
                 <li>PR Co-leader
-                <li>Rookie Year: 2014
+                <li>Rookie Season: 2014
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Assembly Co-leader
                 <li>Fabrication Member
-                <li>Rookie Year: 2014
+                <li>Rookie Season: 2014
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>CAD Member
-                <li>Rookie Year: 2014
+                <li>Rookie Season: 2014
             </ul>
         </td>
     </tr>
@@ -179,7 +179,7 @@ layout: team
         <td>
             <ul class="list-unstyled">
                 <li>Fabrication Leader
-                <li>Rookie Year: 2014
+                <li>Rookie Season: 2014
             </ul>
         </td>
         <td>
@@ -187,14 +187,14 @@ layout: team
                 <li>CAD Member
                 <li>Awards Member
                 <li>Programming Member
-                <li>Rookie Year: 2014
+                <li>Rookie Season: 2014
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Fabrication Member
                 <li>Electronics Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
     </tr>
@@ -227,7 +227,7 @@ layout: team
         <td>
             <ul class="list-unstyled">
                 <li>CAD Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
         <td>
@@ -235,13 +235,14 @@ layout: team
                 <li>Programming Member
                 <li>Awards Member
                 <li>PR Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
+                <li><a href="https://github.com/ATAKieran"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>CAD Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
     </tr>
@@ -274,20 +275,20 @@ layout: team
         <td>
             <ul class="list-unstyled">
                 <li>Programming Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
                 <li><a href="https://github.com/Jayden-C"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>CAD Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Programming Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
     </tr>
@@ -320,19 +321,19 @@ layout: team
         <td>
             <ul class="list-unstyled">
                 <li>Electronics Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Fabrication Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>CAD Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
     </tr>
@@ -366,21 +367,21 @@ layout: team
             <ul class="list-unstyled">
                 <li>CAD Member
                 <li>Electronics Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Fabrication Member
                 <li>CAD Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Programming Member
                 <li>Electronics Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
     </tr>
@@ -414,19 +415,19 @@ layout: team
             <ul class="list-unstyled">
                 <li>Programming Member
                 <li>Electronics Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Electronics Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Programming Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
                 <li><a href="https://github.com/jonbla"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
@@ -462,20 +463,21 @@ layout: team
                 <li>Website Builder
                 <li>Programming Member
                 <li>Awards Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
                 <li><a href="https://twitter.com/Sav01027"><img src="/img/twitter.png" height="20px" title="Twitter"></a><a href="https://github.com/SavSidorov"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Programming Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
+                <li><a href="https://github.com/scarab1107"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Electronics Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
     </tr>
@@ -497,7 +499,7 @@ layout: team
             <ul class="list-unstyled">
                 <li>Elecronics Member
                 <li>CAD Member
-                <li>Rookie Year: 2015
+                <li>Rookie Season: 2015
             </ul>
         </td>
     </tr>
