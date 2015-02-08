@@ -416,6 +416,7 @@ layout: team
                 <li>Programming Member
                 <li>Electronics Member
                 <li>Rookie Season: 2015
+                <li><a href="https://github.com/pmsabater"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
         </td>
         <td>
