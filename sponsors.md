@@ -10,10 +10,10 @@ Our sponsors are an essential piece of success. They provide the capacity that a
 <table>
     <tr>
         <td>
-            <a href="http://www.sait.ca/"><img style="height:200px;width:150px;" src="/img/2014SAITlogo.png" alt="SAIT Polytechnic"></a>
+            <a href="http://www.sait.ca/"><img style="height:200px;width:100px;" src="/img/2014SAITlogo.png" alt="SAIT Polytechnic"></a>
         </td>
         <td>
-            <a href="http://www.cssd.ab.ca/bishopcarroll/"><img style="height:200px;width:400px;" src="/img/2014BCHS.png" alt="Bishop Carroll High School"></a>
+            <a href="http://www.cssd.ab.ca/bishopcarroll/"><img style="height:200px;width:100px;" src="/img/2014BCHS.png" alt="Bishop Carroll High School"></a>
         </td>
     </tr>
     <tr>
