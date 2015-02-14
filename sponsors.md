@@ -6,22 +6,24 @@ layout: default
 Our sponsors are an essential piece of success. They provide the capacity that allows us to thrive. We're always thankful for past and present sponsors.
 
 ### Founding Sponsors
-<div id="carousel-1" class="carousel slide">
-    <div class="carousel-inner">
-        <div class="item active">
-            <a href="http://www.sait.ca/"><img style="height:400px;" src="/img/2014SAITlogo.png" alt="SAIT Polytechnic"></a>
-        </div>
-        <div class="item">
-            <a href="http://www.cssd.ab.ca/bishopcarroll/"><img style="height:400px;" src="/img/2014BCHS.png" alt="Bishop Carroll High School"></a>
-        </div>
-    </div>
-    <a class="left carousel-control" href="#carousel-1" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left"></span>
-    </a>
-    <a class="right carousel-control" href="#carousel-1" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right"></span>
-    </a>
-</div>
+<table>
+    <tr>
+        <td>
+            <a href="http://www.sait.ca/"><img style="height:200px;width:350px;margin: 0 auto;" src="/img/2014SAITlogo.png" alt="SAIT Polytechnic"></a>
+        </td>
+        <td>
+            <a href="http://www.cssd.ab.ca/bishopcarroll/"><img style="height:200px;width:150px;margin: 0 auto;" src="/img/2014BCHS.png" alt="Bishop Carroll High School"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3 style="margin: 0 auto;">SAIT Polytechnic; </h3>
+        </td>
+        <td>
+            <h3 style="margin: 0 auto;">Bishop Carroll High School</h3>
+        </td>
+    </tr>
+</table>
 
 ### 2015 Season Sponsors
 <div id="carousel-5" class="carousel slide">
