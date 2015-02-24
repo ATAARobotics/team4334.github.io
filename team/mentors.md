@@ -12,7 +12,7 @@ layout: team
             <img style="height:400px;width:300px;" src="/members/clayton-mcneil.jpg" alt="Clayton McNeil" class="img-rounded">
         </td>
         <td>
-            <img style="height:400px;width:300px;" src="/members/devonbateman.jpg" alt="Devon Bateman" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/devonbateman.png" alt="Devon Bateman" class="img-rounded">
         </td>
     </tr>
     <tr>
