@@ -11,7 +11,7 @@ Briefly after this run, ATA went on to win what is commonly known as the hardest
 
 The 2013 and 2014 seasons brought some success. ATA won the FIRST Western Canadian regional in both years. At the 2013 Championships, the team made it quarterfinals in Gallileo division.
 
-In 2014, the team won the Regional Chairman's Award for Western Canada.
+In 2014, the team won the Regional Chairman's Award for Western Canada and made it to the Curie Division.
 
 # Robots
 
@@ -20,9 +20,17 @@ In 2014, the team won the Regional Chairman's Award for Western Canada.
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
         <li data-target="#carousel" data-slide-to="1" class="active"></li>
         <li data-target="#carousel" data-slide-to="2" class="active"></li>
+        <li data-target="#carousel" data-slide-to="3" class="active"></li>
     </ol>
     <div class="carousel-inner">
         <div class="item active">
+            <img style="max-height:500px;" src="/albums/RobotReveal/elevation2015.JPG" alt="Image not found!">
+            <div class="carousel-caption">
+                <h3>2015 - Elevation</h3>
+                <p>Elevation is a robot designed for bottom stacking and flipping totes.</p>
+            </div>
+        </div>
+        <div class="item">
             <img style="max-height:500px;" src="/albums/RobotReveal2014/main.jpg" alt="Image not found!">
             <div class="carousel-caption">
                 <h3>2014 - Momentum</h3>
