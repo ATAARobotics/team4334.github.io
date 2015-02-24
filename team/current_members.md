@@ -9,10 +9,10 @@ layout: team
             <img style="height:400px;width:300px;" src="/members/alex-vu.jpg" alt="Alex Vu" class="img-rounded">
         </td>
         <td>
-            <img style="height:400px;width:300px;" src="/members/aaronbailey.png" alt="Aaron Bailey" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/aaronbailey.JPEG" alt="Aaron Bailey" class="img-rounded">
         </td>
         <td>
-            <img style="height:400px;width:300px;" src="/members/patrickgarcia.png" alt="Patrick Garcia" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/patrickgarcia.JPEG" alt="Patrick Garcia" class="img-rounded">
         </td>
     </tr>
     <tr>
@@ -60,7 +60,7 @@ layout: team
 <table>
     <tr>
         <td>
-            <img style="height:400px;width:300px;" src="/members/skylersampson.png" alt="Skyler Sampson" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/skylersampson.JPEG" alt="Skyler Sampson" class="img-rounded">
         </td>
         <td>
             <img style="height:400px;width:300px;" src="/members/colebatonyi.png" alt="Cole Batonyi" class="img-rounded">
@@ -108,10 +108,10 @@ layout: team
 <table>
     <tr>
         <td>
-            <img style="height:400px;width:300px;" src="/members/jordanhoffman.png" alt="Jordan Hoffman" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/jordanhoffman.JPEG" alt="Jordan Hoffman" class="img-rounded">
         </td>
         <td>
-            <img style="height:400px;width:300px;" src="/members/placeholderM.png" alt="Stanley Louie" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/stanleylouie.JPEG" alt="Stanley Louie" class="img-rounded">
         </td>
         <td>
             <img style="height:400px;width:300px;" src="/members/olafpechler.png" alt="Olaf Pechler" class="img-rounded">
@@ -155,7 +155,7 @@ layout: team
 <table>
     <tr>
         <td>
-            <img style="height:400px;width:300px;" src="/members/alannayoung.png" alt="Alanna Young" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/alannayoung.JPEG" alt="Alanna Young" class="img-rounded">
         </td>
         <td>
             <img style="height:400px;width:300px;" src="/members/jeremyzantua.png" alt="Jeremy Zantua" class="img-rounded">
@@ -206,7 +206,7 @@ layout: team
             <img style="height:400px;width:300px;" src="/members/placeholderM.png" alt="Phillip Aubrecht" class="img-rounded">
         </td>
         <td>
-            <img style="height:400px;width:300px;" src="/members/kieranbererton.png" alt="Kieran Bererton" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/kieranbererton.JPEG" alt="Kieran Bererton" class="img-rounded">
         </td>
         <td>
             <img style="height:400px;width:300px;" src="/members/placeholderM.png" alt="Edison Chan" class="img-rounded">
@@ -251,7 +251,7 @@ layout: team
 <table>
     <tr>
         <td>
-            <img style="height:400px;width:300px;" src="/members/placeholderM.png" alt="Jayden Chan" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/jaydenchan.JPEG" alt="Jayden Chan" class="img-rounded">
         </td>
         <td>
             <img style="height:400px;width:300px;" src="/members/placeholderM.png" alt="Eric Channell" class="img-rounded">
@@ -297,7 +297,7 @@ layout: team
 <table>
     <tr>
         <td>
-            <img style="height:400px;width:300px;" src="/members/placeholderF.png" alt="Daniela Diaz" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/danieladiaz.JPEG" alt="Daniela Diaz" class="img-rounded">
         </td>
         <td>
             <img style="height:400px;width:300px;" src="/members/placeholderM.png" alt="Noel Foltz" class="img-rounded">
@@ -342,7 +342,7 @@ layout: team
 <table>
     <tr>
         <td>
-            <img style="height:400px;width:300px;" src="/members/haileykunz.png" alt="Hailey Kunz" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/haileykunz.JPEG" alt="Hailey Kunz" class="img-rounded">
         </td>
         <td>
             <img style="height:400px;width:300px;" src="/members/placeholderM.png" alt="Matthew Morrison" class="img-rounded">
@@ -393,10 +393,10 @@ layout: team
             <img style="height:400px;width:300px;" src="/members/placeholderM.png" alt="Paolo Sabater" class="img-rounded">
         </td>
         <td>
-            <img style="height:400px;width:300px;" src="/members/mirandasampson.png" alt="Miranda Sampson" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/mirandasampson.JPEG" alt="Miranda Sampson" class="img-rounded">
         </td>
         <td>
-            <img style="height:400px;width:300px;" src="/members/placeholderM.png" alt="Daniel Sedlov" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/danielsedlov.JPEG" alt="Daniel Sedlov" class="img-rounded">
         </td>
     </tr>
     <tr>
@@ -438,7 +438,7 @@ layout: team
 <table>
     <tr>
         <td>
-            <img style="height:400px;width:300px;" src="/members/savsidorov.png" alt="Sav Sidorov" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/savsidorov.JPEG" alt="Sav Sidorov" class="img-rounded">
         </td>
         <td>
             <img style="height:400px;width:300px;" src="/members/placeholderM.png" alt="Christian Spence" class="img-rounded">
