@@ -390,7 +390,7 @@ layout: team
 <table>
     <tr>
         <td>
-            <img style="height:400px;width:300px;" src="/members/placeholderM.png" alt="Paolo Sabater" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/paolosabater.png" alt="Paolo Sabater" class="img-rounded">
         </td>
         <td>
             <img style="height:400px;width:300px;" src="/members/mirandasampson.png" alt="Miranda Sampson" class="img-rounded">
