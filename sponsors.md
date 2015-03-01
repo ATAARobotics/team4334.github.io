@@ -59,6 +59,9 @@ Our sponsors are an essential piece of success. They provide the capacity that a
         <div class="item">
             <a href="http://www.maximmanufacturing.ca/"><img style="height:250px;" src="/img/2014maxim.png" alt="Maxim Manufacturing"></a>
         </div>
+        <div class="item">
+            <a href="http://www.ge.com/ca/"><img style="height:250px;" src="/img/GE.png" alt="General Electric"></a>
+        </div>
     </div>
     <a class="left carousel-control" href="#carousel-5" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left"></span>
@@ -67,7 +70,6 @@ Our sponsors are an essential piece of success. They provide the capacity that a
         <span class="glyphicon glyphicon-chevron-right"></span>
     </a>
 </div>
-
 
 ### 2014 Season Sponsors
 <div id="carousel-4" class="carousel slide">
