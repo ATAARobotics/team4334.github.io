@@ -464,6 +464,7 @@ layout: team
                 <li>Website Builder
                 <li>Programming Member
                 <li>Awards Member
+                <li>Scouting Member
                 <li>Rookie Season: 2015
                 <li><a href="https://twitter.com/Sav01027"><img src="/img/twitter.png" height="20px" title="Twitter"></a><a href="https://github.com/SavSidorov"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
@@ -487,7 +488,7 @@ layout: team
 <table>
     <tr>
         <td>
-            <img style="height:400px;width:300px;" src="/members/placeholderF.png" alt="Paige Taylor" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/paigetaylor.png" alt="Paige Taylor" class="img-rounded">
         </td>
     </tr>
     <tr>
