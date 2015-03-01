@@ -17,8 +17,11 @@ Team 4334 is proud to make its resources available for all teams to use.
 
 - Our 2014 Scouting sheets:
      * [Cover sheet](/Scouting/cover-full.pdf)
+
      * [Match sheet](/Scouting/match-sheet.pdf)
+
 
 - Our 2015 Scouting sheets (WIP):
      * [Cover sheet](/Scouting/2015SheetCover.pdf)
+
      * [Match sheet](/Scouting/2015SheetMatch.pdf)
