@@ -18,7 +18,6 @@ layout: home
             </div>
           {% endif %}
         {% endfor %}
-        {% capture x %}{{ x | plus:1 }}{% endcapture %}
         {% assign i = 4 %}
         {% for post in site.posts offset: x %}
           {% if post.layout == 'post' and i != 0 %}
