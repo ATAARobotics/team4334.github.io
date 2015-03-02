@@ -39,6 +39,7 @@ layout: team
                 <li>Former Electronics Leader
                 <li>Former Awards Leader
                 <li>Seasons: 2012-2013
+                <li><a href="http://www.chiefdelphi.com/forums/member.php?u=31890"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
         </td>
         <td>
@@ -49,7 +50,7 @@ layout: team
                 <li>Former Scouting Leader
                 <li>Former Competition Preperations Leader
                 <li>Seasons: 2012-2014
-                <li><a href="https://github.com/joelg236"><img src="/img/github.png" title="GitHub" height="20px"></a>
+                <li><a href="https://github.com/joelg236"><img src="/img/github.png" title="GitHub" height="20px"></a><a href="http://www.chiefdelphi.com/forums/member.php?&u=59212"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
         </td>
         <td>
@@ -57,6 +58,7 @@ layout: team
                 <li>Former Fabrication Leader
                 <li>Former CAD Leader
                 <li>Seasons: 2012-2014
+                <li><a href="http://www.chiefdelphi.com/forums/member.php?u=65077"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
         </td>
     </tr>
@@ -91,20 +93,23 @@ layout: team
                 <li>Former Drive Coach
                 <li>Former Assembly Leader
                 <li>Seasons: 2012-2014
+                <li><a href="http://www.chiefdelphi.com/forums/member.php?u=59215"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Former Awards Leader
+                <li>Former Scouting Leader
                 <li>Former Programming Co-leader
                 <li>Seasons: 2012-2014
-                <li><a href="https://github.com/hiyou102"><img src="/img/github.png" title="GitHub" height="20px"></a>
+                <li><a href="https://github.com/hiyou102"><img src="/img/github.png" title="GitHub" height="20px"></a><a href="http://www.chiefdelphi.com/forums/member.php?u=65094"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
                 <li>Former Electronics Leader
                 <li>Seasons: 2012-2014
+                <li><a href="http://www.chiefdelphi.com/forums/member.php?u=66794"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
         </td>
     </tr>

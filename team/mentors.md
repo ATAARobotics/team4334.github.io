@@ -32,12 +32,14 @@ layout: team
                 <li>Lead Mentor
                 <li>Drive Coach
                 <li>Fabrication Mentor
+                <li><a href="http://www.chiefdelphi.com/forums/member.php?u=65077"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
         </td>
         <td>
             <ul class="list-unstyled">
   				<li>CAD Mentor
                 <li>Electronics Mentor
+                <li><a href="http://www.chiefdelphi.com/forums/member.php?u=66794"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
         </td>
         <td>

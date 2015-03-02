@@ -37,7 +37,7 @@ layout: team
                 <li>PR Member
                 <li>Awards Member
                 <li>Rookie Season: 2013
-                <li><a href="https://github.com/Vupa"><img src="/img/github.png" title="GitHub" height="20px"></a>
+                <li><a href="https://github.com/Vupa"><img src="/img/github.png" title="GitHub" height="20px"></a><a href="http://www.chiefdelphi.com/forums/member.php?u=71036"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
         </td>
         <td>
@@ -85,7 +85,7 @@ layout: team
             <ul class="list-unstyled">
                 <li>Programming Leader
                 <li>Rookie Season: 2013
-                <li><a href="https://github.com/Relkofizz"><img src="/img/github.png" title="GitHub" height="20px"></a>
+                <li><a href="https://github.com/Relkofizz"><img src="/img/github.png" title="GitHub" height="20px"></a><a href="http://www.chiefdelphi.com/forums/member.php?u=70708"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
         </td>
         <td>
@@ -134,6 +134,7 @@ layout: team
                 <li>Awards Leader
                 <li>PR Co-leader
                 <li>Rookie Season: 2014
+                <li><a href="http://www.chiefdelphi.com/forums/member.php?u=77364"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
         </td>
         <td>
@@ -180,6 +181,7 @@ layout: team
             <ul class="list-unstyled">
                 <li>Fabrication Leader
                 <li>Rookie Season: 2014
+                <li><a href="http://www.chiefdelphi.com/forums/member.php?u=87761"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
         </td>
         <td>
@@ -466,7 +468,7 @@ layout: team
                 <li>Awards Member
                 <li>Scouting Member
                 <li>Rookie Season: 2015
-                <li><a href="https://twitter.com/Sav01027"><img src="/img/twitter.png" height="20px" title="Twitter"></a><a href="https://github.com/SavSidorov"><img src="/img/github.png" title="GitHub" height="20px"></a>
+                <li><a href="https://twitter.com/Sav01027"><img src="/img/twitter.png" height="20px" title="Twitter"></a><a href="https://github.com/SavSidorov"><img src="/img/github.png" title="GitHub" height="20px"></a><a href="http://www.chiefdelphi.com/forums/member.php?u=87777"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
         </td>
         <td>
