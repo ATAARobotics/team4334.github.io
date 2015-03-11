@@ -65,6 +65,9 @@ Our sponsors are an essential piece of success. They provide the capacity that a
         <div class="item">
             <a href="http://www.madmonkeyapparel.ca/"><img style="height:250px;" src="/img/MMA.png" alt="Mad Monkey Apparel"></a>
         </div>
+        <div class="item">
+            <a href="http://www.ingraph.ca/"><img style="height:250px;" src="/img/2015ingraph.png" alt="Ingraph"></a>
+        </div>
     </div>
     <a class="left carousel-control" href="#carousel-5" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left"></span>
