@@ -12,7 +12,7 @@ layout: team
             <img style="height:400px;width:300px;" src="/members/clayton-mcneil.jpg" alt="Clayton McNeil" class="img-rounded">
         </td>
         <td>
-            <img style="height:400px;width:300px;" src="/members/devonbateman.png" alt="Devon Bateman" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/chris-lemmon.png" alt="Chris Lemmon" class="img-rounded">
         </td>
     </tr>
     <tr>
@@ -23,7 +23,7 @@ layout: team
             <h3>Clayton McNeil</h3>
         </td>
         <td>
-            <h3>Devon Bateman</h3>
+            <h3>Chris Lemmon</h3>
         </td>
     </tr>
     <tr>
@@ -42,6 +42,27 @@ layout: team
                 <li><a href="http://www.chiefdelphi.com/forums/member.php?u=66794"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
         </td>
+        <td>
+            <ul class="list-unstyled">
+                <li>Assembly Mentor
+                <li><a href="http://www.chiefdelphi.com/forums/member.php?u=59215"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<table>
+    <tr>
+        <td>
+            <img style="height:400px;width:300px;" src="/members/devonbateman.png" alt="Devon Bateman" class="img-rounded">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Devon Bateman</h3>
+        </td>
+    </tr>
+    <tr>
         <td>
             <ul class="list-unstyled">
                 <li>Fabrication Mentor

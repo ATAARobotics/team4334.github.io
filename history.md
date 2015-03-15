@@ -70,6 +70,13 @@ In 2014, the team won the Regional Chairman's Award for Western Canada and made 
             <th>Awards</th>
         </tr>
         <tr>
+            <td><a href="http://www.thebluealliance.com/team/4334/2015">2015</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2015utwv">Utah Regional</a></td>
+            <td>
+                Regional Winner
+            </td>
+        </tr>
+        <tr>
             <td><a href="http://www.thebluealliance.com/team/4334/2014">2014</a></td>
             <td><a href="http://www.thebluealliance.com/event/2014cur">Curie Division</a></td>
             <td></td>
