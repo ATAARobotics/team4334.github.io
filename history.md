@@ -13,6 +13,8 @@ The 2013 and 2014 seasons brought some success. ATA won the FIRST Western Canadi
 
 In 2014, the team won the Regional Chairman's Award for Western Canada and made it to the Curie Division.
 
+In the ongoing 2015 season, ATA, along with 624 (Cryptonite) and 1619 (Up-A-Creek Robotics) won the Utah Regional.
+
 # Robots
 
 <div id="carousel" class="carousel slide">
