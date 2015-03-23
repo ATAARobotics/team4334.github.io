@@ -38,25 +38,25 @@ Basic information about our team:
     </ol>
     <div class="carousel-inner">
         <div class="item active">
-            <img src="/albums/Utah15/thumbs/IMG_2911.JPG" alt="Image not found!">
+            <img style="height: 425px" src="/albums/Utah15/thumbs/IMG_2911.JPG" alt="Image not found!">
             <div class="carousel-caption">
                 <h3>2015</h3>
             </div>
         </div>
         <div class="item">
-            <img src="/img/2014-team.png" alt="Image not found!">
+            <img style="height: 425px" src="/img/2014-team.png" alt="Image not found!">
             <div class="carousel-caption">
                 <h3>2014</h3>
             </div>
         </div>
         <div class="item">
-            <img src="/img/2013-team.jpg" alt="Image not found!">
+            <img style="height: 425px" src="/img/2013-team.jpg" alt="Image not found!">
             <div class="carousel-caption">
                 <h3>2013</h3>
             </div>
         </div>
         <div class="item">
-            <img src="/img/2012-team.jpg" alt="Image not found!">
+            <img style="height: 425px" src="/img/2012-team.jpg" alt="Image not found!">
             <div class="carousel-caption">
                 <h3>2012</h3>
             </div>
