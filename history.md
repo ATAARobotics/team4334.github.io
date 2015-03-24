@@ -33,7 +33,7 @@ In the ongoing 2015 season, ATA, along with 624 (Cryptonite) and 1619 (Up-A-Cree
             </div>
         </div>
         <div class="item">
-            <img style="max-height:500px;" src="/albums/RobotReveal2014/main.jpg" alt="Image not found!">
+            <img style="max-height:500px;" src="/albums/RobotReveal/main.jpg" alt="Image not found!">
             <div class="carousel-caption">
                 <h3>2014 - Momentum</h3>
                 <p>Momentum is a highly agile robot with the primary goal of finishing and imbounding.</p>
