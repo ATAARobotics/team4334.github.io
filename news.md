@@ -7,10 +7,6 @@ layout: default
 <table class="table table-condensed">
     <tbody>
         <tr>
-            <th>Date</th>
-            <th>News Item</th>
-        </tr>
-        <tr>
             <td>March 13, 2015</td>
             <td><a href="http://www.sait.ca/about-sait/news/sait-stories-the-stories-behind-sait-polytechnic/sait-stories/2015-3-13-the-people-first-robotics.php">Gearing up for National Robo-Sports Competition</a></td>
         </tr>
