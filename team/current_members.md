@@ -205,7 +205,7 @@ layout: team
 <table>
     <tr>
         <td>
-            <img style="height:400px;width:300px;" src="/members/placeholderM.png" alt="Phillip Aubrecht" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/phillipaubrecht.png" alt="Phillip Aubrecht" class="img-rounded">
         </td>
         <td>
             <img style="height:400px;width:300px;" src="/members/kieranbererton.png" alt="Kieran Bererton" class="img-rounded">
@@ -350,7 +350,7 @@ layout: team
             <img style="height:400px;width:300px;" src="/members/placeholderM.png" alt="Matthew Morrison" class="img-rounded">
         </td>
         <td>
-            <img style="height:400px;width:300px;" src="/members/placeholderM.png" alt="David Ritter" class="img-rounded">
+            <img style="height:400px;width:300px;" src="/members/davidritter.png" alt="David Ritter" class="img-rounded">
         </td>
     </tr>
     <tr>
