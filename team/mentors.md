@@ -56,10 +56,16 @@ layout: team
         <td>
             <img style="height:400px;width:300px;" src="/members/devonbateman.png" alt="Devon Bateman" class="img-rounded">
         </td>
+        <td>
+            <img style="height:400px;width:300px;" src="/members/denis-trailin.jpg" alt="Denis Trailin" class="img-rounded">
+        </td>
     </tr>
     <tr>
         <td>
             <h3>Devon Bateman</h3>
+        </td>
+        <td>
+            <h3>Denis Trailin</h3>
         </td>
     </tr>
     <tr>
@@ -67,6 +73,11 @@ layout: team
             <ul class="list-unstyled">
                 <li>Fabrication Mentor
                 <li>Assembly Mentor
+            </ul>
+        </td>
+        <td>
+            <ul class="list-unstyled">
+                <li>Programming Mentor
             </ul>
         </td>
     </tr>
