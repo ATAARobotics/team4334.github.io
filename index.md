@@ -48,13 +48,13 @@ layout: home
         <p>We are 4334, a FRC robotics team based in Calgary, Alberta, Canada. We strive to actively improve ourselves and others spreading FIRST Robotics ideals and values both in and out of competition. With a team compliment of determined, committed and skilled members, we each work year round to promote personal and general improvement within our team and others. We strongly believe that competition and a consistant "try-again" attitude is what leads to innovation and further understanding.
         <p>Each of our members is encouraged to challenge themselves to their fullest potential. We do not settle for what seems possible. We work harder, push ourselves farther and achieve what some would consider impossible. 
         <div class="list-group">
-            <a class="list-group-item" href="/first">
-                <h4 class="media-heading">FIRST Robotics</h4>
-                The FIRST Robotics Competition is a high school level robotics program that encourages engineering, math, science and creative skills.
-            </a>
             <a class="list-group-item" href="/signup">
                 <h4 class="media-heading">Sign Up</h4>
                 Sign up to become a part of our team.
+            </a>
+            <a class="list-group-item" href="/first">
+                <h4 class="media-heading">FIRST Robotics</h4>
+                The FIRST Robotics Competition is a high school level robotics program that encourages engineering, math, science and creative skills.
             </a>
             <a class="list-group-item" href="/team">
                 <h4 class="media-heading">Our Team</h4>
