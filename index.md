@@ -52,6 +52,10 @@ layout: home
                 <h4 class="media-heading">FIRST Robotics</h4>
                 The FIRST Robotics Competition is a high school level robotics program that encourages engineering, math, science and creative skills.
             </a>
+            <a class="list-group-item" href="/signup">
+                <h4 class="media-heading">Sign Up</h4>
+                Sign up to become a part of our team.
+            </a>
             <a class="list-group-item" href="/team">
                 <h4 class="media-heading">Our Team</h4>
                 Our team is full of passionate, bright young students who define our team.
@@ -59,10 +63,6 @@ layout: home
             <a class="list-group-item" href="/history">
                 <h4 class="media-heading">History</h4>
                 We have a history of success on and off the field. Our reputation is very important to us, and we push ourselves every year.
-            </a>
-            <a class="list-group-item" href="/archive">
-                <h4 class="media-heading">Our Blog</h4>
-                Keeping you up to date with our most recent events.
             </a>
             <a class="list-group-item" href="/photos">
                 <h4 class="media-heading">Photos</h4>
