@@ -73,6 +73,11 @@ In the ongoing 2015 season, ATA, along with 624 (Cryptonite) and 1619 (Up-A-Cree
         </tr>
         <tr>
             <td><a href="http://www.thebluealliance.com/team/4334/2015">2015</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2015arc">Archimedes Division</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td><a href="http://www.thebluealliance.com/team/4334/2015">2015</a></td>
             <td><a href="http://www.thebluealliance.com/event/2015abca">Western Canadian Regional</a></td>
             <td>
                 Innovation in Control Award sponsored by Rockwell Automation
