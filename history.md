@@ -9,11 +9,9 @@ In St. Louis, the humble beginnings soon began big dreams. After a struggle in q
 
 Briefly after this run, ATA went on to win what is commonly known as the hardest competition, IRI, with 1114 and 2826.
 
-The 2013 and 2014 seasons brought some success. ATA won the FIRST Western Canadian regional in both years. At the 2013 Championships, the team made it quarterfinals in Gallileo division.
+The 2013 and 2014 seasons brought some success. ATA won the FIRST Western Canadian regional in both years. At the 2013 Championships, the team made it quarterfinals in Gallileo Division. In 2014, the team won the Regional Chairman's Award for Western Canada and made it to the Curie Division.
 
-In 2014, the team won the Regional Chairman's Award for Western Canada and made it to the Curie Division.
-
-In the ongoing 2015 season, ATA, along with 624 (Cryptonite) and 1619 (Up-A-Creek Robotics) won the Utah Regional.
+In the 2015 season, ATA, along with 624 (CRyptonite) and 1619 (Up-A-Creek Robotics) won the Utah Regional and got placed in the Archimedes Division during the 2015 Championship. The team also took home the Innovation in Control Award sponsored by Rockwell Automation at the Western Canadian Regional.
 
 # Robots
 
@@ -78,7 +76,7 @@ In the ongoing 2015 season, ATA, along with 624 (Cryptonite) and 1619 (Up-A-Cree
         </tr>
         <tr>
             <td><a href="http://www.thebluealliance.com/team/4334/2015">2015</a></td>
-            <td><a href="http://www.thebluealliance.com/event/2015abca">Western Canadian Regional</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2015abca">Western Canada Regional</a></td>
             <td>
                 Innovation in Control Award sponsored by Rockwell Automation
             </td>
@@ -97,7 +95,7 @@ In the ongoing 2015 season, ATA, along with 624 (Cryptonite) and 1619 (Up-A-Cree
         </tr>
         <tr>
             <td><a href="http://www.thebluealliance.com/team/4334/2014">2014</a></td>
-            <td><a href="http://www.thebluealliance.com/event/2014abca">Western Canadian Regional</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2014abca">Western Canada Regional</a></td>
             <td>
                 Regional Chairman's Award
                 <br>
@@ -123,7 +121,7 @@ In the ongoing 2015 season, ATA, along with 624 (Cryptonite) and 1619 (Up-A-Cree
         </tr>
         <tr>
             <td><a href="http://www.thebluealliance.com/team/4334/2013">2013</a></td>
-            <td><a href="http://www.thebluealliance.com/event/2013abca">Western Canadian Regional</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2013abca">Western Canada Regional</a></td>
             <td>
                 Woodie Flowers Finalist Award (Craig Maynard)
                 <br>

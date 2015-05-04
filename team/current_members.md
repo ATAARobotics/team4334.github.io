@@ -44,6 +44,7 @@ layout: team
             <ul class="list-unstyled">
                 <li>Fabication Co-leader
                 <li>PR Co-leader
+                <li>Scouting Member
                 <li>Rookie Season: 2013
             </ul>
         </td>
@@ -84,6 +85,7 @@ layout: team
         <td>
             <ul class="list-unstyled">
                 <li>Programming Leader
+                <li>Scouting Member
                 <li>Rookie Season: 2013
                 <li><a href="https://github.com/Relkofizz"><img src="/img/github.png" title="GitHub" height="20px"></a><a href="http://www.chiefdelphi.com/forums/member.php?u=70708"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
@@ -147,6 +149,7 @@ layout: team
         <td>
             <ul class="list-unstyled">
                 <li>CAD Member
+                <li>Scouting Member
                 <li>Rookie Season: 2014
             </ul>
         </td>
@@ -188,7 +191,7 @@ layout: team
             <ul class="list-unstyled">
                 <li>CAD Member
                 <li>Awards Member
-                <li>Programming Member
+                <li>Scouting Member
                 <li>Rookie Season: 2014
             </ul>
         </td>
@@ -234,9 +237,9 @@ layout: team
         </td>
         <td>
             <ul class="list-unstyled">
-                <li>Programming Member
-                <li>Awards Member
                 <li>PR Member
+                <li>Awards Member
+                <li>Programming Member
                 <li>Rookie Season: 2015
                 <li><a href="https://github.com/ATAKieran"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
@@ -244,6 +247,7 @@ layout: team
         <td>
             <ul class="list-unstyled">
                 <li>CAD Member
+                <li>Scouting Member
                 <li>Rookie Season: 2015
             </ul>
         </td>
@@ -417,6 +421,7 @@ layout: team
             <ul class="list-unstyled">
                 <li>Programming Member
                 <li>Electronics Member
+                <li>Scouting Member
                 <li>Rookie Season: 2015
                 <li><a href="https://github.com/pmsabater"><img src="/img/github.png" title="GitHub" height="20px"></a>
             </ul>
