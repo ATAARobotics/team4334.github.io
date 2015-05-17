@@ -55,6 +55,7 @@ layout: team
         </td>
         <td>
             <ul class="list-unstyled">
+                <li>Former Drive Coach
                 <li>Former Fabrication Leader
                 <li>Former CAD Leader
                 <li>Seasons: 2012-2014

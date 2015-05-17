@@ -33,9 +33,7 @@ layout: team
                 <li>Strategy Leader
                 <li>Competition Preperations Leader
                 <li>CAD Leader
-                <li>Scouting Member
                 <li>PR Member
-                <li>Awards Member
                 <li>Rookie Season: 2013
                 <li><a href="https://github.com/Vupa"><img src="/img/github.png" title="GitHub" height="20px"></a><a href="http://www.chiefdelphi.com/forums/member.php?u=71036"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
             </ul>
@@ -468,9 +466,11 @@ layout: team
     <tr>
         <td>
             <ul class="list-unstyled">
+                <li>Drive Coach
                 <li>Website Builder
                 <li>Programming Member
                 <li>Awards Member
+                <li>PR Member
                 <li>Scouting Member
                 <li>Rookie Season: 2015
                 <li><a href="https://twitter.com/Sav01027"><img src="/img/twitter.png" height="20px" title="Twitter"></a><a href="https://github.com/SavSidorov"><img src="/img/github.png" title="GitHub" height="20px"></a><a href="http://www.chiefdelphi.com/forums/member.php?u=87777"><img src="/img/CDlogo.png" title="Chief Delphi" height="20px"></a>
