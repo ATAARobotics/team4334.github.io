@@ -24,6 +24,30 @@ Our sponsors are an essential piece of success. They provide the capacity that a
     </a>
 </div>
 
+###2016 Season Sponsors
+<div id="carousel-5" class="carousel slide">
+    <div class="carousel-inner">
+        <div class="item">
+            <a href="http://www.bigchiefmeatsnacks.com/"><img style="height:250px;" src="/img/bigchief.png" alt="Big Chief"></a>
+        </div>
+        <div class="item">
+            <a href="http://www.ge.com/ca/"><img style="height:250px;" src="/img/GE.png" alt="General Electric"></a>
+        </div>
+                <div class="item">
+            <a href="http://www.isacalgary.ca/"><img style="height:250px;" src="/img/2014ISA_Calgary2Col_EPS.png" alt="ISA Calgary Section"></a>
+        </div>
+        <div class="item">
+            <a href="https://www.pizza73.com/"><img style="height:250px;" src="/img/pizza73.jpg" alt="Pizza 73"></a>
+        </div>
+    </div>
+    <a class="left carousel-control" href="#carousel-5" data-slide="prev">
+        <span class="glyphicon glyphicon-chevron-left"></span>
+    </a>
+    <a class="right carousel-control" href="#carousel-5" data-slide="next">
+        <span class="glyphicon glyphicon-chevron-right"></span>
+    </a>
+</div>
+
 ### 2015 Season Sponsors
 <div id="carousel-5" class="carousel slide">
     <div class="carousel-inner">
@@ -69,12 +93,7 @@ Our sponsors are an essential piece of success. They provide the capacity that a
         <div class="item">
             <a href="http://www.ingraph.ca/"><img style="height:250px;" src="/img/2015ingraph.png" alt="Ingraph"></a>
         </div>
-        <div class="item">
-            <a href="http://www.bigchiefmeatsnacks.com/"><img style="height:250px;" src="/img/bigchief.png" alt="Big Chief"></a>
-        </div>
-        <div class="item">
-            <a href="https://www.pizza73.com/"><img style="height:250px;" src="/img/pizza73.jpg" alt="Pizza 73"></a>
-        </div>
+
     </div>
     <a class="left carousel-control" href="#carousel-5" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left"></span>
