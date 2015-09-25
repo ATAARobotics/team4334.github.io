@@ -70,16 +70,10 @@ Our sponsors are an essential piece of success. They provide the capacity that a
             <a href="http://www.ingraph.ca/"><img style="height:250px;" src="/img/2015ingraph.png" alt="Ingraph"></a>
         </div>
         <div class="item">
-            <a href="https://www.isacalgary.ca/"><img style="height:250px;" src="/img/isa-calgary.png" alt="ISA Calgary"></a>
-        </div>
-        <div class="item">
             <a href="http://www.bigchiefmeatsnacks.com/"><img style="height:250px;" src="/img/bigchief.png" alt="Big Chief"></a>
         </div>
         <div class="item">
             <a href="https://www.pizza73.com/"><img style="height:250px;" src="/img/pizza73.jpg" alt="Pizza 73"></a>
-        </div>
-        <div class="item">
-            <a href="http://www3.gehealthcare.com/en"><img style="height:250px;" src="/img/ge.png" alt="GE Health Care"></a>
         </div>
     </div>
     <a class="left carousel-control" href="#carousel-5" data-slide="prev">
