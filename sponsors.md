@@ -5,6 +5,7 @@ layout: default
 
 Our sponsors are an essential piece of success. They provide the capacity that allows us to thrive. We're always thankful for past and present sponsors.
 
+
 ### Founding Sponsors
 <div id="carousel-1" class="carousel slide">
     <div class="carousel-inner">
@@ -67,6 +68,18 @@ Our sponsors are an essential piece of success. They provide the capacity that a
         </div>
         <div class="item">
             <a href="http://www.ingraph.ca/"><img style="height:250px;" src="/img/2015ingraph.png" alt="Ingraph"></a>
+        </div>
+        <div class="item">
+            <a href="https://www.isacalgary.ca/"><img style="height:250px;" src="/img/isa-calgary.png" alt="Ingraph"></a>
+        </div>
+        <div class="item">
+            <a href="http://www.bigchiefmeatsnacks.com/"><img style="height:250px;" src="/img/bigchief.png" alt="Ingraph"></a>
+        </div>
+        <div class="item">
+            <a href="https://www.pizza73.com/"><img style="height:250px;" src="/img/pizza73.jpg" alt="Ingraph"></a>
+        </div>
+        <div class="item">
+            <a href="http://www3.gehealthcare.com/en"><img style="height:250px;" src="/img/ge.png" alt="Ingraph"></a>
         </div>
     </div>
     <a class="left carousel-control" href="#carousel-5" data-slide="prev">
