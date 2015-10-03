@@ -25,7 +25,7 @@ Our sponsors are an essential piece of success. They provide the capacity that a
 </div>
 
 ###2016 Season Sponsors
-<div id="carousel-5" class="carousel slide">
+<div id="carousel-6" class="carousel slide">
     <div class="carousel-inner">
         <div class="item">
             <a href="http://www.cssd.ab.ca/bishopcarroll/"><img style="height:250px;" src="/img/2014BCHS.png" alt="Bishop Carroll High School"></a>
@@ -43,10 +43,10 @@ Our sponsors are an essential piece of success. They provide the capacity that a
             <a href="https://www.pizza73.com/"><img style="height:250px;" src="/img/pizza73.jpg" alt="Pizza 73"></a>
         </div>
     </div>
-    <a class="left carousel-control" href="#carousel-5" data-slide="prev">
+    <a class="left carousel-control" href="#carousel-6" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left"></span>
     </a>
-    <a class="right carousel-control" href="#carousel-5" data-slide="next">
+    <a class="right carousel-control" href="#carousel-6" data-slide="next">
         <span class="glyphicon glyphicon-chevron-right"></span>
     </a>
 </div>
