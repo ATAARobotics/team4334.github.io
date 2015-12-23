@@ -42,6 +42,9 @@ Our sponsors are an essential piece of success. They provide the capacity that a
         <div class="item">
             <a href="https://www.pizza73.com/"><img style="height:250px;" src="/img/pizza73.jpg" alt="Pizza 73"></a>
         </div>
+        <div class="item">
+            <a href="http://www.lexusofcalgary.com/"><img style="height:250px;" src="/img/2015Lexus.png" alt="Lexus of Calgary"></a>
+        </div>
     </div>
     <a class="left carousel-control" href="#carousel-6" data-slide="prev">
         <span class="glyphicon glyphicon-chevron-left"></span>
