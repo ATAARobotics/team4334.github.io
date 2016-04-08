@@ -69,7 +69,17 @@ In the 2015 season, ATA, along with 624 (CRyptonite) and 1619 (Up-A-Creek Roboti
             <th>Event</th>
             <th>Awards</th>
         </tr>
-                <tr>
+        <tr>
+            <td><a href="http://www.thebluealliance.com/team/4334/2015">2016</a></td>
+            <td><a href="http://www.thebluealliance.com/event/2015arc">Western Canada Regional</a></td>
+            <td>
+                Regional Winner
+            </td>
+             <td>
+                Creativity Award
+            </td>
+        </tr>
+        <tr>
             <td><a href="http://www.thebluealliance.com/team/4334/2015">2016</a></td>
             <td><a href="http://www.thebluealliance.com/event/2015arc">Utah Regional</a></td>
             <td>
