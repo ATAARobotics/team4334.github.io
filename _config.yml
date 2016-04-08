@@ -5,3 +5,5 @@ permalink: pretty
 url: http://team4334.github.io
 
 paginator: 10
+
+markdown: rdiscount
