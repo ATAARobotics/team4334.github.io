@@ -2,7 +2,7 @@
 title: Contact Us
 layout: default
 ---
-
+[Kai Hefner](kai@4334.ca) - Team Leader
 <form action="http://getsimpleform.com/messages?form_api_token=c43e10dea4a622502794e2886fa423c5" method="post">
 <div class="form-group">
     <div class="form-inline">
