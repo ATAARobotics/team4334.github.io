@@ -2,7 +2,8 @@
 title: Contact Us
 layout: default
 ---
-[Kai Hefner](kai@4334.ca) - Team Leader
+Please contact team leader Kai Hefner at kai@4334.ca 
+<!-- commenting for now
 <form action="http://getsimpleform.com/messages?form_api_token=c43e10dea4a622502794e2886fa423c5" method="post">
 <div class="form-group">
     <div class="form-inline">
@@ -23,5 +24,5 @@ layout: default
         </div>
         <input type='hidden' name='redirect_to' value='{{ site.url }}/thanks' />
     </div>
-</div>
-</form>
+</div> 
+</form>-->
