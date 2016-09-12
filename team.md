@@ -38,6 +38,12 @@ Basic information about our team:
     </ol>
     <div class="carousel-inner">
         <div class="item active">
+            <img style="height: 425px" src="/img/2016-team.png" alt="Image not found!">
+            <div class="carousel-caption">
+                <h3>2016</h3>
+            </div>
+        </div>
+        <div class="item">
             <img style="height: 425px" src="/img/2015utahteam.JPG" alt="Image not found!">
             <div class="carousel-caption">
                 <h3>2015</h3>
