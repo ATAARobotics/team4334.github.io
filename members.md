@@ -37,5 +37,3 @@ layout: default
         Send us a message.
     </a>
 </div>
-
-For all additional requests, email [Alex](mailto:alex@4334.ca).
