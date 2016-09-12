@@ -38,7 +38,7 @@ In the 2015 season, ATA, along with 624 (CRyptonite) and 1619 (Up-A-Creek Roboti
             </div>
         </div>
         <div class="item">
-			<a href="/img/ATA-promo.jpg"><img style="max-height:500px;" src="/img/2013-robot.jpg" alt="Image not found!"></a>
+            <a href="/img/ATA-promo.jpg"><img style="max-height:500px;" src="/img/2013-robot.jpg" alt="Image not found!"></a>
             <div class="carousel-caption">
                 <h3>2013 - Murdock</h3>
                 <p>Murdock is a full-court shooter robot that aligns itself into a corner and fires frisbees from 54' away.</p>

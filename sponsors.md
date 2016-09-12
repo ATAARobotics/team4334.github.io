@@ -5,7 +5,6 @@ layout: default
 
 Our sponsors are an essential piece of success. They provide the capacity that allows us to thrive. We're always thankful for past and present sponsors.
 
-
 ### Founding Sponsors
 <div id="carousel-1" class="carousel slide">
     <div class="carousel-inner">
@@ -199,6 +198,5 @@ Our sponsors are an essential piece of success. They provide the capacity that a
         <span class="glyphicon glyphicon-chevron-right"></span>
     </a>
 </div> -->
- 
- 
-If you wish to become a sponsor, contact us [here](/contact).
+
+If you wish to become a sponsor, [contact us](/contact)!
