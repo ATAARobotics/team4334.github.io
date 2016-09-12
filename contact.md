@@ -2,27 +2,8 @@
 title: Contact Us
 layout: default
 ---
-Please contact team leader Kai Hefner at kai@4334.ca 
-<!-- commenting for now
-<form action="http://getsimpleform.com/messages?form_api_token=c43e10dea4a622502794e2886fa423c5" method="post">
-<div class="form-group">
-    <div class="form-inline">
-        <p><div class="form-group">
-            <input type="text" class="form-control" name="name" placeholder="name"/>
-        </div>
-        <p><div class="form-group">
-            <input type="text" class="form-control" name="email" placeholder="email"/>
-        </div>
-        <p><div class="form-group">
-            <input type="text" class="form-control" name="subject" placeholder="subject"/>
-        </div>
-        <p><div class="form-group">
-            <textarea type="text" class="form-control" name="message" placeholder="message" style="width:400px;height:125px;"></textarea>
-        </div>
-        <p><div class="form-group">
-            <input type='submit' value='Send' />
-        </div>
-        <input type='hidden' name='redirect_to' value='{{ site.url }}/thanks' />
-    </div>
-</div> 
-</form>-->
+
+For all inquiries related to the team, please email us! Our student team leader
+is Kai Hefner ([email](mailto:kai@4334.ca)). You can also send us a message
+through [Facebook](https://www.facebook.com/Team4334/), or email a
+[mentor](mailto:joel@4334.ca).
