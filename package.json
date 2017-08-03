@@ -1,0 +1,18 @@
+{
+  "name": "Team4334Website",
+  "version" : "0.0.0",
+  "private": false,
+  "scripts": {
+    "build": "gulp default",
+    "watch": "gulp watch"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-pug": "^3.3.0",
+    "gulp-less": "^3.3.2",
+    "jquery": "^1.12.4",
+    "bootstrap": "^3.3.7"
+  },
+  "author": "Team 4334",
+  "license": "MIT"
+}

@@ -1,0 +1,63 @@
+extends layout
+
+block head
+  link(href="/css/default.css", rel="stylesheet")
+
+block header
+  .container
+    nav.navbar.navbar-default
+      .container-fluid
+        .navbar-header
+          ul.nav.navbar-nav
+            button.navbar-toggle.collapsed(data-toggle='collapse', data-target='.collapse')
+              span.sr-only Toggle navigation
+              span.icon-bar
+              span.icon-bar
+              span.icon-bar
+            a.navbar-brand(href="/")
+              img(src="/logo.png")
+        .collapse.navbar-collapse
+          ul.nav.navbar-nav.navbar-right
+            li #[a(href="/FIRST") FIRST]
+            li #[a(href="/team") Our Team]
+            li #[a(href="/history") History]
+            li #[a(href="/blog") Blog]
+            li #[a(href="/media") Media]
+            li #[a(href="/sponsors") Sponsors]
+            li #[a(href="/contact") Contact]
+            li.hidecollapse
+              form.navbar-form(action='http://google.com/cse', role='search')
+                input(type='hidden', name='cx', value='008443684888986985988:bygwunlqra4')
+                .form-group
+                  input.form-control(type='text', name='q', placeholder='Search')
+                button.btn.btn-default(type='submit')
+                  span.glyphicon.glyphicon-search
+
+block body
+  .container
+    .row
+      .col-md-8
+        block content
+      .col-md-4
+        block sidebar
+
+block footer
+  nav.navbar.navbar-default.navbar-bottom
+    .container-fluid
+      .collapse.navbar-collapse
+        ul.nav.navbar-nav.navbar-right.navbar-header
+          li
+            a(href='https://www.facebook.com/Team4334')
+              img(src='/img/facebook.png', height='20px', title='Facebook')
+          li
+            a(href='https://twitter.com/Team4334')
+              img(src='/img/twitter.png', height='20px', title='Twitter')
+          li
+            a(href='http://www.thebluealliance.com/team/4334')
+              img(src='/img/tba.png', height='20px', title='The Blue Alliance')
+          li
+            a(href='https://github.com/Team4334')
+              img(src='/img/github.png', title='GitHub', height='20px')
+          li
+            a(href='http://www.usfirst.org/')
+              img(src='/img/FIRST-short.png', height='20px', title='US FIRST')
