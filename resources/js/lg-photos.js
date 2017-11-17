@@ -3,11 +3,11 @@
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: '../albums/Beakerhead2017/Photos/ORG_DSC01953.JPG',
-              thumb: '../albums/Beakerhead2017/Photos/ORG_DSC01953.JPG'
+              src: '../albums/Beakerhead2017/Photos/1.JPG',
+              thumb: '../albums/Beakerhead2017/Photos/thumbs/1.JPG'
           },{
-              src: '../albums/Beakerhead2017/Photos/ORG_DSC01980.JPG',
-              thumb: '../albums/Beakerhead2017/Photos/ORG_DSC01980.JPG',
+              src: '../albums/Beakerhead2017/Photos/2.JPG',
+              thumb: '../albums/Beakerhead2017/Photos/thumbs/2.JPG',
           }]
       });
   });
