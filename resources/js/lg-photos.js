@@ -41,19 +41,341 @@ $(document).ready(function() {
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: 'http://via.placeholder.com/350x150',
-              thumb: 'http://via.placeholder.com/350x150'
+              src: '../albums/WesternCanada2017/Photos/1.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/1.jpg'
           },{
-              src: 'https://www.youtube.com/watch?v=meBbDqAXago',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg'
+              src: '../albums/WesternCanada2017/Photos/2.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/2.jpg'
           },{
-              html: '#video2',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg'
+              src: '../albums/WesternCanada2017/Photos/3.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/3.jpg'
           },{
-              src: 'https://sachinchoolur.github.io/lightGallery/static/img/4.jpg',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-4.jpg'
+              src: '../albums/WesternCanada2017/Photos/4.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/4.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/5.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/5.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/6.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/6.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/7.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/7.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/8.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/8.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/9.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/9.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/10.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/10.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/11.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/11.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/12.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/12.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/13.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/13.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/14.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/14.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/15.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/15.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/16.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/16.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/17.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/17.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/18.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/18.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/19.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/19.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/20.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/20.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/21.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/21.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/22.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/22.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/23.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/23.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/24.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/24.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/25.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/25.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/26.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/26.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/27.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/27.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/28.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/28.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/29.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/29.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/30.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/30.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/31.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/31.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/32.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/32.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/33.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/33.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/34.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/34.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/35.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/35.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/36.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/36.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/37.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/37.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/38.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/38.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/39.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/39.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/40.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/40.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/41.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/41.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/42.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/42.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/43.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/43.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/44.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/44.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/45.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/45.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/46.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/46.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/47.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/47.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/48.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/48.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/49.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/49.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/50.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/50.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/51.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/51.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/52.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/52.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/53.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/53.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/54.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/54.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/55.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/55.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/56.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/56.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/57.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/57.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/58.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/58.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/59.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/59.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/60.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/60.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/61.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/61.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/62.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/62.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/63.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/63.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/64.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/64.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/65.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/65.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/66.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/66.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/67.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/67.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/68.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/68.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/69.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/69.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/70.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/70.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/71.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/71.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/72.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/72.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/73.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/73.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/74.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/74.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/75.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/75.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/76.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/76.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/77.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/77.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/78.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/78.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/79.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/79.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/80.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/80.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/81.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/81.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/82.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/82.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/83.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/83.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/84.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/84.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/85.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/85.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/86.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/86.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/87.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/87.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/88.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/88.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/89.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/89.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/90.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/90.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/91.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/91.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/92.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/92.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/93.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/93.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/94.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/94.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/95.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/95.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/96.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/96.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/97.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/97.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/98.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/98.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/99.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/99.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/100.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/100.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/101.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/101.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/102.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/102.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/103.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/103.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/104.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/104.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/105.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/105.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/106.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/106.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/107.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/107.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/108.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/108.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/109.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/109.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/110.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/110.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/111.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/111.jpg'
+          },{
+              src: '../albums/WesternCanada2017/Photos/112.jpg',
+              thumb: '../albums/WesternCanada2017/Photos/thumbs/112.jpg'
           }]
       });
   });
