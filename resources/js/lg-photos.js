@@ -18,19 +18,170 @@ $(document).ready(function() {
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: 'http://via.placeholder.com/350x150',
-              thumb: 'http://via.placeholder.com/350x150'
+              src: '../albums/Houston2017/Photos/1.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/1.jpg'
           },{
-              src: 'https://www.youtube.com/watch?v=meBbDqAXago',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg'
+              src: '../albums/Houston2017/Photos/2.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/2.jpg'
           },{
-              html: '#video2',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg'
+              src: '../albums/Houston2017/Photos/3.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/3.jpg'
           },{
-              src: 'https://sachinchoolur.github.io/lightGallery/static/img/4.jpg',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-4.jpg'
+              src: '../albums/Houston2017/Photos/4.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/4.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/5.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/5.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/6.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/6.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/7.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/7.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/8.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/8.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/9.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/9.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/10.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/10.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/11.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/11.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/12.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/12.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/13.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/13.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/14.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/14.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/15.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/15.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/16.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/16.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/17.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/17.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/18.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/18.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/19.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/19.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/20.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/20.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/21.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/21.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/22.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/22.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/23.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/23.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/24.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/24.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/25.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/25.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/26.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/26.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/27.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/27.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/28.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/28.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/29.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/29.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/30.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/30.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/31.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/31.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/32.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/32.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/33.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/33.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/34.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/34.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/35.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/35.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/36.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/36.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/37.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/37.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/38.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/38.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/39.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/39.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/40.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/40.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/41.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/41.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/42.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/42.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/43.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/43.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/44.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/44.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/45.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/45.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/46.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/46.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/47.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/47.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/48.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/48.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/49.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/49.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/50.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/50.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/51.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/51.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/52.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/52.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/53.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/53.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/54.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/54.jpg'
+          },{
+              src: '../albums/Houston2017/Photos/55.jpg',
+              thumb: '../albums/Houston2017/Photos/thumbs/55.jpg'
           }]
       });
   });
@@ -386,19 +537,128 @@ $(document).ready(function() {
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: 'http://via.placeholder.com/350x150',
-              thumb: 'http://via.placeholder.com/350x150'
+              src: '../albums/Utah2017/Photos/1.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/1.jpg'
           },{
-              src: 'https://www.youtube.com/watch?v=meBbDqAXago',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg'
+              src: '../albums/Utah2017/Photos/2.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/2.jpg'
           },{
-              html: '#video2',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg'
+              src: '../albums/Utah2017/Photos/3.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/3.jpg'
           },{
-              src: 'https://sachinchoolur.github.io/lightGallery/static/img/4.jpg',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-4.jpg'
+              src: '../albums/Utah2017/Photos/4.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/4.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/5.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/5.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/6.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/6.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/7.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/7.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/8.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/8.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/9.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/9.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/10.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/10.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/11.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/11.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/12.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/12.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/13.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/13.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/14.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/14.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/15.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/15.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/16.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/16.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/17.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/17.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/18.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/18.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/19.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/19.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/20.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/20.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/21.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/21.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/22.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/22.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/23.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/23.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/24.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/24.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/25.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/25.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/26.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/26.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/27.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/27.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/28.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/28.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/29.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/29.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/30.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/30.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/31.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/31.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/32.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/32.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/33.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/33.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/34.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/34.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/35.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/35.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/36.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/36.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/37.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/37.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/38.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/38.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/39.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/39.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/40.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/40.jpg'
+          },{
+              src: '../albums/Utah2017/Photos/41.jpg',
+              thumb: '../albums/Utah2017/Photos/thumbs/41.jpg'
           }]
       });
   });
