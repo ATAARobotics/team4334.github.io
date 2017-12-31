@@ -1,36 +1,43 @@
 ﻿$(document).ready(function() {
-  $('#beakerhead2017').on('click', function(e) {
-      $(this).lightGallery({
-          dynamic: true,
-          dynamicEl: [{
-              src: '../albums/Beakerhead2017/Photos/1.JPG',
-              thumb: '../albums/Beakerhead2017/Photos/thumbs/1.JPG'
-          },{
-              src: '../albums/Beakerhead2017/Photos/2.JPG',
-              thumb: '../albums/Beakerhead2017/Photos/thumbs/2.JPG',
-          }]
-      });
-  });
-});
-
-$(document).ready(function() {
   $('#houston2017').on('click', function(e) {
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: 'http://via.placeholder.com/350x150',
-              thumb: 'http://via.placeholder.com/350x150'
+              src: 'https://youtu.be/0B0UuW-4QzE',
+              poster: 'http://img.youtube.com/vi/0B0UuW-4QzE/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 2</h4>"
           },{
-              src: 'https://www.youtube.com/watch?v=meBbDqAXago',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg'
+              src: 'https://youtu.be/6SxJR2t6I3s',
+              poster: 'http://img.youtube.com/vi/6SxJR2t6I3s/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 14</h4>"
           },{
-              html: '#video2',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg'
+              src: 'https://youtu.be/6XE9q_pgKQs',
+              poster: 'http://img.youtube.com/vi/6XE9q_pgKQs/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 25</h4>"
           },{
-              src: 'https://sachinchoolur.github.io/lightGallery/static/img/4.jpg',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-4.jpg'
+              src: 'https://youtu.be/uw461h0ePQk',
+              poster: 'http://img.youtube.com/vi/uw461h0ePQk/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 35</h4>"
+          },{
+              src: 'https://youtu.be/FiThkb35-ic',
+              poster: 'http://img.youtube.com/vi/FiThkb35-ic/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 50</h4>"
+          },{
+              src: 'https://youtu.be/az-yCAkt2U0',
+              poster: 'http://img.youtube.com/vi/az-yCAkt2U0/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 65</h4>"
+          },{
+              src: 'https://youtu.be/DE90imxryHI',
+              poster: 'http://img.youtube.com/vi/DE90imxryHI/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 77</h4>"
+          },{
+              src: 'https://youtu.be/n1S6QaX4WjA',
+              poster: 'http://img.youtube.com/vi/n1S6QaX4WjA/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 90</h4>"
+          },{
+              src: 'https://youtu.be/z9gG2kDOOAk',
+              poster: 'http://img.youtube.com/vi/z9gG2kDOOAk/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 101</h4>"
           }]
       });
   });
