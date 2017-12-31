@@ -74,21 +74,32 @@ $(document).ready(function() {
           dynamic: true,
           dynamicEl: [{
               src: 'https://youtu.be/Ahn37z_C_zs',
-              thumb: 'http://img.youtube.com/vi/Ahn37z_C_zs/default.jpg',
-              poster: 'https://i3.ytimg.com/vi/Ahn37z_C_zs/maxresdefault.jpg'
+              poster: 'http://img.youtube.com/vi/Ahn37z_C_zs/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 5</h4>"
           },{
-              src: '',
-              thumb: '',
-              poster: ''
+              src: 'https://youtu.be/8wAX9mgslw8',
+              poster: 'http://img.youtube.com/vi/8wAX9mgslw8/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 10</h4>"
           },{
-              src: '',
-              thumb: '',
-              poster: ''
+              src: 'https://youtu.be/DqLV78E_scA',
+              poster: 'http://img.youtube.com/vi/DqLV78E_scA/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 18</h4>"
           },{
-              src: '',
-              thumb: '',
-              poster: ''
+              src: 'https://youtu.be/kmYJZIUiI-I',
+              poster: 'http://img.youtube.com/vi/kmYJZIUiI-I/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 32</h4>"
           },{
+              src: 'https://youtu.be/OgO78Buh1KY',
+              poster: 'http://img.youtube.com/vi/OgO78Buh1KY/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 44</h4>"
+          },{
+              src: 'https://youtu.be/M5cRLfWnr5w',
+              poster: 'http://img.youtube.com/vi/M5cRLfWnr5w/maxresdefault.jpg',
+              'subHtml': "<h4>Quarterfinals 1 Match 1</h4>"
+          },{
+              src: 'https://youtu.be/gX2zxjVpUtA',
+              poster: 'http://img.youtube.com/vi/gX2zxjVpUtA/maxresdefault.jpg',
+              'subHtml': "<h4>Quarterfinals 1 Match 2</h4>"          
           }]
       });
   });
