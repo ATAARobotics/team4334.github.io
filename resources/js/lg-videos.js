@@ -208,19 +208,25 @@ $(document).ready(function() {
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: 'http://via.placeholder.com/350x150',
-              thumb: 'http://via.placeholder.com/350x150'
+              src: 'https://youtu.be/xrzfVvXOZWA',
+              poster: 'https://img.youtube.com/vi/xrzfVvXOZWA/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 46</h4>"
           },{
-              src: 'https://www.youtube.com/watch?v=meBbDqAXago',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg'
+              src: 'https://youtu.be/KNpoTuf6a44',
+              poster: 'https://img.youtube.com/vi/KNpoTuf6a44/maxresdefault.jpg',
+              'subHtml': "<h4>Quarterfinals 1 Match 2</h4>"
           },{
-              html: '#video2',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg'
+              src: 'https://youtu.be/hsMzM4svLyk',
+              poster: 'https://img.youtube.com/vi/hsMzM4svLyk/maxresdefault.jpg',
+              'subHtml': "<h4>Semifinals 1 Match 2</h4>"
           },{
-              src: 'https://sachinchoolur.github.io/lightGallery/static/img/4.jpg',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-4.jpg'
+              src: 'https://youtu.be/DepLHEy610w',
+              poster: 'https://img.youtube.com/vi/DepLHEy610w/maxresdefault.jpg',
+              'subHtml': "<h4>Finals 1</h4>"
+          },{
+              src: 'https://youtu.be/XI9S9WxcKoE',
+              poster: 'https://img.youtube.com/vi/XI9S9WxcKoE/maxresdefault.jpg',
+              'subHtml': "<h4>Finals 2</h4>"          
           }]
       });
   });
