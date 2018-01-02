@@ -233,30 +233,49 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  $('#championship2015').on('click', function(e) {
+  $('#championships2015').on('click', function(e) {
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: '../albums/Championship2015/Photos/1.png',
-              thumb: '../albums/Championship2015/Photos/thumbs/1.png'
+              src: 'https://youtu.be/wvTFPLxoXy8',
+              poster: 'https://img.youtube.com/vi/wvTFPLxoXy8/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 12</h4>"
           },{
-              src: '../albums/Championship2015/Photos/2.png',
-              thumb: '../albums/Championship2015/Photos/thumbs/2.png',
+              src: 'https://youtu.be/3kbFnDDoi8c',
+              poster: 'https://img.youtube.com/vi/3kbFnDDoi8c/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 18</h4>"
           },{
-              src: '../albums/Championship2015/Photos/3.png',
-              thumb: '../albums/Championship2015/Photos/thumbs/3.png'
+              src: 'https://youtu.be/oS3uZZLAGhk',
+              poster: 'https://img.youtube.com/vi/oS3uZZLAGhk/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 32</h4>"
           },{
-              src: '../albums/Championship2015/Photos/4.png',
-              thumb: '../albums/Championship2015/Photos/thumbs/4.png'
+              src: 'https://youtu.be/Cs2hbtMQfPM',
+              poster: 'https://img.youtube.com/vi/Cs2hbtMQfPM/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 47</h4>"
           },{
-              src: '../albums/Championship2015/Photos/5.png',
-              thumb: '../albums/Championship2015/Photos/thumbs/5.png'
+              src: 'https://youtu.be/veF2g7aY-V8',
+              poster: 'https://img.youtube.com/vi/veF2g7aY-V8/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 56</h4>"
           },{
-              src: '../albums/Championship2015/Photos/6.png',
-              thumb: '../albums/Championship2015/Photos/thumbs/6.png'
+              src: 'https://youtu.be/BfymU7mhkP4',
+              poster: 'https://img.youtube.com/vi/BfymU7mhkP4/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 76</h4>"
           },{
-              src: '../albums/Championship2015/Photos/7.png',
-              thumb: '../albums/Championship2015/Photos/thumbs/7.png'
+              src: 'https://youtu.be/LJgV-3xjeWY',
+              poster: 'https://img.youtube.com/vi/LJgV-3xjeWY/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 88</h4>"
+          },{
+              src: 'https://youtu.be/9ve_Fw3yUHw',
+              poster: 'https://img.youtube.com/vi/9ve_Fw3yUHw/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 98</h4>"
+          },{
+              src: 'https://youtu.be/IVpr4ICRUgc',
+              poster: 'https://img.youtube.com/vi/IVpr4ICRUgc/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 105</h4>"
+          },{
+              src: 'https://youtu.be/luahvXcrfOQ',
+              poster: 'https://img.youtube.com/vi/luahvXcrfOQ/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 124</h4>"          
           }]
       });
   });
