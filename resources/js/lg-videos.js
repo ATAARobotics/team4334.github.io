@@ -286,31 +286,41 @@ $(document).ready(function() {
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: '../albums/Utah15/Photos/1.jpg',
-              thumb: '../albums/Utah15/Photos/thumbs/1.jpg'
+              src: 'https://youtu.be/iDUh0kf6y3Q',
+              poster: 'https://img.youtube.com/vi/iDUh0kf6y3Q/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 34</h4>"
           },{
-              src: '../albums/Utah15/Photos/2.jpg',
-              thumb: '../albums/Utah15/Photos/thumbs/2.jpg',
+              src: 'https://youtu.be/KXivfs2nzKQ',
+              poster: 'https://img.youtube.com/vi/KXivfs2nzKQ/maxresdefault.jpg',
+              'subHtml': "<h4>Quarterfinals 4</h4>"
           },{
-              src: '../albums/Utah15/Photos/3.jpg',
-              thumb: '../albums/Utah15/Photos/thumbs/3.jpg'
+              src: 'https://youtu.be/iEgSEWkvYEw',
+              poster: 'https://img.youtube.com/vi/iEgSEWkvYEw/maxresdefault.jpg',
+              'subHtml': "<h4>Quarterfinals 8</h4>"
           },{
-              src: '../albums/Utah15/Photos/4.jpg',
-              thumb: '../albums/Utah15/Photos/thumbs/4.jpg'
+              src: 'https://youtu.be/I2ZYoABdx2Y',
+              poster: 'https://img.youtube.com/vi/I2ZYoABdx2Y/maxresdefault.jpg',
+              'subHtml': "<h4>Semifinals 2</h4>"
           },{
-              src: '../albums/Utah15/Photos/5.jpg',
-              thumb: '../albums/Utah15/Photos/thumbs/5.jpg'
+              src: 'https://youtu.be/_q3GQ7v79xI',
+              poster: 'https://img.youtube.com/vi/_q3GQ7v79xI/maxresdefault.jpg',
+              'subHtml': "<h4>Semifinals 4</h4>"
           },{
-              src: '../albums/Utah15/Photos/6.jpg',
-              thumb: '../albums/Utah15/Photos/thumbs/6.jpg'
+              src: 'https://youtu.be/YFQcPSGxoNI',
+              poster: 'https://img.youtube.com/vi/YFQcPSGxoNI/maxresdefault.jpg',
+              'subHtml': "<h4>Semifinals 6</h4>"
           },{
-              src: '../albums/Utah15/Photos/7.jpg',
-              thumb: '../albums/Utah15/Photos/thumbs/7.jpg'
+              src: 'https://youtu.be/E90aRSQZco0',
+              poster: 'https://img.youtube.com/vi/E90aRSQZco0/maxresdefault.jpg',
+              'subHtml': "<h4>Finals 1</h4>"
+          },{
+              src: 'https://youtu.be/gCfW4fzr6Qc',
+              poster: 'https://img.youtube.com/vi/gCfW4fzr6Qc/maxresdefault.jpg',
+              'subHtml': "<h4>Finals 2</h4>"         
           }]
       });
   });
 });
-
 $(document).ready(function() {
   $('#buildseason2015').on('click', function(e) {
       $(this).lightGallery({
