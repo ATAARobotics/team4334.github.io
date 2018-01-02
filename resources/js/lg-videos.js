@@ -4,39 +4,39 @@
           dynamic: true,
           dynamicEl: [{
               src: 'https://youtu.be/0B0UuW-4QzE',
-              poster: 'http://img.youtube.com/vi/0B0UuW-4QzE/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/0B0UuW-4QzE/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 2</h4>"
           },{
               src: 'https://youtu.be/6SxJR2t6I3s',
-              poster: 'http://img.youtube.com/vi/6SxJR2t6I3s/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/6SxJR2t6I3s/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 14</h4>"
           },{
               src: 'https://youtu.be/6XE9q_pgKQs',
-              poster: 'http://img.youtube.com/vi/6XE9q_pgKQs/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/6XE9q_pgKQs/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 25</h4>"
           },{
               src: 'https://youtu.be/uw461h0ePQk',
-              poster: 'http://img.youtube.com/vi/uw461h0ePQk/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/uw461h0ePQk/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 35</h4>"
           },{
               src: 'https://youtu.be/FiThkb35-ic',
-              poster: 'http://img.youtube.com/vi/FiThkb35-ic/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/FiThkb35-ic/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 50</h4>"
           },{
               src: 'https://youtu.be/az-yCAkt2U0',
-              poster: 'http://img.youtube.com/vi/az-yCAkt2U0/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/az-yCAkt2U0/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 65</h4>"
           },{
               src: 'https://youtu.be/DE90imxryHI',
-              poster: 'http://img.youtube.com/vi/DE90imxryHI/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/DE90imxryHI/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 77</h4>"
           },{
               src: 'https://youtu.be/n1S6QaX4WjA',
-              poster: 'http://img.youtube.com/vi/n1S6QaX4WjA/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/n1S6QaX4WjA/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 90</h4>"
           },{
               src: 'https://youtu.be/z9gG2kDOOAk',
-              poster: 'http://img.youtube.com/vi/z9gG2kDOOAk/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/z9gG2kDOOAk/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 101</h4>"
           }]
       });
@@ -49,19 +49,19 @@ $(document).ready(function() {
           dynamic: true,
           dynamicEl: [{
               src: 'https://youtu.be/Pt00SLXMVmY',
-              poster: 'http://img.youtube.com/vi/Pt00SLXMVmY/0.jpg',
+              poster: 'https://img.youtube.com/vi/Pt00SLXMVmY/0.jpg',
               'subHtml': "<h4>Semifinals 1 Match 1</h4>"
           },{
               src: 'https://youtu.be/TElMWBIvvZM',
-              poster: 'http://img.youtube.com/vi/TElMWBIvvZM/0.jpg',
+              poster: 'https://img.youtube.com/vi/TElMWBIvvZM/0.jpg',
               'subHtml': "<h4>Semifinals 1 Match 2</h4>"
           },{
               src: 'https://youtu.be/1JKtk4lAsBs',
-              poster: 'http://img.youtube.com/vi/1JKtk4lAsBs/0.jpg',
+              poster: 'https://img.youtube.com/vi/1JKtk4lAsBs/0.jpg',
               'subHtml': "<h4>Finals 1</h4>"
           },{
               src: 'https://youtu.be/wi2bhqD56wU',
-              poster: 'http://img.youtube.com/vi/wi2bhqD56wU/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/wi2bhqD56wU/maxresdefault.jpg',
               'subHtml': "<h4>Finals 2</h4>"          
           }]
       });
@@ -74,55 +74,32 @@ $(document).ready(function() {
           dynamic: true,
           dynamicEl: [{
               src: 'https://youtu.be/Ahn37z_C_zs',
-              poster: 'http://img.youtube.com/vi/Ahn37z_C_zs/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/Ahn37z_C_zs/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 5</h4>"
           },{
               src: 'https://youtu.be/8wAX9mgslw8',
-              poster: 'http://img.youtube.com/vi/8wAX9mgslw8/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/8wAX9mgslw8/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 10</h4>"
           },{
               src: 'https://youtu.be/DqLV78E_scA',
-              poster: 'http://img.youtube.com/vi/DqLV78E_scA/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/DqLV78E_scA/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 18</h4>"
           },{
               src: 'https://youtu.be/kmYJZIUiI-I',
-              poster: 'http://img.youtube.com/vi/kmYJZIUiI-I/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/kmYJZIUiI-I/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 32</h4>"
           },{
               src: 'https://youtu.be/OgO78Buh1KY',
-              poster: 'http://img.youtube.com/vi/OgO78Buh1KY/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/OgO78Buh1KY/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 44</h4>"
           },{
               src: 'https://youtu.be/M5cRLfWnr5w',
-              poster: 'http://img.youtube.com/vi/M5cRLfWnr5w/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/M5cRLfWnr5w/maxresdefault.jpg',
               'subHtml': "<h4>Quarterfinals 1 Match 1</h4>"
           },{
               src: 'https://youtu.be/gX2zxjVpUtA',
-              poster: 'http://img.youtube.com/vi/gX2zxjVpUtA/maxresdefault.jpg',
+              poster: 'https://img.youtube.com/vi/gX2zxjVpUtA/maxresdefault.jpg',
               'subHtml': "<h4>Quarterfinals 1 Match 2</h4>"          
-          }]
-      });
-  });
-});
-
-$(document).ready(function() {
-  $('#beakerhead2016').on('click', function(e) {
-      $(this).lightGallery({
-          dynamic: true,
-          dynamicEl: [{
-              src: 'http://via.placeholder.com/350x150',
-              thumb: 'http://via.placeholder.com/350x150'
-          },{
-              src: 'https://www.youtube.com/watch?v=meBbDqAXago',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg'
-          },{
-              html: '#video2',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg'
-          },{
-              src: 'https://sachinchoolur.github.io/lightGallery/static/img/4.jpg',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-4.jpg'
           }]
       });
   });
@@ -133,19 +110,57 @@ $(document).ready(function() {
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: 'http://via.placeholder.com/350x150',
-              thumb: 'http://via.placeholder.com/350x150'
+              src: 'https://youtu.be/EI9yIGk7I74',
+              poster: 'https://img.youtube.com/vi/EI9yIGk7I74/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 5</h4>"
           },{
-              src: 'https://www.youtube.com/watch?v=meBbDqAXago',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg'
+              src: 'https://youtu.be/YfRjGQIF3GY',
+              poster: 'https://img.youtube.com/vi/YfRjGQIF3GY/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 23</h4>"
           },{
-              html: '#video2',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg'
+              src: 'https://youtu.be/wkDSWQMobBo',
+              poster: 'https://img.youtube.com/vi/wkDSWQMobBo/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 32</h4>"
           },{
-              src: 'https://sachinchoolur.github.io/lightGallery/static/img/4.jpg',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-4.jpg'
+              src: 'https://youtu.be/KcvU6P3iSTA',
+              poster: 'https://img.youtube.com/vi/KcvU6P3iSTA/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 42</h4>"
+          },{
+              src: 'https://youtu.be/MW3nB7bOVF0',
+              poster: 'https://img.youtube.com/vi/MW3nB7bOVF0/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 56</h4>"
+          },{
+              src: 'https://youtu.be/eLH1_mpYDs0',
+              poster: 'https://img.youtube.com/vi/eLH1_mpYDs0/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 66</h4>"
+          },{
+              src: 'https://youtu.be/4660jw5lr_4',
+              poster: 'https://img.youtube.com/vi/4660jw5lr_4/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 76</h4>"
+          },{
+              src: 'https://youtu.be/M8H5cQwd-Rk',
+              poster: 'https://img.youtube.com/vi/M8H5cQwd-Rk/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 97</h4>"
+          },{
+              src: 'https://youtu.be/jMAOun3zdtY',
+              poster: 'https://img.youtube.com/vi/jMAOun3zdtY/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 119</h4>"
+          },{
+              src: 'https://youtu.be/iPvKCh-s_Mo',
+              poster: 'https://img.youtube.com/vi/iPvKCh-s_Mo/maxresdefault.jpg',
+              'subHtml': "<h4>Quarterfinals 2 Match 1</h4>"
+          },{
+              src: 'https://youtu.be/S0voFmprz7A',
+              poster: 'https://img.youtube.com/vi/S0voFmprz7A/maxresdefault.jpg',
+              'subHtml': "<h4>Quarterfinals 2 Match 2</h4>"
+          },{
+              src: 'https://youtu.be/s1JnFrt6WNQ',
+              poster: 'https://img.youtube.com/vi/s1JnFrt6WNQ/maxresdefault.jpg',
+              'subHtml': "<h4>Semifinals 1 Match 1</h4>"
+          },{
+              src: 'https://youtu.be/HM5N8KhAkug',
+              poster: 'https://img.youtube.com/vi/HM5N8KhAkug/maxresdefault.jpg',
+              'subHtml': "<h4>Semifinals 1 Match 2</h4>"          
           }]
       });
   });
