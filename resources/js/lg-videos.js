@@ -171,19 +171,33 @@ $(document).ready(function() {
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: 'http://via.placeholder.com/350x150',
-              thumb: 'http://via.placeholder.com/350x150'
+              src: 'https://youtu.be/k7AkVchyf0g',
+              poster: 'https://img.youtube.com/vi/k7AkVchyf0g/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 28</h4>"
           },{
-              src: 'https://www.youtube.com/watch?v=meBbDqAXago',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg'
+              src: 'https://youtu.be/11RX6wI0QzE',
+              poster: 'https://img.youtube.com/vi/11RX6wI0QzE/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 31</h4>"
           },{
-              html: '#video2',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/videos/y-video1-cover.jpg',
-              poster: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-v-y-1.jpg'
+              src: 'https://youtu.be/2ejQ1pQBoZo',
+              poster: 'https://img.youtube.com/vi/2ejQ1pQBoZo/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 40</h4>"
           },{
-              src: 'https://sachinchoolur.github.io/lightGallery/static/img/4.jpg',
-              thumb: 'https://sachinchoolur.github.io/lightGallery/static/img/thumb-4.jpg'
+              src: 'https://youtu.be/OFH5HRvPRjA',
+              poster: 'https://img.youtube.com/vi/OFH5HRvPRjA/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 45</h4>"
+          },{
+              src: 'https://youtu.be/bi6jqrCkoZE',
+              poster: 'https://img.youtube.com/vi/bi6jqrCkoZE/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 49</h4>"
+          },{
+              src: 'https://youtu.be/2HPsKQD-8-k?t=27508',
+              poster: 'https://img.youtube.com/vi/2HPsKQD-8-k/maxresdefault.jpg',
+              'subHtml': "<h4>Semifinals 1 Match 1</h4>"
+          },{
+              src: 'https://youtu.be/2HPsKQD-8-k?t=28680',
+              poster: 'https://img.youtube.com/vi/2HPsKQD-8-k/maxresdefault.jpg',
+              'subHtml': "<h4>Semifinals 1 Match 2</h4>"          
           }]
       });
   });
