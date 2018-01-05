@@ -321,6 +321,7 @@ $(document).ready(function() {
       });
   });
 });
+
 $(document).ready(function() {
   $('#buildseason2015').on('click', function(e) {
       $(this).lightGallery({
