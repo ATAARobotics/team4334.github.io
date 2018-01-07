@@ -386,3 +386,44 @@ $(document).ready(function() {
       });
   });
 });
+
+$(document).ready(function() {
+  $('#iri2013').on('click', function(e) {
+      $(this).lightGallery({
+          dynamic: true,
+          dynamicEl: [{
+              src: 'https://youtu.be/EmkXDq6Z88k',
+              poster: 'https://img.youtube.com/vi/EmkXDq6Z88k/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 10</h4>"
+          },{
+              src: 'https://youtu.be/nzxJ7-TIazE',
+              poster: 'https://img.youtube.com/vi/nzxJ7-TIazE/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 28</h4>"
+          },{
+              src: 'https://youtu.be/K1pWTagOehY',
+              poster: 'http://img.youtube.com/vi/K1pWTagOehY/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 37</h4>"
+          },{
+              src: 'https://youtu.be/hcaCvjDG6Bc',
+              poster: 'https://img.youtube.com/vi/hcaCvjDG6Bc/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 48</h4>"
+          },{
+              src: 'https://youtu.be/mpZC1em2NbY',
+              poster: 'https://img.youtube.com/vi/mpZC1em2NbY/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 67</h4>"
+          },{
+              src: 'https://youtu.be/2ouCtMzViVo',
+              poster: 'https://img.youtube.com/vi/2ouCtMzViVo/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 76</h4>"
+          },{
+              src: 'https://youtu.be/JxCUCp7amcM',
+              poster: 'https://img.youtube.com/vi/JxCUCp7amcM/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 88</h4>"
+          },{
+              src: 'https://youtu.be/TzqvB4mGgXE',
+              poster: 'https://img.youtube.com/vi/TzqvB4mGgXE/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 95</h4>"         
+          }]
+      });
+  });
+});
