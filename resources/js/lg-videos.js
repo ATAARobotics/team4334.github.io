@@ -473,3 +473,40 @@ $(document).ready(function() {
       });
   });
 });
+
+$(document).ready(function() {
+  $('#seattle2013').on('click', function(e) {
+      $(this).lightGallery({
+          dynamic: true,
+          dynamicEl: [{
+              src: 'https://youtu.be/L-kGuVJmpdg',
+              poster: 'https://img.youtube.com/vi/L-kGuVJmpdg/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 7</h4>"
+          },{
+              src: 'https://youtu.be/YNn7cOVFnGU',
+              poster: 'https://img.youtube.com/vi/YNn7cOVFnGU/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 32</h4>"
+          },{
+              src: 'https://youtu.be/nhWrefZA4KA',
+              poster: 'https://img.youtube.com/vi/nhWrefZA4KA/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 40</h4>"
+          },{
+              src: 'https://youtu.be/I6xFvMppjNg',
+              poster: 'https://img.youtube.com/vi/I6xFvMppjNg/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 53</h4>"
+          },{
+              src: 'https://youtu.be/PcKsMe4AyKo',
+              poster: 'https://img.youtube.com/vi/PcKsMe4AyKo/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 60</h4>"
+          },{
+              src: 'https://youtu.be/006Tkl7Pj3g',
+              poster: 'https://img.youtube.com/vi/006Tkl7Pj3g/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 85</h4>"
+          },{
+              src: 'https://youtu.be/7M6EUYz8Fu4',
+              poster: 'https://img.youtube.com/vi/7M6EUYz8Fu4/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 95</h4>"       
+          }]
+      });
+  });
+});
