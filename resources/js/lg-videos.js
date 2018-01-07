@@ -323,120 +323,65 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-  $('#buildseason2015').on('click', function(e) {
+  $('#championships2014').on('click', function(e) {
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: '../albums/2015BagAndTag/Photos/1.jpg',
-              thumb: '../albums/2015BagAndTag/Photos/thumbs/1.jpg'
+              src: 'https://youtu.be/8k4WjUj5B5I',
+              poster: 'https://img.youtube.com/vi/8k4WjUj5B5I/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 3</h4>"
           },{
-              src: '../albums/2015BagAndTag/Photos/2.jpg',
-              thumb: '../albums/2015BagAndTag/Photos/thumbs/2.jpg',
+              src: 'https://youtu.be/i04I1d6Le7M',
+              poster: 'https://img.youtube.com/vi/i04I1d6Le7M/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 30</h4>"
           },{
-              src: '../albums/2015BagAndTag/Photos/3.jpg',
-              thumb: '../albums/2015BagAndTag/Photos/thumbs/3.jpg'
+              src: 'https://youtu.be/v2O-b6Pe_4M',
+              poster: 'https://img.youtube.com/vi/i04I1d6Le7M/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 45</h4>"
           },{
-              src: '../albums/2015BagAndTag/Photos/4.jpg',
-              thumb: '../albums/2015BagAndTag/Photos/thumbs/4.jpg'
+              src: 'https://youtu.be/Z6sUO66tcaU',
+              poster: 'https://img.youtube.com/vi/Z6sUO66tcaU/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 56</h4>"
           },{
-          }]
-      });
-  });
-});
-
-
-$(document).ready(function() {
-  $('#westerncanada2014').on('click', function(e) {
-      $(this).lightGallery({
-          dynamic: true,
-          dynamicEl: [{
-              src: '../albums/CalgaryRegional2014/Photos/68.jpg',
-              thumb: '../albums/CalgaryRegional2014/Photos/thumbs/68.jpg'
+              src: 'https://youtu.be/hxkYQ3FRpmw',
+              poster: 'https://img.youtube.com/vi/hxkYQ3FRpmw/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 70</h4>"
           },{
-              src: '../albums/CalgaryRegional2014/Photos/69.jpg',
-              thumb: '../albums/CalgaryRegional2014/Photos/thumbs/69.jpg'
+              src: 'https://youtu.be/bBzC7mqMdDU',
+              poster: 'https://img.youtube.com/vi/bBzC7mqMdDU/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 88</h4>"
           },{
-              src: '../albums/CalgaryRegional2014/Photos/70.jpg',
-              thumb: '../albums/CalgaryRegional2014/Photos/thumbs/70.jpg'
-          }]
-      });
-  });
-});
-
-
-
-
-$(document).ready(function() {
-  $('#iri2013').on('click', function(e) {
-      $(this).lightGallery({
-          dynamic: true,
-          dynamicEl: [{
-              src: '../albums/IRI/Photos/1.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/1.jpg'
+              src: 'https://youtu.be/EuZL0SvPGpo',
+              poster: 'https://img.youtube.com/vi/EuZL0SvPGpo/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 102</h4>"
           },{
-              src: '../albums/IRI/Photos/2.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/2.jpg',
+              src: 'https://youtu.be/h-sSMtY5qN0',
+              poster: 'https://img.youtube.com/vi/h-sSMtY5qN0/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 135</h4>"
           },{
-              src: '../albums/IRI/Photos/3.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/3.jpg'
+              src: 'https://youtu.be/DUoe48YgVZM',
+              poster: 'https://img.youtube.com/vi/DUoe48YgVZM/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 162</h4>"
           },{
-              src: '../albums/IRI/Photos/4.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/4.jpg'
+              src: 'https://youtu.be/Hktj-XiMjHM',
+              poster: 'https://img.youtube.com/vi/Hktj-XiMjHM/maxresdefault.jpg',
+              'subHtml': "<h4>Quarters 2 Match 1</h4>"
           },{
-              src: '../albums/IRI/Photos/5.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/5.jpg'
+              src: 'https://youtu.be/89c8Dw7taSc',
+              poster: 'https://img.youtube.com/vi/89c8Dw7taSc/maxresdefault.jpg',
+              'subHtml': "<h4>Quarters 2 Match 2</h4>"
           },{
-              src: '../albums/IRI/Photos/6.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/6.jpg'
+              src: 'https://youtu.be/Ltrx1j2Ydqo',
+              poster: 'https://img.youtube.com/vi/Ltrx1j2Ydqo/maxresdefault.jpg',
+              'subHtml': "<h4>Semifinals 1 Match 1</h4>"
           },{
-              src: '../albums/IRI/Photos/7.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/7.jpg'
+              src: 'https://youtu.be/xrHVA-PLsBo',
+              poster: 'https://img.youtube.com/vi/xrHVA-PLsBo/maxresdefault.jpg',
+              'subHtml': "<h4>Semifinals 1 Match 2</h4>"
           },{
-              src: '../albums/IRI/Photos/8.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/8.jpg'
-          },{
-              src: '../albums/IRI/Photos/9.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/9.jpg'
-          },{
-              src: '../albums/IRI/Photos/10.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/10.jpg'
-          },{
-              src: '../albums/IRI/Photos/11.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/11.jpg'
-          },{
-              src: '../albums/IRI/Photos/12.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/12.jpg',
-          },{
-              src: '../albums/IRI/Photos/13.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/13.jpg'
-          },{
-              src: '../albums/IRI/Photos/14.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/14.jpg'
-          },{
-              src: '../albums/IRI/Photos/15.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/15.jpg'
-          },{
-              src: '../albums/IRI/Photos/16.jpg',
-              thumb: '../albums/IRI/Photos/thumbs/16.jpg'
-          }]
-      });
-  });
-});
-
-
-$(document).ready(function() {
-  $('#seattle2013').on('click', function(e) {
-      $(this).lightGallery({
-          dynamic: true,
-          dynamicEl: [{
-              src: '../albums/Seattle2013/Photos/1.jpg',
-              thumb: '../albums/Seattle2013/Photos/thumbs/1.jpg'
-          },{
-              src: '../albums/Seattle2013/Photos/2.jpg',
-              thumb: '../albums/Seattle2013/Photos/thumbs/2.jpg',
-          },{
-              src: '../albums/Seattle2013/Photos/3.jpg',
-              thumb: '../albums/Seattle2013/Photos/thumbs/3.jpg'
+              src: 'https://youtu.be/r89vVVureew',
+              poster: 'https://img.youtube.com/vi/r89vVVureew/maxresdefault.jpg',
+              'subHtml': "<h4>Semifinals 1 Match 3</h4>"         
           }]
       });
   });
