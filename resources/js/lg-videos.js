@@ -510,3 +510,24 @@ $(document).ready(function() {
       });
   });
 });
+
+$(document).ready(function() {
+  $('#iri2012').on('click', function(e) {
+      $(this).lightGallery({
+          dynamic: true,
+          dynamicEl: [{
+              src: 'https://youtu.be/Os49QeiRQV4',
+              poster: 'https://img.youtube.com/vi/Os49QeiRQV4/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 28</h4>"
+          },{
+              src: 'https://youtu.be/ZnlL1FhVDxg',
+              poster: 'https://img.youtube.com/vi/ZnlL1FhVDxg/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 76</h4>"
+          },{
+              src: 'https://youtu.be/9alg0ypzz68',
+              poster: 'https://img.youtube.com/vi/9alg0ypzz68/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 104</h4>"       
+          }]
+      });
+  });
+});
