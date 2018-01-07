@@ -448,3 +448,28 @@ $(document).ready(function() {
       });
   });
 });
+
+$(document).ready(function() {
+  $('#westerncanada2013').on('click', function(e) {
+      $(this).lightGallery({
+          dynamic: true,
+          dynamicEl: [{
+              src: 'https://youtu.be/SJhkznW_dBQ',
+              poster: 'https://img.youtube.com/vi/SJhkznW_dBQ/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 43</h4>"
+          },{
+              src: 'https://youtu.be/SQfiILb1Es8',
+              poster: 'https://img.youtube.com/vi/SQfiILb1Es8/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 46</h4>"
+          },{
+              src: 'https://youtu.be/Cqhi9QaKiUc',
+              poster: 'https://img.youtube.com/vi/Cqhi9QaKiUc/maxresdefault.jpg',
+              'subHtml': "<h4>Finals 1</h4>"
+          },{
+              src: 'https://youtu.be/bBq1xtq5rfI',
+              poster: 'https://img.youtube.com/vi/bBq1xtq5rfI/maxresdefault.jpg',
+              'subHtml': "<h4>Finals 2</h4>"         
+          }]
+      });
+  });
+});
