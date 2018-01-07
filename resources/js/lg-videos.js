@@ -282,6 +282,20 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
+  $('#utah2014').on('click', function(e) {
+      $(this).lightGallery({
+          dynamic: true,
+          dynamicEl: [{
+              src: 'https://youtu.be/OyZ-i7OYDZA',
+              poster: 'https://img.youtube.com/vi/OyZ-i7OYDZA/hqdefault.jpg',
+              'subHtml': "<h4>Semifinals 2 Match 1</h4>"
+          }]
+      });
+  });
+});
+
+
+$(document).ready(function() {
   $('#utah2015').on('click', function(e) {
       $(this).lightGallery({
           dynamic: true,
@@ -527,6 +541,23 @@ $(document).ready(function() {
               src: 'https://youtu.be/9alg0ypzz68',
               poster: 'https://img.youtube.com/vi/9alg0ypzz68/maxresdefault.jpg',
               'subHtml': "<h4>Qualifications 104</h4>"       
+          }]
+      });
+  });
+});
+
+$(document).ready(function() {
+  $('#einstein2012').on('click', function(e) {
+      $(this).lightGallery({
+          dynamic: true,
+          dynamicEl: [{
+              src: 'https://youtu.be/K84uckmXg_c?t=169',
+              poster: 'https://img.youtube.com/vi/K84uckmXg_c/hqdefault.jpg',
+              'subHtml': "<h4>Semifinals 2 Match 1</h4>"
+          },{
+              src: 'https://youtu.be/K84uckmXg_c?t=806',
+              poster: 'https://img.youtube.com/vi/K84uckmXg_c/hqdefault.jpg',
+              'subHtml': "<h4>Semifinals 2 Match 2</h4>"       
           }]
       });
   });
