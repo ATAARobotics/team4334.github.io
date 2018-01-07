@@ -427,3 +427,24 @@ $(document).ready(function() {
       });
   });
 });
+
+$(document).ready(function() {
+  $('#championships2013').on('click', function(e) {
+      $(this).lightGallery({
+          dynamic: true,
+          dynamicEl: [{
+              src: 'https://youtu.be/c2l_wky5YV4',
+              poster: 'https://img.youtube.com/vi/c2l_wky5YV4/maxresdefault.jpg',
+              'subHtml': "<h4>Qualifications 78</h4>"
+          },{
+              src: 'https://youtu.be/TnFE3tkZ0S4',
+              poster: 'https://img.youtube.com/vi/TnFE3tkZ0S4/maxresdefault.jpg',
+              'subHtml': "<h4>Quarterfinals 4 Match 1</h4>"
+          },{
+              src: 'https://youtu.be/IBOpoQ3TR8g',
+              poster: 'https://img.youtube.com/vi/IBOpoQ3TR8g/maxresdefault.jpg',
+              'subHtml': "<h4>Quarterfinals 4 Match 2</h4>"         
+          }]
+      });
+  });
+});
