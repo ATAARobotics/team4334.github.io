@@ -562,3 +562,76 @@ $(document).ready(function() {
       });
   });
 });
+
+$(document).ready(function() {
+  $('#championships2012').on('click', function(e) {
+      $(this).lightGallery({
+          dynamic: true,
+          dynamicEl: [{
+              src: 'https://youtu.be/OUZorOQYMJM',
+              poster: 'https://img.youtube.com/vi/OUZorOQYMJM/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 15</h4>"
+          },{
+              src: 'https://youtu.be/OUZorOQYMJM?t=2953',
+              poster: 'https://img.youtube.com/vi/OUZorOQYMJM/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 32</h4>"
+          },{
+              src: 'https://youtu.be/JKU9gnDJm1c?t=329',
+              poster: 'https://img.youtube.com/vi/JKU9gnDJm1c/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 49</h4>"
+          },{
+              src: 'https://youtu.be/JKU9gnDJm1c?t=2195',
+              poster: 'https://img.youtube.com/vi/JKU9gnDJm1c/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 60</h4>"
+          },{
+              src: 'https://youtu.be/7Z2DqZRXw6o?t=1177',
+              poster: 'https://img.youtube.com/vi/7Z2DqZRXw6o/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 68</h4>"
+          },{
+              src: 'https://youtu.be/p0cMNt7Ua38?t=504',
+              poster: 'https://img.youtube.com/vi/p0cMNt7Ua38/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 86</h4>"
+          },{
+              src: 'https://youtu.be/p0cMNt7Ua38?t=3581',
+              poster: 'https://img.youtube.com/vi/p0cMNt7Ua38/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 104</h4>"
+          },{
+              src: 'https://youtu.be/p0cMNt7Ua38?t=6560',
+              poster: 'https://img.youtube.com/vi/p0cMNt7Ua38/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 121</h4>"
+          },{
+              src: 'https://youtu.be/ZJny1UM2YZY?t=167',
+              poster: 'https://img.youtube.com/vi/ZJny1UM2YZY/hqdefault.jpg',
+              'subHtml': "<h4>Qualifications 147</h4>"
+          },{
+              src: 'https://youtu.be/o3k9QhAfxfo?t=317',
+              poster: 'https://img.youtube.com/vi/o3k9QhAfxfo/hqdefault.jpg',
+              'subHtml': "<h4>Quarterfinals 3 Match 1</h4>"
+          },{
+              src: 'https://youtu.be/o3k9QhAfxfo?t=1058',
+              poster: 'https://img.youtube.com/vi/o3k9QhAfxfo/hqdefault.jpg',
+              'subHtml': "<h4>Quarterfinals 3 Match 2</h4>"
+          },{
+              src: 'https://youtu.be/o3k9QhAfxfo?t=1710',
+              poster: 'http://img.youtube.com/vi/o3k9QhAfxfo/hqdefault.jpg',
+              'subHtml': "<h4>Semifinals 2 Match 1</h4>"
+          },{
+              src: 'https://youtu.be/o3k9QhAfxfo?t=2039',
+              poster: 'https://img.youtube.com/vi/o3k9QhAfxfo/hqdefault.jpg',
+              'subHtml': "<h4>Semifinals 2 Match 2</h4>"
+          },{
+              src: 'https://youtu.be/o3k9QhAfxfo?t=2395',
+              poster: 'https://img.youtube.com/vi/o3k9QhAfxfo/hqdefault.jpg',
+              'subHtml': "<h4>Finals 1</h4>"
+          },{
+              src: 'https://youtu.be/o3k9QhAfxfo?t=2557',
+              poster: 'https://img.youtube.com/vi/o3k9QhAfxfo/hqdefault.jpg',
+              'subHtml': "<h4>Finals 2</h4>"
+          },{
+              src: 'https://youtu.be/o3k9QhAfxfo?t=2715',
+              poster: 'https://img.youtube.com/vi/o3k9QhAfxfo/hqdefault.jpg',
+              'subHtml': "<h4>Finals 3</h4>"       
+          }]
+      });
+  });
+});
