@@ -27,6 +27,9 @@
 .navbar-nav li a:hover {
 	color: #afafaf !important;
 }
+a.dropdown-item:active{
+	background: #cccccc
+}
 .navbar li a, .navbar .navbar-brand {
 	color: #000000 !important;
 }
@@ -73,13 +76,6 @@
 	padding-left: 0px;
 	padding-right: 0px;
 }
-#heightfix {
-	margin-top: 15px;
-}
-#widthfix {
-	margin-right: -420px;
-	width: 40%;
-}
 #fb {
 	width: 500px;
 }
@@ -87,10 +83,6 @@
 	text-align: right;
 }
 @media (max-width: 1199px){
-#widthfix {
-	margin-right: -700px;
-	width: 80%;
-}
 #fb {
 	width: 455px;
 }
@@ -99,13 +91,6 @@
 }
 }
 @media (max-width: 991px){
-#widthfix {
-	margin-right: -840px;
-	width: 130%;
-}
-#heightfix {
-	margin-top: 0px;
-}
 #fb {
 	width: 345px;
 }
@@ -114,10 +99,6 @@
 }
 }
 @media (max-width: 767px){
-#widthfix {
-	margin-right: -420px;
-	width: 35%;
-}
 #fb {
 	width: 333px;
 }
@@ -129,38 +110,46 @@
 }
 }
 </style>
-
 <div class="container">
-<nav class="navbar navbar-expand-md navbar-light">
-      <a class="navbar-brand" href="#">Navbar</a>
-      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarPrimary" aria-controls="navbarPrimary" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-
-      <div class="collapse navbar-collapse" id="navbarPrimary">
-        <ul class="navbar-nav">
-          <li class="nav-item active">
-            <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">Link</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link disabled" href="#">Disabled</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Dropdown</a>
-            <div class="dropdown-menu" aria-labelledby="dropdown01">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
-              <a class="dropdown-item" href="#">Something else here</a>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </nav>
+	<nav class="navbar navbar-expand-md navbar-light">
+		<a class="navbar-brand" href="index.html">
+		<img class="img-fluid" src="resources/img/atalogo.png"></a>
+		<button class="navbar-toggler" data-target="#primaryNavbar" data-toggle="collapse" type="button">
+		<span class="navbar-toggler-icon"></span></button>
+		<div id="primaryNavbar" class="collapse navbar-collapse justify-content-end">
+			<ul class="navbar-nav">
+				<li class="nav-item"><a class="nav-link" href="index.html">Home</a>
+				</li>
+				<li class="nav-item dropdown">
+				<a id="navbardrop" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">
+				<i>FIRST</i> </a>
+				<div class="dropdown-menu">
+					<a class="dropdown-item" href="first/first.html"><i>FIRST</i></a>
+					<a class="dropdown-item" href="first/pu2018.html">POWER UP 2018</a>
+					<a class="dropdown-item" href="first/sw2017.html">Seamworks 
+					2017</a> <a class="dropdown-item" href="first/sh2016.html">Stronghold 
+					2016</a> <a class="dropdown-item" href="first/rr2015.html">Recycle 
+					Rush 2015</a>
+					<a class="dropdown-item" href="first/aa2014.html">Aerial Assist 
+					2014</a> <a class="dropdown-item" href="first/ua2013.html">Ultimate 
+					Ascent 2013</a>
+					<a class="dropdown-item" href="first/rr2012.html">Rebound Rumble 
+					2012</a> </div>
+				</li>
+				<li class="nav-item"><a class="nav-link" href="team/team.html">Team</a>
+				</li>
+				<li class="nav-item"><a class="nav-link" href="blog/blog.html">Blog</a>
+				</li>
+				<li class="nav-item">
+				<a class="nav-link" href="media/photos.html">Media</a> </li>
+				<li class="nav-item"><a class="nav-link" href="sponsors.html">Sponsors</a>
+				</li>
+				<li class="nav-item"><a class="nav-link" href="contact.html">Contact</a>
+				</li>
+			</ul>
+		</div>
+	</nav>
 </div>
-
 <div class="container">
 	<div class="row">
 		<div id="carouselBox" class="col-sm-12" style="background-color: #f0f0f0; margin-bottom: 15px;">
@@ -168,8 +157,8 @@
 				<div id="myCarousel" class="carousel slide" data-ride="carousel">
 					<!-- Wrapper for slides -->
 					<div class="carousel-inner">
-						<div class="item active">
-							<img class="center-block" src="resources/img/c1.jpeg">
+						<div class="carousel-item active">
+							<img class="d-block mx-auto" src="resources/img/c1.jpeg">
 							<div class="carousel-caption">
 								<h4><a href="blog/posts/westcan2017.html">Western 
 								Canada 2017</a></h4>
@@ -179,8 +168,8 @@
 							</div>
 						</div>
 						<!-- End Item -->
-						<div class="item">
-							<img class="center-block" src="resources/img/c2.jpg">
+						<div class="carousel-item">
+							<img class="d-block mx-auto" src="resources/img/c2.jpg">
 							<div class="carousel-caption">
 								<h4><a href="blog/posts/china2016.html">ATA Goes 
 								to China!</a></h4>
@@ -189,8 +178,8 @@
 							</div>
 						</div>
 						<!-- End Item -->
-						<div class="item">
-							<img class="center-block" src="resources/img/c3.jpg">
+						<div class="carousel-item">
+							<img class="d-block mx-auto" src="resources/img/c3.jpg">
 							<div class="carousel-caption">
 								<h4><a href="blog/posts/westcan2016.html">Western 
 								Canada 2016</a></h4>
@@ -199,8 +188,8 @@
 							</div>
 						</div>
 						<!-- End Item -->
-						<div class="item">
-							<img class="center-block" src="resources/img/c4.jpeg">
+						<div class="carousel-item">
+							<img class="d-block mx-auto" src="resources/img/c4.jpeg">
 							<div class="carousel-caption">
 								<h4><a href="blog/posts/utah2016.html">2016 Utah 
 								Regional</a></h4>
@@ -208,8 +197,8 @@
 							</div>
 						</div>
 						<!-- End Item -->
-						<div class="item">
-							<img class="center-block" src="resources/img/c5.jpg">
+						<div class="carousel-item">
+							<img class="d-block mx-auto" src="resources/img/c5.jpg">
 							<div class="carousel-caption">
 								<h4><a href="blog/posts/salvationarmy2015.html">
 								Salvation Army Volunteering</a></h4>
@@ -235,74 +224,66 @@
 						<h4>Salvation Army Volunteering</h4>
 						</li>
 					</ul>
-					<!-- Controls -->
 					<div class="carousel-controls">
-						<a class="left carousel-control" data-slide="prev" href="#myCarousel">
-						<span class="glyphicon glyphicon-chevron-left"></span>
-						</a>
-						<a class="right carousel-control" data-slide="next" href="#myCarousel">
-						<span class="glyphicon glyphicon-chevron-right"></span>
-						</a></div>
+						<a class="carousel-control-prev" data-slide="prev" href="#myCarousel">
+						<span class="carousel-control-prev-icon"></span></a>
+						<a class="carousel-control-next" data-slide="next" href="#myCarousel">
+						<span class="carousel-control-next-icon"></span></a>
+						<!-- End Carousel --></div>
 				</div>
-				<!-- End Carousel --></div>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-sm-12" style="background-color: #f0f0f0">
-			<div class="col-sm-3">
-				<img alt="Image Not Found!" class="img-fluid" src="resources/img/ataleaf.png" style="padding-top: 15px" width="100%">
-			</div>
-			<div class="col-sm-9">
-				<p style="margin-top: 15px">We are <b>Team 4334, Alberta Tech Alliance</b>, 
-				a FRC robotics team based in Calgary, Alberta, Canada.</p>
-				<p>We strive to actively improve ourselves and others spreading 
-				FIRST Robotics ideals and values, both in and out of competition. 
-				ATA gives students the opportunity to pursue an interest in science, 
-				technology, engineering, and math. With a team compliment of determined, 
-				committed and skilled members, we each work year round to promote 
-				personal and general improvement within our team and others. We 
-				strongly believe that competition and a consistent "try-again" attitude 
-				is what leads to innovation and further understanding.</p>
-				<p>Each of our members is encouraged to challenge themselves to 
-				their fullest potential. We do not settle for what seems possible. 
-				We work harder, push ourselves farther and achieve what some would 
-				consider impossible.</p>
-			</div>
-			<div class="col-sm-12" style="background-color: #f0f0f0; padding-bottom: 15px">
-				<div style="text-align: center">
-					<a class="btn btn-default btn-md" href="team/team.html" style="background: #404040; border-radius: 0px; color: white; margin-top: 15px;">
-					Learn More</a> </div>
 			</div>
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-sm-12" style="background-color: #f0f0f0; margin-top: 15px; margin-bottom: 0px">
-			<div class="col-sm-9">
-				<p style="margin-top: 15px"><i>For Inspiration and Recognition of 
-				Science and Technology</i> is an international youth organization 
-				that operates the FIRST Robotics Competition, FIRST LEGO League, 
-				FIRST LEGO League Jr., and First Tech Challenge competitions.</p>
-				<p><i>FIRST</i>'s goal is to inspire students to become leaders 
-				in engineering and technology fields through engaging programs that 
-				build skills in science, engineering, and technology. Through these 
-				programs, students are inspired to innovate, develop vital work 
-				skills, and build skills in self-confidence, communication, and 
-				leadership.</p>
-				<p>"<i>FIRST</i> is more than robots. The robots are a vehicle for 
-				students to learn important life skills. Kids often come in not 
-				knowing what to expect - of the program nor of themselves. They 
-				leave, even after the first season, with a vision, with confidence, 
-				and with a sense that they can create their own future." -Dean Kamen, 
-				founder of <i>FIRST</i></p>
-			</div>
-			<div class="col-sm-3">
-				<img alt="Image Not Found!" class="img-fluid" src="resources/img/firstlogo.png" style="padding-top: 15px" width="100%">
-			</div>
-			<div class="col-sm-12" style="background-color: #f0f0f0; padding-bottom: 15px">
-				<div style="text-align: center">
-					<a class="btn btn-default btn-md" href="first/first.html" style="background: #404040; border-radius: 0px; color: white; margin-top: 15px;">
-					Learn More</a> </div>
-			</div>
+		<div class="col-sm-3" style="background-color: #f0f0f0">
+			<img alt="Image Not Found!" class="img-fluid" src="resources/img/ataleaf.png" style="padding-top: 15px" width="100%">
+		</div>
+		<div class="col-sm-9" style="background-color: #f0f0f0">
+			<p style="margin-top: 15px">We are <b>Team 4334, Alberta Tech Alliance</b>, 
+			a FRC robotics team based in Calgary, Alberta, Canada.</p>
+			<p>We strive to actively improve ourselves and others spreading FIRST 
+			Robotics ideals and values, both in and out of competition. ATA gives 
+			students the opportunity to pursue an interest in science, technology, 
+			engineering, and math. With a team compliment of determined, committed 
+			and skilled members, we each work year round to promote personal and 
+			general improvement within our team and others. We strongly believe 
+			that competition and a consistent "try-again" attitude is what leads 
+			to innovation and further understanding.</p>
+			<p>Each of our members is encouraged to challenge themselves to their 
+			fullest potential. We do not settle for what seems possible. We work 
+			harder, push ourselves farther and achieve what some would consider 
+			impossible.</p>
+		</div>
+		<div class="col-sm-12" style="background-color: #f0f0f0; padding-bottom: 15px">
+			<div style="text-align: center">
+				<a class="btn btn-default btn-md" href="team/team.html" style="background: #404040; border-radius: 0px; color: white; margin-top: 15px;">
+				Learn More</a> </div>
+		</div>
+	</div>
+	<div class="row" style="margin-top: 15px">
+		<div class="col-sm-9" style="background-color: #f0f0f0">
+			<p style="margin-top: 15px"><i>For Inspiration and Recognition of Science 
+			and Technology</i> is an international youth organization that operates 
+			the FIRST Robotics Competition, FIRST LEGO League, FIRST LEGO League 
+			Jr., and First Tech Challenge competitions.</p>
+			<p><i>FIRST</i>'s goal is to inspire students to become leaders in engineering 
+			and technology fields through engaging programs that build skills in 
+			science, engineering, and technology. Through these programs, students 
+			are inspired to innovate, develop vital work skills, and build skills 
+			in self-confidence, communication, and leadership.</p>
+			<p>"<i>FIRST</i> is more than robots. The robots are a vehicle for students 
+			to learn important life skills. Kids often come in not knowing what 
+			to expect - of the program nor of themselves. They leave, even after 
+			the first season, with a vision, with confidence, and with a sense that 
+			they can create their own future." -Dean Kamen, founder of <i>FIRST</i></p>
+		</div>
+		<div class="col-sm-3" style="background-color: #f0f0f0">
+			<img alt="Image Not Found!" class="img-fluid" src="resources/img/firstlogo.png" style="padding-top: 15px" width="100%">
+		</div>
+		<div class="col-sm-12" style="background-color: #f0f0f0; padding-bottom: 15px">
+			<div style="text-align: center">
+				<a class="btn btn-default btn-md" href="first/first.html" style="background: #404040; border-radius: 0px; color: white; margin-top: 15px;">
+				Learn More</a> </div>
 		</div>
 	</div>
 	<div class="row">

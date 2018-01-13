@@ -2,7 +2,7 @@
     
 	var clickEvent = false;
 	$('#myCarousel').carousel({
-		interval:   4000	
+		interval:   5000	
 	}).on('click', '.list-group li', function() {
 			clickEvent = true;
 			$('.list-group li').removeClass('active');
@@ -23,7 +23,7 @@
 
 $(window).load(function() {
     var boxheight = $('#myCarousel .carousel-inner').innerHeight();
-    var itemlength = $('#myCarousel .item').length;
+    var itemlength = $('#myCarousel .carousel-item').length;
     var triggerheight = Math.round(boxheight/itemlength+1);
 	$('#myCarousel .list-group-item').outerHeight(triggerheight);
 });
