@@ -3,5 +3,6 @@ description: "Official website of Team 4334 - Alberta Tech Alliance"
 
 permalink: pretty
 url: http://4334.ca
+baseurl: /4334Website
 
 paginator: 10
