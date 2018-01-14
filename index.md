@@ -108,7 +108,7 @@ layout: default
 		</div>
 		<div class="col-sm-12" style="background-color: #f0f0f0; padding-bottom: 15px">
 			<div style="text-align: center">
-				<a class="btn btn-default btn-md" href="team/team.html" style="background: #404040; border-radius: 0px; color: white; margin-top: 15px;">
+				<a class="btn btn-default btn-md" href="/team" style="background: #404040; border-radius: 0px; color: white; margin-top: 15px;">
 				Learn More</a> </div>
 		</div>
 	</div>
@@ -134,7 +134,7 @@ layout: default
 		</div>
 		<div class="col-sm-12" style="background-color: #f0f0f0; padding-bottom: 15px">
 			<div style="text-align: center">
-				<a class="btn btn-default btn-md" href="first/first.html" style="background: #404040; border-radius: 0px; color: white; margin-top: 15px;">
+				<a class="btn btn-default btn-md" href="/first" style="background: #404040; border-radius: 0px; color: white; margin-top: 15px;">
 				Learn More</a> </div>
 		</div>
 	</div>
