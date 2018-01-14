@@ -1,0 +1,17 @@
+{% include header.html %}
+
+<div class="container">
+	<div class="row">
+		<div class="col-sm-7" style="background-color: #ffffff; margin-bottom: 20px;">
+            {% if page.url == '/first/' %}<h1 style="font-size: 24pt; margin-top:0px"><i>FIRST</i></h1>{% endif %}
+            {% if page.url contains '20' %}<h1 style="font-size: 24pt; margin-top:0px">{{ page.title }} - {{ page.year }} FRC Game</h1>{% endif %}
+			<div class="embed-responsive embed-responsive-16by9">
+			<iframe class="embed-responsive-item" width="640" height="360" src="{{ page.vid }}" frameborder="0" allowfullscreen></iframe>
+			</div>
+		</div>
+		<div class="col-sm-5" style="background-color:#f0f0f0; margin-bottom:20px;">
+			{{ content }}
+			<img class="img-fluid" style="width:90%; margin:0 auto; padding-bottom:10px" src="{{ page.img }}">
+		</div>
+	</div>
+</div>
