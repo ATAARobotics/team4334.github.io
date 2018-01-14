@@ -149,7 +149,3 @@ layout: default
 		</div>
 	</div>
 </div>
-
-</body>
-
-</html>
