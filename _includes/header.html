@@ -143,6 +143,23 @@ a.dropdown-item:active{
 }
 }
 {% endif %}
+{% if page.title == 'Team' or 'History' or 'Awards' or 'Robots' or 'Mentors' or 'Alumni' or 'Photos' or 'Videos' or 'News' or 'Chairman's 2014' or 'Chariman's 2013' %}
+#snav {
+	background: #000000;
+	border: 0;
+	border-radius: 0px;
+	margin-bottom: 0px;
+	font-size: 18px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
+#snav li a:hover {
+	color: #afafaf !important;
+}
+#snav li a, .navbar .navbar-brand {
+	color: #ffffff !important;
+}
+{% endif %}
 </style>
 <div class="container">
 	<nav class="navbar navbar-expand-md navbar-light">
