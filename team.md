@@ -17,7 +17,7 @@ title: Team
 			fullest potential. We do not settle for what seems possible. We work 
 			harder, push ourselves farther and achieve what some would consider 
 			impossible.</p>
-			<div id="myCarousel" class="carousel slide center-block" data-ride="carousel" style="margin-bottom: 15px;">
+			<div id="myCarousel" class="carousel slide d-block mx-auto" data-ride="carousel" style="margin-bottom: 15px;">
 				<!-- Indicators -->
 				<ol class="carousel-indicators">
 					<li class="active" data-slide-to="0" data-target="#myCarousel">
@@ -30,48 +30,48 @@ title: Team
 				</ol>
 				<!-- Wrapper for slides -->
 				<div class="carousel-inner">
-					<div class="item active">
-						<img class="center-block" style="min-height:450px; max-height:600px" alt="2017" src="../resources/img/team2017.jpeg">
+					<div class="carousel-item active">
+						<img class="d-block mx-auto" style="min-height:450px; max-height:600px" alt="2017" src="/resources/img/team2017.jpeg">
 						<div class="carousel-caption">
 							<h3>2017</h3>
 						</div>
 					</div>
-					<div class="item">
-						<img class="center-block" style="min-height:450px; max-height:600px" alt="2016" src="../resources/img/team2016.jpg">
+					<div class="carousel-item">
+						<img class="d-block mx-auto" style="min-height:450px; max-height:600px" alt="2016" src="/resources/img/team2016.jpg">
 						<div class="carousel-caption">
 							<h3>2016</h3>
 						</div>
 					</div>
-					<div class="item">
-						<img class="center-block" style="min-height:450px; max-height:600px" alt="2015" src="../resources/img/team2015.JPG">
+					<div class="carousel-item">
+						<img class="d-block mx-auto" style="min-height:450px; max-height:600px" alt="2015" src="/resources/img/team2015.JPG">
 						<div class="carousel-caption">
 							<h3>2015</h3>
 						</div>
 					</div>
-					<div class="item">
-						<img class="center-block" style="min-height:600px; max-height:450px" alt="2014" src="../resources/img/team2014.png">
+					<div class="carousel-item">
+						<img class="d-block mx-auto" style="min-height:600px; max-height:450px" alt="2014" src="/resources/img/team2014.png">
 						<div class="carousel-caption">
 							<h3>2014</h3>
 						</div>
 					</div>
-					<div class="item">
-						<img class="center-block" style="min-height:450px; max-height:600px" alt="2013" src="../resources/img/team2013.jpg">
+					<div class="carousel-item">
+						<img class="d-block mx-auto" style="min-height:450px; max-height:600px" alt="2013" src="/resources/img/team2013.jpg">
 						<div class="carousel-caption">
 							<h3>2013</h3>
 						</div>
 					</div>
-					<div class="item">
-						<img class="center-block" style="min-height:450px; max-height:600px" alt="2012" src="../resources/img/team2012.jpg">
+					<div class="carousel-item">
+						<img class="d-block mx-auto" style="min-height:450px; max-height:600px" alt="2012" src="/resources/img/team2012.jpg">
 						<div class="carousel-caption">
 							<h3>2012</h3>
 						</div>
 					</div>
 				</div>
 				<!-- Left and right controls -->
-				<a class="left carousel-control" data-slide="prev" href="#myCarousel">
+				<a class="carousel-control-left" data-slide="prev" href="#myCarousel">
 				<span class="glyphicon glyphicon-chevron-left"></span>
 				<span class="sr-only">Previous</span> </a>
-				<a class="right carousel-control" data-slide="next" href="#myCarousel">
+				<a class="carousel-control-right" data-slide="next" href="#myCarousel">
 				<span class="glyphicon glyphicon-chevron-right"></span>
 				<span class="sr-only">Next</span> </a></div>
 		</div>
