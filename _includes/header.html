@@ -2,22 +2,22 @@
 <html lang="en">
 
 <head>
-{% if page.title != nil %}
-            <title>{{ site.name }} - {{ page.title }}</title>
-        {% else %}
-            <title>{{ site.name }}</title>
-        {% endif %}
+<title>{{ site.name }} - {{ page.title }}</title>
 <meta charset="utf-8">
 <meta content="width=device-width, initial-scale=1" name="viewport">
 <link href="/resources/css/bootstrap.min.css" rel="stylesheet">
-<script src="/resources/js/bootstrap.min.js"></script>
 {% if page.title == 'Home' %}
 <script src="/resources/js/jquery.min.js"></script>
+<script src="/resources/js/bootstrap.min.js"></script>
 <script src="/resources/js/carousel.js"></script>
 {% endif %}
-{% if page.title == 'Photos' %}
+{% if page.title == 'Team' %}
 <script src="/resources/js/jquery.min.js"></script>
+<script src="/resources/js/bootstrap.min.js"></script>
+{% endif %}
+{% if page.title == 'Photos' %}
 <link href="/resources/css/lightgallery.css" rel="stylesheet">
+<script src="/resources/js/jquery.min.js"></script>
 <script src="/resources/js/lightgallery.min.js"></script>
 <script src="/resources/js/lg-autoplay.min.js"></script>
 <script src="/resources/js/lg-fullscreen.min.js"></script>
