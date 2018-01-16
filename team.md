@@ -1,23 +1,18 @@
 ﻿---
-layout: team
+layout: team 
 title: Team
 ---
 <div class="container">
 	<div class="row">
 		<div class="col-sm-12">
-			<p style="padding-top: 15px">We are 4334, a FRC robotics team based 
-			in Calgary, Alberta, Canada. We strive to actively improve ourselves 
-			and others spreading FIRST Robotics ideals and values both in and out 
-			of competition. With a team compliment of determined, committed and 
-			skilled members, we each work year round to promote personal and general 
-			improvement within our team and others. We strongly believe that competition 
-			and a consistent "try-again" attitude is what leads to innovation and 
-			further understanding.</p>
-			<p>Each of our members is encouraged to challenge themselves to their 
-			fullest potential. We do not settle for what seems possible. We work 
-			harder, push ourselves farther and achieve what some would consider 
-			impossible.</p>
-			<div id="myCarousel" class="carousel slide d-block mx-auto" data-ride="carousel" style="margin-bottom: 15px;">
+			<p style="padding-top: 15px">We are 4334, a FRC robotics team based in Calgary, Alberta, Canada. We strive to actively improve ourselves and others
+				spreading FIRST Robotics ideals and values both in and out of competition. With a team compliment of determined, committed
+				and skilled members, we each work year round to promote personal and general improvement within our team and others.
+				We strongly believe that competition and a consistent "try-again" attitude is what leads to innovation and further understanding.</p>
+			<p>Each of our members is encouraged to challenge themselves to their fullest potential. We do not settle for what seems
+				possible. We work harder, push ourselves farther and achieve what some would consider impossible.
+			</p>
+			<div id="myCarousel" class="carousel slide d-block mx-auto" data-ride="carousel" style="margin-bottom: 15px; background-color:#bababa">
 				<!-- Indicators -->
 				<ol class="carousel-indicators">
 					<li class="active" data-slide-to="0" data-target="#myCarousel">
@@ -68,12 +63,13 @@ title: Team
 					</div>
 				</div>
 				<!-- Left and right controls -->
-				<a class="carousel-control-left" data-slide="prev" href="#myCarousel">
-				<span class="carousel-control-prev-icon"></span>
-				<span class="sr-only">Previous</span> </a>
-				<a class="carousel-control-right" data-slide="next" href="#myCarousel">
-				<span class="carousel-control-next-icon"></span>
-				<span class="sr-only">Next</span> </a></div>
+				<a class="carousel-control-prev" href="#myCarousel" data-slide="prev">
+					<span class="carousel-control-prev-icon"></span>
+				</a>
+				<a class="carousel-control-next" href="#myCarousel" data-slide="next">
+					<span class="carousel-control-next-icon"></span>
+				</a>
+			</div>
 		</div>
 	</div>
 </div>
