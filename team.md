@@ -70,8 +70,10 @@ title: Team
 				<!-- Left and right controls -->
 				<a class="carousel-control-left" data-slide="prev" href="#myCarousel">
 				<span class="carousel-control-prev-icon"></span>
+				<span class="sr-only">Previous</span> </a>
 				<a class="carousel-control-right" data-slide="next" href="#myCarousel">
 				<span class="carousel-control-next-icon"></span>
+				<span class="sr-only">Next</span> </a></div>
 		</div>
 	</div>
 </div>
