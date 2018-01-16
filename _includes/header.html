@@ -12,8 +12,8 @@
 <link href="/resources/css/bootstrap.min.css" rel="stylesheet">
 <script src="/resources/js/bootstrap.min.js"></script>
 {% if page.title == 'Home' %}
-<script src="/resources/js/carousel.js"></script>
 <script src="/resources/js/jquery.min.js"></script>
+<script src="/resources/js/carousel.js"></script>
 {% endif %}
 {% if page.title == 'Photos' %}
 <script src="/resources/js/jquery.min.js"></script>
@@ -139,7 +139,6 @@ a.dropdown-item:active{
 }
 }
 {% endif %}
-{% if page.title == 'Team' or 'History' or 'Awards' or 'Robots' or 'Mentors' or 'Alumni' or 'Photos' or 'Videos' or 'News' or 'Chairman's 2014' or 'Chariman's 2013' %}
 #snav {
 	background: #000000;
 	border: 0;
@@ -155,7 +154,6 @@ a.dropdown-item:active{
 #snav li a, .navbar .navbar-brand {
 	color: #ffffff !important;
 }
-{% endif %}
 </style>
 <div class="container">
 	<nav class="navbar navbar-expand-md navbar-light">
