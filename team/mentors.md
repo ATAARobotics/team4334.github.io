@@ -2,7 +2,7 @@
 	<div class="row">
 		<div class="col-sm-4">
 			<div class="thumbnail" style="min-height:520px">
-				<img alt="Image Not Found!" src=/resources/img/mentors/mac-hunik.png>
+				<img alt="Image Not Found!" src="/resources/img/mentors/mac-hunik.png">
 				<h3 style="padding-left: 5px">Mac Hunik</h3>
 				<p style="padding-left: 5px">Mac Hunik is a previous team member. He is now studying as a mechanical engineer.</p>
 				<p style="padding-left:5px">Mac supports the team as a:<br>-Fabrication Mentor<br>-Drive Coach</p>
@@ -12,7 +12,7 @@
 			<div class="thumbnail" style="min-height:520px">
 				<img alt="Image Not Found!" src="/resources/img/mentors/alex-vu.png">
 				<h3 style="padding-left: 5px">Alex Vu</h3>
-				<p style="padding-left: 5px">Alex Vu is a previous team member. He is now studying as a neuroscientist for some reason.</p>
+				<p style="padding-left: 5px">Alex Vu is a previous team member. He is now studying as a neuroscientist.</p>
 				<p style="padding-left:5px">Alex supports the team as a:<br>-CAD Mentor<br>-Design Mentor</p>
 			</div>
 		</div>
