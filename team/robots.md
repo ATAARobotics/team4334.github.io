@@ -1,160 +1,31 @@
-﻿<!DOCTYPE html>
-<html lang="en">
-
-<head>
-<title>Team 4334 - Robots</title>
-<meta charset="utf-8">
-<meta content="width=device-width, initial-scale=1" name="viewport">
-<link href="../resources/css/bootstrap.min.css" rel="stylesheet">
-<script src="../resources/js/jquery.min.js"></script>
-<script src="../resources/js/bootstrap.min.js"></script>
-<link href="../favicon.ico" rel="icon" type="image/png">
-</head>
-
-<body>
-
-<style>
-.navbar {
-	background: #FFFFFF;
-	padding-top: 15px;
-	padding-bottom: 15px;
-	border: 0;
-	border-radius: 0px;
-	margin-bottom: 0px;
-	font-size: 18px;
-}
-.navbar-nav li a:hover {
-	color: #afafaf !important;
-}
-.navbar li a, .navbar .navbar-brand {
-	color: #000000 !important;
-}
-#snav {
-	background: #000000;
-	border: 0;
-	border-radius: 0px;
-	margin-bottom: 0px;
-	font-size: 18px;
-	padding-top: 0px;
-	padding-bottom: 0px;
-}
-#snav li a:hover {
-	color: #afafaf !important;
-}
-#snav li a, .navbar .navbar-brand {
-	color: #ffffff !important;
-}
-.thumbnail {
-	padding: 0 0 5px 0;
-	border: none;
-	border-radius: 0;
-	background-color: #f0f0f0;
-	margin-top: 15px;
-	min-height: 412px;
-}
-#heightfix{
-	margin-top:15px
-}
-#widthfix {
-	margin-right: -420px;
-	width: 40%;
-}
-@media (max-width: 1199px){
-#widthfix {
-	margin-right: -700px;
-	width: 80%;
-}
-}
-@media (max-width: 991px){
-#widthfix {
-	margin-right: -840px;
-	width: 130%;
-}
-#heightfix{
-	margin-top:0px
-}
-}
-@media (max-width: 767px){
-#widthfix {
-	margin-right: -420px;
-	width: 35%;
-}
-}
-</style>
-<nav class="navbar navbar-default">
-	<div class="container">
-		<div class="navbar-header">
-			<button class="navbar-toggle" data-target="#myNavbar" data-toggle="collapse" type="button">
-			<span class="icon-bar"></span><span class="icon-bar"></span>
-			<span class="icon-bar"></span></button><a href="../index.html">
-			<img class="img-responsive" id="widthfix" src="../resources/img/atalogo.png" title="Home" /></a>
-		</div>
-		<div id="myNavbar" class="collapse navbar-collapse">
-			<ul class="nav navbar-nav navbar-right">
-				<li><a href="../index.html" id="heightfix">Home</a></li>
-				<li class="dropdown">
-				<a class="dropdown-toggle" data-toggle="dropdown" href="#" style="font-style: italic" id="heightfix">
-				FIRST <span class="caret"></span></a>
-				<ul class="dropdown-menu">
-					<li>
-					<a href="../first/first.html" style="font-style: italic;">FIRST</a></li>
-					<li><a href="../first/sw2017.html">Steamworks 2017</a></li>
-					<li><a href="../first/sh2016.html">Stronghold 2016</a></li>
-					<li><a href="../first/rr2015.html">Recycle Rush 2015</a></li>
-					<li><a href="../first/aa2014.html">Aerial Assist 2014</a></li>
-					<li><a href="../first/ua2013.html">Ultimate Ascent 2013</a></li>
-					<li><a href="../first/rr2012.html">Rebound Rumble 2012</a></li>
-				</ul>
-				</li>
-				<li><a href="../team/team.html" id="heightfix">Team</a></li>
-				<li><a href="../blog/blog.html" id="heightfix">Blog</a></li>
-				<li><a href="../media/photos.html" id="heightfix">Media</a></li>
-				<li><a href="../sponsors.html" id="heightfix">Sponsors</a></li>
-				<li><a href="../contact.html" id="heightfix">Contact</a></li>
-			</ul>
-		</div>
-	</div>
-</nav>
-<div class="container">
-	<nav id="snav" class="navbar navbar-inverse">
-		<div class="container-fluid">
-			<div class="navbar-header">
-				<a class="navbar-brand" style="font-size: 24pt">Robots</a> </div>
-			<ul class="nav navbar-nav navbar-right">
-				<li><a href="team.html">Team</a></li>
-				<li><a href="history.html">History</a></li>
-				<li><a href="awards.html">Awards</a></li>
-				<li class="active"><a href="robots.html">Robots</a></li>
-				<li><a href="mentors.html">Mentors</a></li>
-				<li><a href="alumni.html">Alumni</a></li>
-			</ul>
-		</div>
-	</nav>
-</div>
+﻿---
+layout: team
+title: Robots
+---
 <div class="container">
 	<div class="row">
 		<div class="col-sm-4">
-			<div class="thumbnail">
-				<img alt="Pivot" src="../resources/img/pivot.jpg">
-				<h3 style="padding-left: 5px">2017 - Pivot</h3>
-				<p style="padding-left: 5px">Pivot participated in FIRST Steamworks. 
+			<div class="thumbnail" style="min-height:420px">
+				<img class="img-fluid" alt="Pivot" src="/resources/img/pivot.jpg">
+				<h3>2017 - Pivot</h3>
+				<p>Pivot participated in FIRST Steamworks. 
 				Pivot is able to pick up gears, drop them off at the airship, and 
 				climb during the final seconds of the match.</p>
 			</div>
 		</div>
 		<div class="col-sm-4">
-			<div class="thumbnail">
-				<img alt="Velocity" src="../resources/img/velocity.jpg">
-				<h3 style="padding-left: 5px">2016 - Velocity</h3>
-				<p style="padding-left: 5px">Velocity participated in FIRST Stronghold. 
+			<div class="thumbnail" style="min-height:420px">
+				<img class="img-fluid" alt="Velocity" src="/resources/img/velocity.jpg">
+				<h3>2016 - Velocity</h3>
+				<p>Velocity participated in FIRST Stronghold. 
 				Velocity is able to shoot high goals and breach all defences.</p>
 			</div>
 		</div>
 		<div class="col-sm-4">
-			<div class="thumbnail">
-				<img alt="Elevation" src="../resources/img/elevation.JPG">
-				<h3 style="padding-left: 5px">2015 - Elevation</h3>
-				<p style="padding-left: 5px">Elevation participated in Recycle Rush. 
+			<div class="thumbnail" style="min-height:420px">
+				<img class="img-fluid" alt="Elevation" src="/resources/img/elevation.JPG">
+				<h3>2015 - Elevation</h3>
+				<p>Elevation participated in Recycle Rush. 
 				Elevation is designed for bottom stacking and flipping totes.</p>
 			</div>
 		</div>
@@ -163,31 +34,27 @@
 <div class="container">
 	<div class="row">
 		<div class="col-sm-4">
-			<div class="thumbnail">
-				<img alt="Momentum" src="../resources/img/momentum.jpg">
-				<h3 style="padding-left: 5px">2014 - Momentum</h3>
-				<p style="padding-left: 5px">Momentum participated in Aerial Assault. 
+			<div class="thumbnail" style="min-height:420px; margin-bottom: 15px;">
+				<img class="img-fluid" alt="Momentum" src="/resources/img/momentum.jpg">
+				<h3>2014 - Momentum</h3>
+				<p>Momentum participated in Aerial Assault. 
 				Momentum is a highly agile robot with a primary goal of finishing 
 				and imbounding.</p>
 			</div>
 		</div>
 		<div class="col-sm-4">
-			<div class="thumbnail">
-				<img alt="Murdock" src="../resources/img/murdock.jpg">
-				<h3 style="padding-left: 5px">2013 - Murdock</h3>
-				<p style="padding-left: 5px">Murdock participated in Ultimate Ascent. Murdock is a full-court shooter robot that aligns itself into a corner and fires frisbees from 54' away.</p>
+			<div class="thumbnail" style="min-height:420px; margin-bottom: 15px;">
+				<img class="img-fluid" alt="Murdock" src="/resources/img/murdock.jpg">
+				<h3>2013 - Murdock</h3>
+				<p>Murdock participated in Ultimate Ascent. Murdock is a full-court shooter robot that aligns itself into a corner and fires frisbees from 54' away.</p>
 			</div>
 		</div>
 		<div class="col-sm-4">
-			<div class="thumbnail">
-				<img alt="Rex" src="../resources/img/rex.jpg">
-				<h3 style="padding-left: 5px">2012 - Rex</h3>
-				<p style="padding-left: 5px">Rex participated in Rebound Rumble. Rex is a feeder robot that picks up balls and sends them over the bump.</p>
+			<div class="thumbnail" style="min-height:420px; margin-bottom: 15px;">
+				<img class="img-fluid" alt="Rex" src="/resources/img/rex.jpg">
+				<h3>2012 - Rex</h3>
+				<p>Rex participated in Rebound Rumble. Rex is a feeder robot that picks up balls and sends them over the bump.</p>
 			</div>
 		</div>
 	</div>
 </div>
-
-</body>
-
-</html>
