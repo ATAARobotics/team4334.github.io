@@ -159,6 +159,24 @@ a.dropdown-item:active{
 	color: #ffffff !important;
 }
 {% endif %}
+{% if page.title == 'Photos' or page.title == 'Videos' %}
+.thumbnail {
+	padding: 0 0 1px 0;
+	border: none;
+	border-radius: 0;
+	background-color: #f0f0f0;
+	margin-top: 15px;
+}
+a:link {
+			color: #333333;
+		}
+		a:hover {
+			color: #333333;
+		}
+		a:active {
+			color: #333333;
+		}
+{% endif %}
 </style>
 <div class="container">
 	<nav class="navbar navbar-expand-md navbar-light">
