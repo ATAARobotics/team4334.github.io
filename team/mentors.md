@@ -35,8 +35,6 @@ title: Mentors
 			</div>
 		</div>
 	</div>
-</div>
-<div class="container">
 	<div class="row">
 		<div class="col-sm-4">
 			<div class="thumbnail" style="min-height:635px">
@@ -68,8 +66,6 @@ title: Mentors
 			</div>
 		</div>
 	</div>
-</div>
-<div class="container">
 	<div class="row">
 		<div class="col-sm-4">
 			<div class="thumbnail" style="margin-bottom: 15px">

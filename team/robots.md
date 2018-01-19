@@ -30,8 +30,6 @@ title: Robots
 			</div>
 		</div>
 	</div>
-</div>
-<div class="container">
 	<div class="row">
 		<div class="col-sm-4">
 			<div class="thumbnail" style="min-height:420px; margin-bottom: 15px;">
