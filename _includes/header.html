@@ -134,20 +134,20 @@ a.dropdown-item:active{
 {% endif %}
 {% if page.title == 'Robots' or page.title == 'Mentors' or page.title == 'Alumni' %}
 .thumbnail {
-	padding: 0 0 5px 0;
-	border: none;
-	border-radius: 0;
 	background-color: #f0f0f0;
 	margin-top: 15px;
+}
+.thumbnail p, .thumbnail li {
+	margin-left: 15px;
+}
+.thumbnail h3 {
+	margin-left: 10px;
+	margin-top: 5px;
 }
 {% endif %}
 {% if page.title == 'Team' or page.title == 'History' or page.title == 'Awards' or page.title == 'Robots' or page.title == 'Mentors' or page.title == 'Alumni' or page.title == 'Photos' or page.title == 'Videos' or page.title == 'News' %}
 #snav {
 	background: #000000;
-	border: 0;
-	border-radius: 0px;
-	margin-bottom: 0px;
-	font-size: 18px;
 	padding-top: 0px;
 	padding-bottom: 0px;
 }
