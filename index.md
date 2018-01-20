@@ -13,7 +13,7 @@ title: Home
 						<div class="carousel-item active">
 							<img class="d-block mx-auto" src="resources/img/c1.jpeg">
 							<div class="carousel-caption">
-								<h4><a href="blog/posts/westcan2017.html">Western 
+								<h4><a href="/2017/04/07/western-canada/">Western 
 								Canada 2017</a></h4>
 								<p>Team 4334, Alberta Tech Alliance, participated 
 								in the 2017 Western Canada Regional this weekend 
@@ -24,7 +24,7 @@ title: Home
 						<div class="carousel-item">
 							<img class="d-block mx-auto" src="resources/img/c2.jpg">
 							<div class="carousel-caption">
-								<h4><a href="blog/posts/china2016.html">ATA Goes 
+								<h4><a href="/2016/09/12/china/">ATA Goes 
 								to China!</a></h4>
 								<p>Team 4334 participated in the 2016 China Robotics 
 								Challenge, working with aspiring rookie teams.</p>
@@ -34,7 +34,7 @@ title: Home
 						<div class="carousel-item">
 							<img class="d-block mx-auto" src="resources/img/c3.jpg">
 							<div class="carousel-caption">
-								<h4><a href="blog/posts/westcan2016.html">Western 
+								<h4><a href="/2016/04/06/westerncanada2016/">Western 
 								Canada 2016</a></h4>
 								<p>4334 takes home its second regional of 2016 with 
 								2013 and 4625.</p>
@@ -44,7 +44,7 @@ title: Home
 						<div class="carousel-item">
 							<img class="d-block mx-auto" src="resources/img/c4.jpeg">
 							<div class="carousel-caption">
-								<h4><a href="blog/posts/utah2016.html">2016 Utah 
+								<h4><a href="/2016/03/19/utah2016-win/">2016 Utah 
 								Regional</a></h4>
 								<p>Teams 4334, 2468 and 3166 take victory!</p>
 							</div>
@@ -53,7 +53,7 @@ title: Home
 						<div class="carousel-item">
 							<img class="d-block mx-auto" src="resources/img/c5.jpg">
 							<div class="carousel-caption">
-								<h4><a href="blog/posts/salvationarmy2015.html">
+								<h4><a href="/2015/12/12/salvation-army/">
 								Salvation Army Volunteering</a></h4>
 								<p>Volunteering at Salvation Army in Calgary, AB.</p>
 							</div>
