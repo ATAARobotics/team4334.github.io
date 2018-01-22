@@ -8,7 +8,7 @@ title: Contact
 			<h1>Contact Us</h1>
 			<p>For all inquiries related to the team, email us at <a href="mailto:team@4334.ca?Subject=Team%20Inqury" target="_top">team@4334.ca.</a></p>
 			<p>Or message us on <a href="https://www.facebook.com/Team4334/">Facebook</a></p>
-			<img style="padding-bottom:15px" class="img-fluid" src="/resources/img/team2017.jpeg">
 		</div>
 	</div>
+	<img style="padding-bottom:15px" class="img-fluid" src="/resources/img/team2017.jpeg">
 </div>
