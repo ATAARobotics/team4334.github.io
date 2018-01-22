@@ -1,5 +1,5 @@
 ﻿---
-layout: team
+layout: media
 title: News
 ---
 <div class="container">
