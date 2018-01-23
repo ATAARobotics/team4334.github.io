@@ -4,7 +4,7 @@ title: Robots
 ---
 <div class="container">
 	<div class="row">
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:420px">
 				<img class="img-fluid" alt="Pivot" src="/resources/img/pivot.jpg">
 				<h3>2017 - Pivot</h3>
@@ -13,7 +13,7 @@ title: Robots
 				climb during the final seconds of the match.</p>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:420px">
 				<img class="img-fluid" alt="Velocity" src="/resources/img/velocity.jpg">
 				<h3>2016 - Velocity</h3>
@@ -21,7 +21,7 @@ title: Robots
 				Velocity is able to shoot high goals and breach all defences.</p>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:420px">
 				<img class="img-fluid" alt="Elevation" src="/resources/img/elevation.JPG">
 				<h3>2015 - Elevation</h3>
@@ -31,7 +31,7 @@ title: Robots
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:420px; margin-bottom: 15px;">
 				<img class="img-fluid" alt="Momentum" src="/resources/img/momentum.jpg">
 				<h3>2014 - Momentum</h3>
@@ -40,14 +40,14 @@ title: Robots
 				and imbounding.</p>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:420px; margin-bottom: 15px;">
 				<img class="img-fluid" alt="Murdock" src="/resources/img/murdock.jpg">
 				<h3>2013 - Murdock</h3>
 				<p>Murdock participated in Ultimate Ascent. Murdock is a full-court shooter robot that aligns itself into a corner and fires frisbees from 54' away.</p>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:420px; margin-bottom: 15px;">
 				<img class="img-fluid" alt="Rex" src="/resources/img/rex.jpg">
 				<h3>2012 - Rex</h3>

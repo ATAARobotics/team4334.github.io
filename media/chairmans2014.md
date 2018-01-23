@@ -4,7 +4,7 @@ title: Chairman's 2014
 ---
 <div class="container">
 	<div class="row">
-		<div class="col-sm-12" style="padding-top: 15px">
+		<div class="col-md-12" style="padding-top: 15px">
 		<div class="embed-responsive embed-responsive-16by9">
 <iframe class="embed-responsive-item" width="1140" height="450" src="https://www.youtube.com/embed/V2tMro-Ddac" frameborder="0" allowfullscreen></iframe>
 </div>

@@ -4,7 +4,7 @@ title: Alumni
 ---
 <div class="container">
 	<div class="row">
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:696px">
 				<img class="img-fluid" alt="Alex Rodrigues" src="/resources/img/alumni/alex-rodrigues.jpg">
 				<h3 style="padding-left: 5px; float:left">Alex Rodrigues</h3>
@@ -21,7 +21,7 @@ title: Alumni
 					<br>-Awards Leader</p>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:696px">
 				<img class="img-fluid" alt="Joel Gallant" src="/resources/img/alumni/joel-gallant.jpg">
 				<h3 style="padding-left: 5px; float:left">Joel Gallant</h3>
@@ -36,7 +36,7 @@ title: Alumni
 					<br>-Competition Preparations Leader</p>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:696px">
 				<img class="img-fluid" alt="Alex Vu" src="/resources/img/alumni/alex-vu.png">
 				<h3 style="padding-left: 5px; float:left">Alex Vu</h3>
@@ -51,7 +51,7 @@ title: Alumni
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:659px">
 				<img class="img-fluid" alt="Mac Hunik" src="/resources/img/alumni/mac-hunik.png">
 				<h3 style="padding-left: 5px; float:left">Mac Hunik</h3>
@@ -63,7 +63,7 @@ title: Alumni
 					<br>-CAD Leader</p>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:659px">
 				<img class="img-fluid" alt="Clayton McNeil" src="/resources/img/alumni/clayton-mcneil.jpg">
 				<h3 style="padding-left: 5px; float:left">Clayton McNeil</h3>
@@ -73,7 +73,7 @@ title: Alumni
 					<br>-Electronics Leader</p>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:659px">
 				<img class="img-fluid" alt="Cole Batonyi" src="/resources/img/alumni/cole-batonyi.png">
 				<h3 style="padding-left: 5px; float:left">Cole Batonyi</h3>
@@ -87,7 +87,7 @@ title: Alumni
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:609px">
 				<img class="img-fluid" alt="Britton Baylis-Guiffre" src="/resources/img/alumni/britton-baylis-giuffre.png">
 				<h3 style="padding-left: 5px; float:left">Britton Baylis-Guiffre</h3>
@@ -96,7 +96,7 @@ title: Alumni
 					<br>-Team Member</p>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:609px">
 				<img class="img-fluid" alt="Chris Lemmon" src="/resources/img/alumni/chris-lemmon.png">
 				<h3 style="padding-left: 5px; float:left">Chris Lemmon</h3>
@@ -106,7 +106,7 @@ title: Alumni
 					<br>-Assembly Leader</p>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:609px">
 				<img class="img-fluid" alt="Denis Trailin" src="/resources/img/alumni/denis-trailin.jpg">
 				<h3 style="padding-left: 5px; float:left">Denis Trailin</h3>

@@ -4,7 +4,7 @@ title: Mentors
 ---
 <div class="container">
 	<div class="row">
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:520px">
 				<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/mac-hunik.png">
 				<h3>Mac Hunik</h3>
@@ -14,7 +14,7 @@ title: Mentors
 				<li>Drive Coach</li>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:520px">
 				<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/alex-vu.png">
 				<h3>Alex Vu</h3>
@@ -24,7 +24,7 @@ title: Mentors
 				<li>Design Mentor</li>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:520px">
 				<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/cole-batonyi.png">
 				<h3>Cole Batonyi</h3>
@@ -36,7 +36,7 @@ title: Mentors
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:635px">
 				<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/louis-batonyi.jpg">
 				<h3>Louis Batonyi</h3>
@@ -45,7 +45,7 @@ title: Mentors
 				<li>Mechanical Mentor</li>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:635px">
 				<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/joel-gallant.jpg">
 				<h3>Joel Gallant</h3>
@@ -55,7 +55,7 @@ title: Mentors
 				<li>Programming Mentor</li>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="min-height:635px">
 				<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/clayton-mcneil.jpg">
 				<h3>Clayton McNeil</h3>
@@ -67,7 +67,7 @@ title: Mentors
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-sm-4">
+		<div class="col-md-4">
 			<div class="thumbnail" style="margin-bottom: 15px">
 				<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/jeremy-zantua.png">
 				<h3>Jeremy Zantua</h3>
@@ -76,9 +76,9 @@ title: Mentors
 				<li>CAD Mentor</li>
 			</div>
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 		</div>
-		<div class="col-sm-4">
+		<div class="col-md-4">
 		</div>
 	</div>
 </div>

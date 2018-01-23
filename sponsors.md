@@ -4,7 +4,7 @@ title: Sponsors
 ---
 <div class="container">
 	<div class="row">
-		<div class="col-sm-12" style="background-color: #f0f0f0">
+		<div class="col-md-12" style="background-color: #f0f0f0">
 			<h1>Sponsors</h1>
 			<p>Our sponsors are an essential piece of our success. They provide 
 			the capacity that allows us to thrive. We’re always thankful for our 
@@ -14,13 +14,13 @@ title: Sponsors
 			<p>Please email us at
 			<a href="mailto:team@4334.ca?Subject=Team%20Inqury" target="_top">team@4334.ca</a> 
 			if you wish to become a sponsor.</p>
-			<div class="button-box col-lg-12" style="text-align: center">
+			<div class="button-box col-md-12" style="text-align: center">
 				<a class="btn btn-info" href="/resources/pdf/Sponsorship%20Package%202017-2018.pdf" role="button" style="background: #404040; border-radius: 0px; color: white; margin-top: 0px; margin-bottom: 15px">
 				Sponsorship Information</a> </div>
 		</div>
 	</div>
 	<div class="row">
-		<div class="col-sm-12" style="padding-top: 1px;">
+		<div class="col-md-12" style="padding-top: 1px;">
 			<h1>Current Sponsors</h1>
 			<div class="row">
 			</div>

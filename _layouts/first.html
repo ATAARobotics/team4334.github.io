@@ -2,14 +2,14 @@
 
 <div class="container">
 	<div class="row">
-		<div class="col-sm-7" style="background-color: #ffffff; margin-bottom: 15px;">
+		<div class="col-md-7" style="background-color: #ffffff; margin-bottom: 15px;">
             {% if page.url == '/first/' %}<h1 style="font-size: 24pt"><i>FIRST</i></h1>{% endif %}
             {% if page.url contains '20' %}<h1 style="font-size: 24pt">{{ page.title }} - {{ page.year }} FRC Game</h1>{% endif %}
 			<div class="embed-responsive embed-responsive-16by9">
 			<iframe class="embed-responsive-item" width="640" height="360" src="{{ page.vid }}" frameborder="0" allowfullscreen></iframe>
 			</div>
 		</div>
-		<div class="col-sm-5" style="background-color:#f0f0f0; margin-bottom:15px; padding-top:10px">
+		<div class="col-md-5" style="background-color:#f0f0f0; margin-bottom:15px; padding-top:10px">
 			{{ content }}
 			<img class="img-fluid d-block mx-auto" style="width:100%; padding-bottom:15px" src="{{ page.img }}">
 		</div>

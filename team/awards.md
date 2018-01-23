@@ -4,7 +4,7 @@ title: Awards
 ---
 <div class="container">
 	<div class="row">
-		<div class="col-sm-6" style="padding-top: 15px">
+		<div class="col-md-6" style="padding-top: 15px">
 			<table class="tg">
 				<tr>
 					<th class="tg-k20k">2017</th>
@@ -104,7 +104,7 @@ title: Awards
 				</tr>
 			</table>
 		</div>
-		<div class="col-sm-6" style="padding-top: 15px">
+		<div class="col-md-6" style="padding-top: 15px">
 		<img class="img-fluid" src="/resources/img/awards1.jpg" alt="Image Not Found!">
 		<img class="img-fluid" style="padding-top:15px" src="/resources/img/awards2.JPG" alt="Image Not Found!">
 		<img class="img-fluid" style="padding-top:15px; padding-bottom:15px" src="/resources/img/team2016.jpg" alt="Image Not Found!">
