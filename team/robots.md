@@ -7,7 +7,7 @@ title: Robots
         <div class="container">
           <div class="row">
             <div class="col-md-4">
-              <div class="card mb-4 box-shadow" style="height: calc(100% - 24px);">
+              <div class="card mb-4 box-shadow">
 				<img class="img-fluid" alt="Pivot" src="/resources/img/pivot.jpg">
                 <div class="card-body">
                 <h3 class="card-text">2017 - Pivot</h3>
@@ -18,7 +18,7 @@ title: Robots
               </div>
             </div>
             <div class="col-md-4">
-              <div class="card mb-4 box-shadow" style="height: calc(100% - 24px);">
+              <div class="card mb-4 box-shadow">
 				<img class="img-fluid" alt="Velocity" src="/resources/img/velocity.jpg">
                 <div class="card-body">
 				<h3 class="card-text">2016 - Velocity</h3>
@@ -28,7 +28,7 @@ title: Robots
               </div>
             </div>
             <div class="col-md-4">
-              <div class="card mb-4 box-shadow" style="height: calc(100% - 24px);">
+              <div class="card mb-4 box-shadow">
 				<img class="img-fluid" alt="Elevation" src="/resources/img/elevation.JPG">
                 <div class="card-body">
 				<h3 class="card-text">2015 - Elevation</h3>
@@ -38,7 +38,7 @@ title: Robots
               </div>
             </div>
             <div class="col-md-4">
-              <div class="card mb-4 box-shadow" style="height: calc(100% - 24px);">
+              <div class="card mb-4 box-shadow">
 				<img class="img-fluid" alt="Momentum" src="/resources/img/momentum.jpg">
                 <div class="card-body">
 				<h3 class="card-text">2014 - Momentum</h3>
@@ -49,7 +49,7 @@ title: Robots
               </div>
             </div>
             <div class="col-md-4">
-              <div class="card mb-4 box-shadow" style="height: calc(100% - 24px);">
+              <div class="card mb-4 box-shadow">
 				<img class="img-fluid" alt="Murdock" src="/resources/img/murdock.jpg">
                 <div class="card-body">
 				<h3 class="card-text">2013 - Murdock</h3>
@@ -58,7 +58,7 @@ title: Robots
               </div>
             </div>
             <div class="col-md-4">
-              <div class="card mb-4 box-shadow" style="height: calc(100% - 24px);">
+              <div class="card mb-4 box-shadow">
 				<img class="img-fluid" alt="Rex" src="/resources/img/rex.jpg">
                 <div class="card-body">
 				<h3 class="card-text">2012 - Rex</h3>
