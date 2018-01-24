@@ -11,7 +11,7 @@ title: Home
 					<!-- Wrapper for slides -->
 					<div class="carousel-inner">
 						<div class="carousel-item active">
-							<img class="d-block mx-auto" src="resources/img/c1.jpeg">
+							<img class="img-fluid d-block mx-auto" src="resources/img/c1.jpeg">
 							<div class="carousel-caption">
 								<h4><a href="/2017/04/07/western-canada/">Western 
 								Canada 2017</a></h4>
@@ -22,7 +22,7 @@ title: Home
 						</div>
 						<!-- End Item -->
 						<div class="carousel-item">
-							<img class="d-block mx-auto" src="resources/img/c2.jpg">
+							<img class="img-fluid d-block mx-auto" src="resources/img/c2.jpg">
 							<div class="carousel-caption">
 								<h4><a href="/2016/09/12/china/">ATA Goes 
 								to China!</a></h4>
@@ -32,7 +32,7 @@ title: Home
 						</div>
 						<!-- End Item -->
 						<div class="carousel-item">
-							<img class="d-block mx-auto" src="resources/img/c3.jpg">
+							<img class="img-fluid d-block mx-auto" src="resources/img/c3.jpg">
 							<div class="carousel-caption">
 								<h4><a href="/2016/04/06/westerncanada2016/">Western 
 								Canada 2016</a></h4>
@@ -42,7 +42,7 @@ title: Home
 						</div>
 						<!-- End Item -->
 						<div class="carousel-item">
-							<img class="d-block mx-auto" src="resources/img/c4.jpeg">
+							<img class="img-fluid d-block mx-auto" src="resources/img/c4.jpeg">
 							<div class="carousel-caption">
 								<h4><a href="/2016/03/19/utah2016-win/">2016 Utah 
 								Regional</a></h4>
@@ -51,7 +51,7 @@ title: Home
 						</div>
 						<!-- End Item -->
 						<div class="carousel-item">
-							<img class="d-block mx-auto" src="resources/img/c5.jpg">
+							<img class="img-fluid d-block mx-auto" src="resources/img/c5.jpg">
 							<div class="carousel-caption">
 								<h4><a href="/2015/12/12/salvation-army/">
 								Salvation Army Volunteering</a></h4>
