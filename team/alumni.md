@@ -3,7 +3,7 @@ layout: team
 title: Alumni 
 ---
 <main role="main">
-      <div class="album py-4 bg-light">
+      <div class="album py-4">
         <div class="container">
           <div class="row">
             <div class="col-md-4">
