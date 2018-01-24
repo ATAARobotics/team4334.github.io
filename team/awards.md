@@ -7,7 +7,7 @@ title: Awards
 		<div class="col-md-6" style="padding-top: 15px">
 			<table class="tg">
 				<tr>
-					<th class="tg-k20k">2017</th>
+					<th class="tg-k20k"><a href="https://www.thebluealliance.com/team/4334/2017">2017</a></th>
 					<th class="tg-fefd"></th>
 					<th class="tg-fefd"></th>
 				</tr>
@@ -17,7 +17,7 @@ title: Awards
 					<td class="tg-fefd"><li>Regional Winner</li><li>Quality Award</li></td>
 				</tr>
 				<tr>
-					<td class="tg-k20k">2016</td>
+					<td class="tg-k20k"><a href="https://www.thebluealliance.com/team/4334/2016">2016</a></td>
 					<td class="tg-fefd"></td>
 					<td class="tg-fefd"></td>
 				</tr>
@@ -38,7 +38,7 @@ title: Awards
 					Award</li></td>
 				</tr>
 				<tr>
-					<td class="tg-k20k">2015</td>
+					<td class="tg-k20k"><a href="https://www.thebluealliance.com/team/4334/2015">2015</a></td>
 					<td class="tg-fefd"></td>
 					<td class="tg-fefd"></td>
 				</tr>
@@ -53,7 +53,7 @@ title: Awards
 					<td class="tg-fefd"><li>Innovation in Control Award</li></td>
 				</tr>
 				<tr>
-					<td class="tg-k20k">2014</td>
+					<td class="tg-k20k"><a href="https://www.thebluealliance.com/team/4334/2014">2014</a></td>
 					<td class="tg-fefd"></td>
 					<td class="tg-fefd"></td>
 				</tr>
@@ -69,7 +69,7 @@ title: Awards
 					<td class="tg-fefd"><li>Judge's Award</li></td>
 				</tr>
 				<tr>
-					<td class="tg-k20k">2013</td>
+					<td class="tg-k20k"><a href="https://www.thebluealliance.com/team/4334/2013">2013</a></td>
 					<td class="tg-fefd"></td>
 					<td class="tg-fefd"></td>
 				</tr>
@@ -81,7 +81,7 @@ title: Awards
 					Dean's List Finalist (Alexander Rodrigues)</li></td>
 				</tr>
 				<tr>
-					<td class="tg-k20k">2012</td>
+					<td class="tg-k20k"><a href="https://www.thebluealliance.com/team/4334/2012">2012</a></td>
 					<td class="tg-fefd"></td>
 					<td class="tg-fefd"></td>
 				</tr>
