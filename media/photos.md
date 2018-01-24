@@ -198,7 +198,7 @@ title: Photos
 			</a>
 		</div>
 	</div>
-	<div class="row">
+	<div class="row" style="margin-bottom: 15px">
 		<div class="col-md-3">
 			<a href="#" id="iri2013">
 				<div class="thumbnail">
