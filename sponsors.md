@@ -12,7 +12,7 @@ title: Sponsors
 			<p>You can help our students pursue an interest in science, technology, 
 			engineering, and math by sponsoring out team.</p>
 			<p>Please email us at
-			<a href="mailto:team@4334.ca?Subject=Team%20Inqury" target="_top">team@4334.ca</a> 
+			<a href="mailto:team@4334.ca?Subject=Team%20Inquiry" target="_top">team@4334.ca</a> 
 			if you wish to become a sponsor.</p>
 			<div class="button-box col-md-12" style="text-align: center">
 				<a class="btn btn-info" href="/resources/pdf/Sponsorship%20Package%202017-2018.pdf" role="button" style="background: #404040; border-radius: 0px; color: white; margin-top: 0px; margin-bottom: 15px">
