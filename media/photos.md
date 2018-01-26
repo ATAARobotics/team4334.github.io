@@ -45,14 +45,6 @@ title: Photos
 	</div>
 	<div class="row">
 		<div class="col-md-3">
-			<a href="#" id="beakerhead2016">
-				<div class="thumbnail">
-					<img class="img-fluid" alt="Elevation" src="/resources/img/elevation.JPG">
-					<h4 style="padding-left: 5px">Beakerhead</h4>
-				</div>
-			</a>
-		</div>
-		<div class="col-md-3">
 			<a href="#" id="championships2016">
 				<div class="thumbnail">
 					<img class="img-fluid" alt="Pivot" src="/resources/img/pivot.jpg">
@@ -75,6 +67,8 @@ title: Photos
 					<h4 style="padding-left: 5px">Utah Regional</h4>
 				</div>
 			</a>
+		</div>
+		<div class="col-md-3">
 		</div>
 	</div>
 	<div class="row">
