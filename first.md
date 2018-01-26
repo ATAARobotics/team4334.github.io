@@ -1,6 +1,6 @@
 ﻿---
 layout: first
-title: <i>FIRST</i>
+title: FIRST
 vid: https://www.youtube.com/embed/GZXngCu99rs
 img: /resources/img/firstlogo.png
 ---

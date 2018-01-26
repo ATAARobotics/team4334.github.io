@@ -4,19 +4,19 @@
         <div class="collapse navbar-collapse justify-content-end" style="display: block">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                <a class="nav-link" href="/media/photos">Photos</a>
+                <a class="nav-link {% if page.title == "Photos" %}active{% endif %}" href="/media/photos">Photos</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="/media/videos">Videos</a>
+                <a class="nav-link {% if page.title == "Videos" %}active{% endif %}" href="/media/videos">Videos</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="/media/news">News</a>
+                <a class="nav-link {% if page.title == "News" %}active{% endif %}" href="/media/news">News</a>
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="/media/chairmans2014">Chairman's 2014</a> 
+                <a class="nav-link {% if page.title == "Chairman's 2014" %}active{% endif %}" href="/media/chairmans2014">Chairman's 2014</a> 
                 </li>
                 <li class="nav-item">
-                <a class="nav-link" href="/media/chairmans2013">Chairman's 2013</a>
+                <a class="nav-link {% if page.title == "Chairman's 2013" %}active{% endif %}" href="/media/chairmans2013">Chairman's 2013</a>
                 </li>
             </ul>
         </div>

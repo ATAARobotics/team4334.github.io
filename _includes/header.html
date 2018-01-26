@@ -48,8 +48,11 @@
 .navbar-nav li a:hover {
 	color: #afafaf !important;
 }
-a.dropdown-item:active{
-	background: #cccccc
+.navbar-nav li a.active {
+	color: #afafaf !important;
+}
+.dropdown-item.active, .dropdown-item:active {
+    background-color: #d3d3d3;
 }
 .navbar li a, .navbar .navbar-brand {
 	color: #000000 !important;
@@ -151,6 +154,9 @@ a.dropdown-item:active{
 #snav li a:hover {
 	color: #afafaf !important;
 }
+#snav li a.active {
+    color: #afafaf !important;
+}
 #snav li a, .navbar .navbar-brand {
 	color: #ffffff !important;
 }
@@ -237,50 +243,50 @@ a:active {
 		<span class="navbar-toggler-icon"></span></button>
 		<div id="primaryNavbar" class="collapse navbar-collapse justify-content-end">
 			<ul class="navbar-nav">
-				<li class="nav-item"><a class="nav-link" href="/">Home</a>
+				<li class="nav-item"><a class="nav-link {% if page.title == "Home" %}active{% endif %}" href="/">Home</a>
 				</li>
 				<li class="nav-item dropdown">
 				<a id="navbardrop" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">
 				<i>FIRST</i> </a>
 				<div class="dropdown-menu">
-					<a class="dropdown-item" href="/first"><i>FIRST</i></a>
-					<a class="dropdown-item" href="/first/pu2018">POWER UP 2018</a>
-					<a class="dropdown-item" href="/first/sw2017">Steamworks 
-					2017</a> <a class="dropdown-item" href="/first/sh2016">Stronghold 
-					2016</a> <a class="dropdown-item" href="/first/rr2015">Recycle 
+					<a class="dropdown-item {% if page.title == 'FIRST' %}active{% endif %}" href="/first"><i>FIRST</i></a>
+					<a class="dropdown-item {% if page.title == "POWER UP" %}active{% endif %}" href="/first/pu2018">POWER UP 2018</a>
+					<a class="dropdown-item {% if page.title == "Steamworks" %}active{% endif %}" href="/first/sw2017">Steamworks 
+					2017</a> <a class="dropdown-item {% if page.title == "Stronghold" %}active{% endif %}" href="/first/sh2016">Stronghold 
+					2016</a> <a class="dropdown-item {% if page.title == "Recycle Rush" %}active{% endif %}" href="/first/rr2015">Recycle 
 					Rush 2015</a>
-					<a class="dropdown-item" href="/first/aa2014">Aerial Assist 
-					2014</a> <a class="dropdown-item" href="/first/ua2013">Ultimate 
+					<a class="dropdown-item {% if page.title == "Aerial Assist" %}active{% endif %}" href="/first/aa2014">Aerial Assist 
+					2014</a> <a class="dropdown-item {% if page.title == "Ultimate Ascent" %}active{% endif %}" href="/first/ua2013">Ultimate 
 					Ascent 2013</a>
-					<a class="dropdown-item" href="/first/rr2012">Rebound Rumble 
+					<a class="dropdown-item {% if page.title == "Rebound Rumble" %}active{% endif %}" href="/first/rr2012">Rebound Rumble 
 					2012</a> </div>
 				</li>
 				<li class="nav-item dropdown">
 					<a id="navbardrop" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">
 					Team </a>
 					<div class="dropdown-menu">
-						<a class="dropdown-item" href="/team">Team</a>
-						<a class="dropdown-item" href="/team/history">History</a>
-						<a class="dropdown-item" href="/team/awards">Awards</a>
-						<a class="dropdown-item" href="/team/robots">Robots</a>
-						<a class="dropdown-item" href="/team/mentors">Mentors</a>
-						<a class="dropdown-item" href="/team/alumni">Alumni</a>
+						<a class="dropdown-item {% if page.title == "Team" %}active{% endif %}" href="/team">Team</a>
+						<a class="dropdown-item {% if page.title == "History" %}active{% endif %}" href="/team/history">History</a>
+						<a class="dropdown-item {% if page.title == "Awards" %}active{% endif %}" href="/team/awards">Awards</a>
+						<a class="dropdown-item {% if page.title == "Robots" %}active{% endif %}" href="/team/robots">Robots</a>
+						<a class="dropdown-item {% if page.title == "Mentors" %}active{% endif %}" href="/team/mentors">Mentors</a>
+						<a class="dropdown-item {% if page.title == "Alumni" %}active{% endif %}" href="/team/alumni">Alumni</a>
 					</li>
-					<li class="nav-item"><a class="nav-link" href="/blog">Blog</a>
+					<li class="nav-item"><a class="nav-link {% if page.title == "Blog" %}active{% endif %}" href="/blog">Blog</a>
 				</li>
 				<li class="nav-item dropdown">
 					<a id="navbardrop" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">
 					Media </a>
 					<div class="dropdown-menu">
-						<a class="dropdown-item" href="/media/photos">Photos</a>
-						<a class="dropdown-item" href="/media/videos">Videos</a>
-						<a class="dropdown-item" href="/media/news">News</a>
-						<a class="dropdown-item" href="/media/chairmans2014">Chairman's 2014</a>
-						<a class="dropdown-item" href="/media/chairmans2014">Chairman's 2013</a>
+						<a class="dropdown-item {% if page.title == "Photos" %}active{% endif %}" href="/media/photos">Photos</a>
+						<a class="dropdown-item {% if page.title == "Videos" %}active{% endif %}" href="/media/videos">Videos</a>
+						<a class="dropdown-item {% if page.title == "News" %}active{% endif %}" href="/media/news">News</a>
+						<a class="dropdown-item {% if page.title == "Chairman's 2014" %}active{% endif %}" href="/media/chairmans2014">Chairman's 2014</a>
+						<a class="dropdown-item {% if page.title == "Chairman's 2013" %}active{% endif %}" href="/media/chairmans2014">Chairman's 2013</a>
 					</li>
-				<li class="nav-item"><a class="nav-link" href="/sponsors">Sponsors</a>
+				<li class="nav-item"><a class="nav-link {% if page.title == "Sponsors" %}active{% endif %}" href="/sponsors">Sponsors</a>
 				</li>
-				<li class="nav-item"><a class="nav-link" href="/contact">Contact</a>
+				<li class="nav-item"><a class="nav-link {% if page.title == "Contact" %}active{% endif %}" href="/contact">Contact</a>
 				</li>
 			</ul>
 		</div>

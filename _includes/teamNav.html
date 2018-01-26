@@ -4,22 +4,22 @@
                 <div class="collapse navbar-collapse justify-content-end" style="display: block">
                     <ul class="navbar-nav">
                         <li class="nav-item">
-                        <a class="nav-link" href="/team">Team</a>
+                        <a class="nav-link {% if page.title == "Team" %}active{% endif %}" href="/team">Team</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="/team/history">History</a>
+                        <a class="nav-link {% if page.title == "History" %}active{% endif %}" href="/team/history">History</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="/team/awards">Awards</a>
+                        <a class="nav-link {% if page.title == "Awards" %}active{% endif %}" href="/team/awards">Awards</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="/team/robots">Robots</a> 
+                        <a class="nav-link {% if page.title == "Robots" %}active{% endif %}" href="/team/robots">Robots</a> 
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="/team/mentors">Mentors</a>
+                        <a class="nav-link {% if page.title == "Mentors" %}active{% endif %}" href="/team/mentors">Mentors</a>
                         </li>
                         <li class="nav-item">
-                        <a class="nav-link" href="/team/alumni">Alumni</a>
+                        <a class="nav-link {% if page.title == "Alumni" %}active{% endif %}" href="/team/alumni">Alumni</a>
                         </li>
                     </ul>
                 </div>
