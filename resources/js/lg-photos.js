@@ -851,75 +851,6 @@ $(document).ready(function() {
           },{
               src: '/albums/StLouis2016/Photos/53.jpg',
               thumb: '/albums/StLouis2016/Photos/thumbs/53.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/54.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/54.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/55.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/55.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/56.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/56.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/57.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/57.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/58.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/58.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/59.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/59.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/60.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/60.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/61.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/61.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/62.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/62.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/63.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/63.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/64.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/64.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/65.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/65.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/66.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/66.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/67.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/67.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/68.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/68.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/69.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/69.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/70.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/70.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/71.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/71.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/72.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/72.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/73.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/73.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/74.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/74.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/75.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/75.jpg'
-          },{
-              src: '/albums/StLouis2016/Photos/76.jpg',
-              thumb: '/albums/StLouis2016/Photos/thumbs/76.jpg'
           }]
       });
   });
@@ -1194,30 +1125,6 @@ $(document).ready(function() {
           },{
               src: '/albums/WesternCanada2016/Photos/88.jpg',
               thumb: '/albums/WesternCanada2016/Photos/thumbs/88.jpg'
-          },{
-              src: '/albums/WesternCanada2016/Photos/89.jpg',
-              thumb: '/albums/WesternCanada2016/Photos/thumbs/89.jpg'
-          },{
-              src: '/albums/WesternCanada2016/Photos/90.jpg',
-              thumb: '/albums/WesternCanada2016/Photos/thumbs/90.jpg'
-          },{
-              src: '/albums/WesternCanada2016/Photos/91.jpg',
-              thumb: '/albums/WesternCanada2016/Photos/thumbs/91.jpg'
-          },{
-              src: '/albums/WesternCanada2016/Photos/92.jpg',
-              thumb: '/albums/WesternCanada2016/Photos/thumbs/92.jpg'
-          },{
-              src: '/albums/WesternCanada2016/Photos/93.jpg',
-              thumb: '/albums/WesternCanada2016/Photos/thumbs/93.jpg'
-          },{
-              src: '/albums/WesternCanada2016/Photos/94.jpg',
-              thumb: '/albums/WesternCanada2016/Photos/thumbs/94.jpg'
-          },{
-              src: '/albums/WesternCanada2016/Photos/95.jpg',
-              thumb: '/albums/WesternCanada2016/Photos/thumbs/95.jpg'
-          },{
-              src: '/albums/WesternCanada2016/Photos/96.jpg',
-              thumb: '/albums/WesternCanada2016/Photos/thumbs/96.jpg'
           }]
       });
   });
@@ -1381,48 +1288,6 @@ $(document).ready(function() {
           },{
               src: '/albums/Utah2016/Photos/51.jpg',
               thumb: '/albums/Utah2016/Photos/thumbs/51.jpg'
-          },{
-              src: '/albums/Utah2016/Photos/52.jpg',
-              thumb: '/albums/Utah2016/Photos/thumbs/52.jpg'
-          },{
-              src: '/albums/Utah2016/Photos/53.jpg',
-              thumb: '/albums/Utah2016/Photos/thumbs/53.jpg'
-          },{
-              src: '/albums/Utah2016/Photos/54.jpg',
-              thumb: '/albums/Utah2016/Photos/thumbs/54.jpg'
-          },{
-              src: '/albums/Utah2016/Photos/55.jpg',
-              thumb: '/albums/Utah2016/Photos/thumbs/55.jpg'
-          },{
-              src: '/albums/Utah2016/Photos/56.jpg',
-              thumb: '/albums/Utah2016/Photos/thumbs/56.jpg'
-          },{
-              src: '/albums/Utah2016/Photos/57.jpg',
-              thumb: '/albums/Utah2016/Photos/thumbs/57.jpg'
-          },{
-              src: '/albums/Utah2016/Photos/58.jpg',
-              thumb: '/albums/Utah2016/Photos/thumbs/58.jpg'
-          },{
-              src: '/albums/Utah2016/Photos/59.jpg',
-              thumb: '/albums/Utah2016/Photos/thumbs/59.jpg'
-          },{
-              src: '/albums/Utah2016/Photos/60.jpg',
-              thumb: '/albums/Utah2016/Photos/thumbs/60.jpg'
-          },{
-              src: '/albums/Utah2016/Photos/61.jpg',
-              thumb: '/albums/Utah2016/Photos/thumbs/61.jpg'
-          },{
-              src: '/albums/Utah2016/Photos/62.jpg',
-              thumb: '/albums/Utah2016/Photos/thumbs/62.jpg'
-          },{
-              src: '/albums/Utah2016/Photos/63.jpg',
-              thumb: '/albums/Utah2016/Photos/thumbs/63.jpg'
-          },{
-              src: '/albums/Utah2016/Photos/64.jpg',
-              thumb: '/albums/Utah2016/Photos/thumbs/64.jpg'
-          },{
-              src: '/albums/Utah2016/Photos/65.jpg',
-              thumb: '/albums/Utah2016/Photos/thumbs/65.jpg'
             }]
         });
     });

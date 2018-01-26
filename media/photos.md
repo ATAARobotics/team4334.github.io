@@ -47,7 +47,7 @@ title: Photos
 		<div class="col-md-3">
 			<a href="#" id="championships2016">
 				<div class="thumbnail">
-					<img class="img-fluid" alt="Pivot" src="/resources/img/pivot.jpg">
+					<img class="img-fluid" alt="Pivot" src="/albums/StLouis2016/Photos/thumb.jpg">
 					<h4 style="padding-left: 5px">St. Louis Championships</h4>
 				</div>
 			</a>
@@ -55,7 +55,7 @@ title: Photos
 		<div class="col-md-3">
 			<a href="#" id="westerncanada2016">
 				<div class="thumbnail">
-					<img class="img-fluid" alt="Velocity" src="/resources/img/velocity.jpg">
+					<img class="img-fluid" alt="Velocity" src="/albums/WesternCanada2016/Photos/thumb.jpg">
 					<h4 style="padding-left: 5px">Western Canada Regional</h4>
 				</div>
 			</a>
@@ -63,7 +63,7 @@ title: Photos
 		<div class="col-md-3">
 			<a href="#" id="utah2016">
 				<div class="thumbnail">
-					<img class="img-fluid" alt="Elevation" src="/resources/img/elevation.JPG">
+					<img class="img-fluid" alt="Elevation" src="/albums/Utah2016/Photos/thumb.jpg">
 					<h4 style="padding-left: 5px">Utah Regional</h4>
 				</div>
 			</a>
