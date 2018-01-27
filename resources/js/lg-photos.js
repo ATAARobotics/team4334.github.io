@@ -3,11 +3,11 @@
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: '/albums/Beakerhead2017/Photos/1.JPG',
-              thumb: '/albums/Beakerhead2017/Photos/thumbs/1.JPG'
+              src: '/albums/Beakerhead2017/Photos/1.jpg',
+              thumb: '/albums/Beakerhead2017/Photos/thumbs/1.jpg'
           },{
-              src: '/albums/Beakerhead2017/Photos/2.JPG',
-              thumb: '/albums/Beakerhead2017/Photos/thumbs/2.JPG',
+              src: '/albums/Beakerhead2017/Photos/2.jpg',
+              thumb: '/albums/Beakerhead2017/Photos/thumbs/2.jpg',
           }]
       });
   });
@@ -1328,17 +1328,17 @@ $(document).ready(function() {
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: '/albums/ThriftStoreVol/Photos/1.png',
-              thumb: '/albums/ThriftStoreVol/Photos/thumbs/1.png'
+              src: '/albums/ThriftStoreVol/Photos/1.jpg',
+              thumb: '/albums/ThriftStoreVol/Photos/thumbs/1.jpg'
           },{
-              src: '/albums/ThriftStoreVol/Photos/2.png',
-              thumb: '/albums/ThriftStoreVol/Photos/thumbs/2.png',
+              src: '/albums/ThriftStoreVol/Photos/2.jpg',
+              thumb: '/albums/ThriftStoreVol/Photos/thumbs/2.jpg',
           },{
-              src: '/albums/ThriftStoreVol/Photos/3.png',
-              thumb: '/albums/ThriftStoreVol/Photos/thumbs/3.png',
+              src: '/albums/ThriftStoreVol/Photos/3.jpg',
+              thumb: '/albums/ThriftStoreVol/Photos/thumbs/3.jpg',
           },{
-              src: '/albums/ThriftStoreVol/Photos/4.png',
-              thumb: '/albums/ThriftStoreVol/Photos/thumbs/4.png'
+              src: '/albums/ThriftStoreVol/Photos/4.jpg',
+              thumb: '/albums/ThriftStoreVol/Photos/thumbs/4.jpg'
           }]
       });
   });
@@ -1349,26 +1349,26 @@ $(document).ready(function() {
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: '/albums/Championship2015/Photos/1.png',
-              thumb: '/albums/Championship2015/Photos/thumbs/1.png'
+              src: '/albums/Championship2015/Photos/1.jpg',
+              thumb: '/albums/Championship2015/Photos/thumbs/1.jpg'
           },{
-              src: '/albums/Championship2015/Photos/2.png',
-              thumb: '/albums/Championship2015/Photos/thumbs/2.png',
+              src: '/albums/Championship2015/Photos/2.jpg',
+              thumb: '/albums/Championship2015/Photos/thumbs/2.jpg',
           },{
-              src: '/albums/Championship2015/Photos/3.png',
-              thumb: '/albums/Championship2015/Photos/thumbs/3.png'
+              src: '/albums/Championship2015/Photos/3.jpg',
+              thumb: '/albums/Championship2015/Photos/thumbs/3.jpg'
           },{
-              src: '/albums/Championship2015/Photos/4.png',
-              thumb: '/albums/Championship2015/Photos/thumbs/4.png'
+              src: '/albums/Championship2015/Photos/4.jpg',
+              thumb: '/albums/Championship2015/Photos/thumbs/4.jpg'
           },{
-              src: '/albums/Championship2015/Photos/5.png',
-              thumb: '/albums/Championship2015/Photos/thumbs/5.png'
+              src: '/albums/Championship2015/Photos/5.jpg',
+              thumb: '/albums/Championship2015/Photos/thumbs/5.jpg'
           },{
-              src: '/albums/Championship2015/Photos/6.png',
-              thumb: '/albums/Championship2015/Photos/thumbs/6.png'
+              src: '/albums/Championship2015/Photos/6.jpg',
+              thumb: '/albums/Championship2015/Photos/thumbs/6.jpg'
           },{
-              src: '/albums/Championship2015/Photos/7.png',
-              thumb: '/albums/Championship2015/Photos/thumbs/7.png'
+              src: '/albums/Championship2015/Photos/7.jpg',
+              thumb: '/albums/Championship2015/Photos/thumbs/7.jpg'
           }]
       });
   });
@@ -1604,31 +1604,31 @@ $(document).ready(function() {
       $(this).lightGallery({
           dynamic: true,
           dynamicEl: [{
-              src: '/albums/Beakerhead2014/Photos/1.png',
+              src: '/albums/Beakerhead2014/Photos/1.jpg',
               thumb: '/albums/Beakerhead2014/Photos/thumbs/1.jpg'
           },{
-              src: '/albums/Beakerhead2014/Photos/2.png',
+              src: '/albums/Beakerhead2014/Photos/2.jpg',
               thumb: '/albums/Beakerhead2014/Photos/thumbs/2.jpg',
           },{
-              src: '/albums/Beakerhead2014/Photos/3.png',
+              src: '/albums/Beakerhead2014/Photos/3.jpg',
               thumb: '/albums/Beakerhead2014/Photos/thumbs/3.jpg'
           },{
-              src: '/albums/Beakerhead2014/Photos/4.png',
+              src: '/albums/Beakerhead2014/Photos/4.jpg',
               thumb: '/albums/Beakerhead2014/Photos/thumbs/4.jpg'
           },{
-              src: '/albums/Beakerhead2014/Photos/5.png',
+              src: '/albums/Beakerhead2014/Photos/5.jpg',
               thumb: '/albums/Beakerhead2014/Photos/thumbs/5.jpg'
           },{
-              src: '/albums/Beakerhead2014/Photos/6.png',
+              src: '/albums/Beakerhead2014/Photos/6.jpg',
               thumb: '/albums/Beakerhead2014/Photos/thumbs/6.jpg'
           },{
-              src: '/albums/Beakerhead2014/Photos/7.png',
+              src: '/albums/Beakerhead2014/Photos/7.jpg',
               thumb: '/albums/Beakerhead2014/Photos/thumbs/7.jpg'
           },{
-              src: '/albums/Beakerhead2014/Photos/8.png',
+              src: '/albums/Beakerhead2014/Photos/8.jpg',
               thumb: '/albums/Beakerhead2014/Photos/thumbs/8.jpg'
           },{
-              src: '/albums/Beakerhead2014/Photos/9.png',
+              src: '/albums/Beakerhead2014/Photos/9.jpg',
               thumb: '/albums/Beakerhead2014/Photos/thumbs/9.jpg'
           }]
       });
