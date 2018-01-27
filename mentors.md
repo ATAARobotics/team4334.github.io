@@ -8,6 +8,29 @@ title: Mentors
           <div class="row">
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
+				<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/louis-batonyi.jpg">
+                <div class="card-body">
+				<h3 class="card-text">Louis Batonyi</h3>
+				<p class="card-text">Louis supports the team as a:</p>
+				<li class="card-text">Lead Mentor</li>
+				<li class="card-text">Mechanical Mentor</li>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
+				<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/joel-gallant.jpg">
+                <div class="card-body">
+				<h3 class="card-text">Joel Gallant</h3>
+				<p class="card-text">Joel Gallant is a previous team member.</p>
+				<p class="card-text">Joel supports the team as a:</p>
+				<li class="card-text">Lead Mentor</li>
+				<li class="card-text">Programming Mentor</li>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-4">
+              <div class="card mb-4 box-shadow">
 				<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/mac-hunik.png">
                 <div class="card-body">
 				<h3 class="card-text">Mac Hunik</h3>
@@ -39,29 +62,6 @@ title: Mentors
 				<p class="card-text">Cole supports the team as a:</p>
 				<li class="card-text">CAD Mentor</li>
 				<li class="card-text">Design Coach</li>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-				<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/louis-batonyi.jpg">
-                <div class="card-body">
-				<h3 class="card-text">Louis Batonyi</h3>
-				<p class="card-text">Louis supports the team as a:</p>
-				<li class="card-text">Lead Mentor</li>
-				<li class="card-text">Mechanical Mentor</li>
-                </div>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="card mb-4 box-shadow">
-				<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/joel-gallant.jpg">
-                <div class="card-body">
-				<h3 class="card-text">Joel Gallant</h3>
-				<p class="card-text">Joel Gallant is a previous team member.</p>
-				<p class="card-text">Joel supports the team as a:</p>
-				<li class="card-text">Lead Mentor</li>
-				<li class="card-text">Programming Mentor</li>
                 </div>
               </div>
             </div>
