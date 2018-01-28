@@ -10,7 +10,7 @@ title: Photos
 		<div class="col-md-3">
 			<a href="#" id="beakerhead2017">
 				<div class="thumbnail">
-					<img class="img-fluid" alt="Elevation" src="/albums/Beakerhead2017/Photos/thumb.JPG">
+					<img class="img-fluid" alt="Elevation" src="/albums/Beakerhead2017/Photos/thumb.jpg">
 					<h4 style="padding-left: 5px">Beakerhead</h4>
 				</div>
 			</a>
