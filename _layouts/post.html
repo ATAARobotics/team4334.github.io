@@ -12,14 +12,14 @@
     {% endif %}
     {% if page.vid != 'none' %}
     <div class="row">
-    <div class="col-md-6">
-            <img class="img-fluid d-block mx-auto" style="margin-top:15px; margin-bottom:15px; width:100%" src="{{ page.img }}" />    
-    </div>
-    <div class="col-md-6">
+        <div class="col-md-6">
+            <img class="img-fluid d-block mx-auto" style="margin-top:15px; margin-bottom:15px; width:100%" src="{{ page.img }}" />
+        </div>
+        <div class="col-md-6">
             <div class="embed-responsive embed-responsive-16by9">
-                    <iframe style="margin-top: 15px" class="embed-responsive-item" src="{{ page.vid }}" frameborder="0" allowfullscreen></iframe>
-                    </div>
-    </div>
+                <iframe style="margin-top: 15px" class="embed-responsive-item" src="{{ page.vid }}" frameborder="0" allowfullscreen></iframe>
+            </div>
+        </div>
     </div>
     {% endif %}
 </div>

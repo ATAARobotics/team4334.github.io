@@ -6,17 +6,16 @@ title: Sponsors
 	<div class="row">
 		<div class="col-md-12" style="background-color: #f0f0f0">
 			<h1>Sponsors</h1>
-			<p>Our sponsors are an essential piece of our success. They provide 
-			the capacity that allows us to thrive. We’re always thankful for our 
-			past and present sponsors.</p>
-			<p>You can help our students pursue an interest in science, technology, 
-			engineering, and math by sponsoring out team.</p>
+			<p>Our sponsors are an essential piece of our success. They provide the capacity that allows us to thrive. We’re always thankful
+				for our past and present sponsors.</p>
+			<p>You can help our students pursue an interest in science, technology, engineering, and math by sponsoring out team.</p>
 			<p>Please email us at
-			<a href="mailto:team@4334.ca?Subject=Team%20Inquiry" target="_top">team@4334.ca</a> 
-			if you wish to become a sponsor.</p>
+				<a href="mailto:team@4334.ca?Subject=Team%20Inquiry" target="_top">team@4334.ca</a>
+				if you wish to become a sponsor.</p>
 			<div class="button-box col-md-12" style="text-align: center">
 				<a class="btn btn-info" href="/resources/pdf/Sponsorship%20Package%202017-2018.pdf" role="button" style="background: #404040; border-radius: 0px; color: white; margin-top: 0px; margin-bottom: 15px">
-				Sponsorship Information</a> </div>
+					Sponsorship Information</a>
+			</div>
 		</div>
 	</div>
 	<div class="row">
@@ -29,7 +28,8 @@ title: Sponsors
 			<map name="image-map">
 				<area alt="Avmax" coords="413,744,28,536" href="http://www.avmax.com/" shape="rect" target="" title="Avmax">
 				<area alt="MaxField" coords="201,749,827,985" href="http://maxfield.ca/" shape="rect" target="" title="MaxField">
-				<area alt="Bishop Carroll High School" coords="846,751,1051,1044" href="https://www.cssd.ab.ca/schools/bishopcarroll/Pages/default.aspx" shape="rect" target="" title="Bishop Carroll High School">
+				<area alt="Bishop Carroll High School" coords="846,751,1051,1044" href="https://www.cssd.ab.ca/schools/bishopcarroll/Pages/default.aspx"
+				 shape="rect" target="" title="Bishop Carroll High School">
 				<area alt="Ecoquip" coords="1110,751,1646,982" href="http://www.ecoquip.ca/" shape="rect" target="" title="Ecoquip">
 				<area alt="Laser Equation" coords="1375,595,1900,739" href="http://www.laserequation.com/" shape="rect" target="" title="Laser Equation">
 				<area alt="Gibsons" coords="1532,281,1880,472" href="http://www.gibsons.com/" shape="rect" target="" title="Gibsons">
