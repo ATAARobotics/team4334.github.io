@@ -8,7 +8,7 @@ title: Sponsors
 			<h1>Sponsors</h1>
 			<p>Our sponsors are an essential piece of our success. They provide the capacity that allows us to thrive. We’re always thankful
 				for our past and present sponsors.</p>
-			<p>You can help our students pursue an interest in science, technology, engineering, and math by sponsoring out team.</p>
+			<p>You can help our students pursue an interest in science, technology, engineering, and math by sponsoring our team.</p>
 			<p>Please email us at
 				<a href="mailto:team@4334.ca?Subject=Team%20Inquiry" target="_top">team@4334.ca</a>
 				if you wish to become a sponsor.</p>
