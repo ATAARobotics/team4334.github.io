@@ -46,8 +46,8 @@
 			font-size: 18px;
 		}
 
-		.navbar-nav li a:hover, .navbar-nav li a.active {
-			color: #afafaf !important;
+		.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link.active {
+			color: #afafaf;
 		}
 
 		.dropdown-item.active,
@@ -55,8 +55,8 @@
 			background-color: #d3d3d3;
 		}
 
-		.navbar li a {
-			color: #000000 !important;
+		.navbar-light .navbar-nav .nav-link {
+			color: #000000;
 		}
 
 		.dropdown-toggle::after {
@@ -171,12 +171,12 @@
 		}
 
 		#snav li a:hover, #snav li a.active {
-			color: #afafaf !important;
+			color: #afafaf;
 		}
 
 		#snav li a,
-		.navbar .navbar-brand {
-			color: #ffffff !important;
+		#snav .navbar-brand {
+			color: #ffffff;
 		}
 
 		{% endif %}
@@ -295,7 +295,7 @@
 						<a class="nav-link {% if page.title == "Blog" %}active{% endif %}" href="/blog">Blog</a>
 					</li>
 					<li class="nav-item dropdown">
-						<a id="navbardrop" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Media</a>
+						<a id="navbardrop" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Media </a>
 						<div class="dropdown-menu">
 							<a class="dropdown-item {% if page.title == "Photos" %}active{% endif %}" href="/media/photos">Photos</a>
 							<a class="dropdown-item {% if page.title == "Videos" %}active{% endif %}" href="/media/videos">Videos</a>
