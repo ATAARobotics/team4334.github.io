@@ -126,8 +126,8 @@ title: Home
 				<i>FIRST</i>'s goal is to inspire students to become leaders in engineering and technology fields through engaging programs
 				that build skills in science, engineering, and technology. Through these programs, students are inspired to innovate,
 				develop vital work skills, and build skills in self-confidence, communication, and leadership.</p>
-			<p>"
-				<i>FIRST</i> is more than robots. The robots are a vehicle for students to learn important life skills. Kids often come
+			<p>
+				"<i>FIRST</i> is more than robots. The robots are a vehicle for students to learn important life skills. Kids often come
 				in not knowing what to expect - of the program nor of themselves. They leave, even after the first season, with a vision,
 				with confidence, and with a sense that they can create their own future." -Dean Kamen, founder of
 				<i>FIRST</i>
