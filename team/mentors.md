@@ -1,6 +1,9 @@
 ﻿---
 layout: team
 title: Mentors
+files: |
+ <link href="/resources/css/snav.css" rel="stylesheet">
+ <link href="/resources/css/card.css" rel="stylesheet">
 ---
 <main role="main">
 	<div class="album py-4">

@@ -1,6 +1,8 @@
 ﻿---
 layout: default
 title: Sponsors
+files: |
+ <script src="/resources/js/imageMapResizer.min.js"></script>
 ---
 <div class="container">
 	<div class="row">

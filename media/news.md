@@ -1,6 +1,8 @@
 ﻿---
 layout: media
 title: News
+files: |
+ <link href="/resources/css/snav.css" rel="stylesheet">
 ---
 <div class="container">
 	<div class="row">

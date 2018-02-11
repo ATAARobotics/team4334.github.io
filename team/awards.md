@@ -1,6 +1,9 @@
 ﻿---
 layout: team
 title: Awards
+files: |
+ <link href="/resources/css/snav.css" rel="stylesheet">
+ <link href="/resources/css/awards.css" rel="stylesheet">
 ---
 <div class="container">
 	<div class="row">

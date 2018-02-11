@@ -1,6 +1,8 @@
 ﻿---
 layout: media
 title: Chairman's 2013
+files: |
+ <link href="/resources/css/snav.css" rel="stylesheet">
 ---
 <div class="container">
 	<div class="row">

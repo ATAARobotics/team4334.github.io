@@ -1,6 +1,18 @@
 ﻿---
 layout: media
 title: Videos
+files: |
+ <link href="/resources/css/lightgallery.css" rel="stylesheet">
+ <link href="/resources/css/snav.css" rel="stylesheet">
+ <link href="/resources/css/thumb.css" rel="stylesheet">
+ <script src="/resources/js/lg-videos.js"></script>
+ <script src="/resources/js/lightgallery.min.js"></script>
+ <script src="/resources/js/lg-autoplay.min.js"></script>
+ <script src="/resources/js/lg-fullscreen.min.js"></script>
+ <script src="/resources/js/lg-pager.min.js"></script>
+ <script src="/resources/js/lg-thumbnail.min.js"></script>
+ <script src="/resources/js/lg-video.min.js"></script>
+ <script src="/resources/js/lg-zoom.min.js"></script>
 ---
 <div class="container" style="max-width: 1140px">
 	<div class="row">

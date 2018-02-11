@@ -1,0 +1,84 @@
+#myCarousel .carousel-caption {
+    left: 0;
+    right: 0;
+    bottom: 0;
+    text-align: left;
+    padding: 10px;
+    background: rgba(0, 0, 0, 0.6);
+    text-shadow: none;
+}
+
+#myCarousel .list-group {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+#myCarousel .list-group-item {
+    border-radius: 0px;
+    cursor: pointer;
+    background-color: #f0f0f0;
+}
+
+#myCarousel .list-group .active {
+    background-color: #404040;
+}
+
+@media (min-width: 1130px) {
+    #myCarousel {
+        padding-right: 33.3333%;
+    }
+    #myCarousel .carousel-controls {
+        display: none;
+    }
+}
+
+@media (max-width: 1130px) {
+    .carousel-caption p,
+    #myCarousel .list-group {
+        display: none;
+    }
+}
+
+#carouselContainer, #carouselBox {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+#fb {
+    width: 500px;
+}
+
+#twc {
+    text-align: right;
+}
+
+@media (max-width: 1199px) {
+    #fb {
+        width: 455px;
+    }
+    #twc {
+        text-align: right;
+    }
+}
+
+@media (max-width: 991px) {
+    #fb {
+        width: 345px;
+    }
+    #twc {
+        text-align: right;
+    }
+}
+
+@media (max-width: 767px) {
+    #fb {
+        width: 333px;
+    }
+    #fbc {
+        text-align: center;
+    }
+    #twc {
+        text-align: center;
+    }
+}

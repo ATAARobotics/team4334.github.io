@@ -1,6 +1,8 @@
 ﻿---
 layout: team
 title: History
+files: |
+ <link href="/resources/css/snav.css" rel="stylesheet">
 ---
 <div class="container">
 	<div class="row">

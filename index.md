@@ -1,6 +1,9 @@
 ﻿---
 layout: default
 title: Home
+files: |
+ <link href="/resources/css/home.css" rel="stylesheet">
+ <script src="/resources/js/carousel.js"></script>
 ---
 <div class="container">
 	<div class="row">
