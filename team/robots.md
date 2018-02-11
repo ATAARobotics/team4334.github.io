@@ -14,7 +14,7 @@ title: Robots
 							<p class="card-text">Pivot participated in FIRST Steamworks. Pivot is able to pick up gears, drop them off at the airship, and climb during
 								the final seconds of the match.</p>
 							<p class="card-text">See more information on Steamworks
-								<a href="/first/sw2017">here</a>
+								<a href="/first/2017">here</a>
 							</p>
 						</div>
 					</div>
@@ -26,7 +26,7 @@ title: Robots
 							<h3 class="card-text">2016 - Velocity</h3>
 							<p class="card-text">Velocity participated in FIRST Stronghold. Velocity is able to shoot high goals and breach all defences.</p>
 							<p class="card-text">See more information on Stronghold
-								<a href="/first/sh2016">here</a>
+								<a href="/first/2016">here</a>
 							</p>
 						</div>
 					</div>
@@ -38,7 +38,7 @@ title: Robots
 							<h3 class="card-text">2015 - Elevation</h3>
 							<p class="card-text">Elevation participated in Recycle Rush. Elevation is designed for bottom stacking and flipping totes.</p>
 							<p class="card-text">See more information on Recycle Rush
-								<a href="/first/rr2015">here</a>
+								<a href="/first/2015">here</a>
 							</p>
 						</div>
 					</div>
@@ -50,7 +50,7 @@ title: Robots
 							<h3 class="card-text">2014 - Momentum</h3>
 							<p class="card-text">Momentum participated in Aerial Assist. Momentum is a highly agile robot with a primary goal of finishing and imbounding.</p>
 							<p class="card-text">See more information on Aerial Assist
-								<a href="/first/aa2014">here</a>
+								<a href="/first/2014">here</a>
 							</p>
 						</div>
 					</div>
@@ -63,7 +63,7 @@ title: Robots
 							<p class="card-text">Murdock participated in Ultimate Ascent. Murdock is a full-court shooter robot that aligns itself into a corner and
 								fires frisbees from 54' away.</p>
 							<p class="card-text">See more information on Ultimate Ascent
-								<a href="/first/ua2013">here</a>
+								<a href="/first/2013">here</a>
 							</p>
 						</div>
 					</div>
@@ -75,7 +75,7 @@ title: Robots
 							<h3 class="card-text">2012 - Rex</h3>
 							<p class="card-text">Rex participated in Rebound Rumble. Rex is a feeder robot that picks up balls and sends them over the bump.</p>
 							<p class="card-text">See more information on Rebound Rumble
-								<a href="/first/rr2012">here</a>
+								<a href="/first/2012">here</a>
 							</p>
 						</div>
 					</div>
