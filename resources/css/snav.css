@@ -1,0 +1,14 @@
+#snav {
+    background: #000000;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+#snav li a:hover, #snav li a.active {
+    color: #afafaf;
+}
+
+#snav li a,
+#snav .navbar-brand {
+    color: #ffffff;
+}

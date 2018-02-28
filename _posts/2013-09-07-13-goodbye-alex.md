@@ -1,8 +1,9 @@
 ---
 title: Goodbye to Alex
 description: Saying goodbye to our founding member
-img: /img/alex.jpg
+img: /resources/img/alexb.jpg
 layout: post
+vid: none
 ---
 
 This year, we say goodbye to our original member, Alex Rodriguez. We're happy to see him pursuing his passion in Waterloo University. He'll be continuing in FRC on Team 1114, Simbotics.

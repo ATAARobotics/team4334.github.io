@@ -1,10 +1,4 @@
+Gemfile.lock
+Gemfile
 _site/
-serve/
-build/
 
-### vim ###
-.*.s[a-w][a-z]
-*.un~
-Session.vim
-.netrwhist
-*~

@@ -1,138 +1,105 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        {% if page.title != nil %}
-            <title>{{ site.name }} - {{ page.title }}</title>
-        {% else %}
-            <title>{{ site.name }}</title>
-        {% endif %}
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta name="description" content="{{ site.description }}">
-        <link rel="icon" type="image/png" href="/favicon.ico">
 
-        <link href="/css/bootstrap.min.css" rel="stylesheet">
-        <style>
-            * {
-                margin: 0;
-            }
-            html, body {
-                height: 100%;
-                background-color: #F5F5F5;
-                padding: 0;
-            }
-            .navbar-wrapper {
-                padding-top: 10px;
-                margin-bottom: -10px;
-            }
-            .carousel-caption {
-                text-shadow: 2.5px 2px 2px black;
-            }
-            .carousel-inner > .item > img,
-            .carousel-inner > .item > a > img {
-                max-width: 100%;
-                margin-right: auto;
-                margin-left: auto;
-            }
-            .carousel-control {
-                opacity: 0.15;
-            }
-            .carousel-control:hover,
-            .carousel-control:focus {
-                opacity: 0.5;
-            }
-            .navbar-default .navbar-nav > .disabled > a,
-            .navbar-default .navbar-nav > .disabled > a:hover,
-            .navbar-default .navbar-nav > .disabled > a:focus {
-                background-color: transparent !important;
-            }
-            .body {
-                min-height: 100%;
-                /* Firefox */
-                min-height: -moz-calc(100% - 50px);
-                /* WebKit */
-                min-height: -webkit-calc(100% - 50px);
-                /* Opera */
-                min-height: -o-calc(100% - 50px);
-                /* Standard */
-                min-height: calc(100% - 50px);
-                padding-bottom: 30px;
-            }
-            @media screen and (max-width: 550px) {
-                .footer {
-                    display: none; 
-                }
-            }
-            .footer {
-                background-color: #383838;
-                width: 100%;
-                min-height: 50px;
-            }
-            .footer span {
-                color: #bfbfbf;
-            }
-            .footer .inner {
-                margin-top: 17px;
-                position: absolute;
-                width: 100%;
-            }
-            .footer .left {
-                float: left;
-                padding-left: 2%;
-            }
-            .footer .right {
-                float: right;
-                padding-right: 2%;
-            }
-        </style>
-        <link href="/css/bootstrap-theme.min.css" rel="stylesheet">
-        <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
-        <!--[if lt IE 9]>
-            <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-        <![endif]-->
-    </head>
-    
-    <body>
-        <div class="body">
-            <div class="navbar-wrapper">
-                <div class="container">
-                    <nav class="navbar navbar-static-top navbar-default" role="navigation">
-                        <div class="navbar-header">
-                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".nav-collapse">
-                                <span class="sr-only">Toggle navigation</span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                                <span class="icon-bar"></span>
-                            </button>
-                            <a class="navbar-brand" href="/"><img height="20px" src="/img/logo.png"></a>
-                        </div>
-                        <div class="collapse nav-collapse navbar-collapse">
-                            <form action="http://google.com/cse" class="navbar-form navbar-left" role="search">
-                                <input type="hidden" name="cx" value="008443684888986985988:bygwunlqra4"></input>
-                                <div class="form-group">
-                                    <input type="text" name="q" class="form-control" placeholder="Search"></input>
-                                </div>
-                                <button type="submit" class="btn btn-default"><span class="glyphicon glyphicon-search"></span></button>
-                            </form>
+<head>
+	<title>{{ site.name }} - {{ page.title }}</title>
+	<meta charset="utf-8">
+	<meta content="width=device-width, initial-scale=1" name="viewport">
+	<link href="/resources/css/bootstrap.min.css" rel="stylesheet">
+	<script src="/resources/js/jquery.min.js"></script>
+	<script src="/resources/js/bootstrap.min.js"></script>
+	{{ page.files }}
+	<meta name="description" content="{{ site.description }}">
+	<link href="/favicon.ico" rel="icon" type="image/png">
+</head>
 
-                        <ul class="nav navbar-nav navbar-right">
-                            <li class="{% if page.url contains 'first' %}active{% endif %}"><a href="/first"><i>FIRST</i></a></li>
-                            <li class="{% if page.url contains 'team' %}active{% endif %}"><a href="/team">Team</a></li>
-                            <li class="{% if page.url contains 'history' %}active{% endif %}"><a href="/history">History</a></li>
-                            <li class="{% if page.url contains 'archive' %}active{% endif %}"><a href="/archive">Blog</a></li>
-                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Media<b class="caret"></b></a>
-                                <ul class="dropdown-menu">
-                                    <li class="{% if page.url contains 'photos' %}active{% endif %}"><a href="/photos">Photos</a></li>
-                                    <li class="{% if page.url contains 'videos' %}active{% endif %}"><a href="/videos">Videos</a></li>
-                                    <li class="{% if page.url contains 'news' %}active{% endif %}"><a href="/news">In the News</a></li>
-                                    <li class="{% if page.url contains 'chairmans' %}active{% endif %}"><a href="/chairmans/2014">Chairman's Award</a></li>
-                                </ul>
-                            <li class="{% if page.url contains 'sponsors' %}active{% endif %}"><a href="/sponsors">Sponsors</a></li>
-                            <li class="{% if page.url contains 'members' %}active{% endif %}"><a href="/contact">Contact</a></li>
-                        </div>
-                    </nav>
-                </div>
-            </div>
+<body>
 
-            <div class="container">
+	<style>
+		.navbar {
+			font-size: 18px;
+		}
+
+		.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link.active {
+			color: #afafaf;
+		}
+
+		.dropdown-item.active,
+		.dropdown-item:active {
+			background-color: #d3d3d3;
+		}
+
+		.navbar-light .navbar-nav .nav-link {
+			color: #000000;
+		}
+
+		.dropdown-toggle::after {
+			margin-left: 0;
+		}
+
+	</style>
+	<div class="container">
+		<nav class="navbar navbar-expand-lg navbar-light">
+			<a class="navbar-brand" href="/">
+				<img class="img-fluid" src="/resources/img/atalogo.png">
+			</a>
+			<button class="navbar-toggler" data-target="#primaryNavbar" data-toggle="collapse" type="button">
+				<span class="navbar-toggler-icon"></span>
+			</button>
+			<div id="primaryNavbar" class="collapse navbar-collapse justify-content-end">
+				<ul class="navbar-nav">
+					<li class="nav-item">
+						<a class="nav-link {% if page.title == "Home" %}active{% endif %}" href="/">Home</a>
+					</li>
+					<li class="nav-item dropdown">
+						<a id="navbardrop" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">
+							<i>FIRST</i>
+						</a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item {% if page.title == 'FIRST' %}active{% endif %}" href="/first">
+								<i>FIRST</i>
+							</a>
+							<a class="dropdown-item {% if page.title == "POWER UP" %}active{% endif %}" href="/first/2018">POWER UP 2018</a>
+							<a class="dropdown-item {% if page.title == "Steamworks" %}active{% endif %}" href="/first/2017">Steamworks 2017</a>
+							<a class="dropdown-item {% if page.title == "Stronghold" %}active{% endif %}" href="/first/2016">Stronghold 2016</a>
+							<a class="dropdown-item {% if page.title == "Recycle Rush" %}active{% endif %}" href="/first/2015">Recycle Rush 2015</a>
+							<a class="dropdown-item {% if page.title == "Aerial Assist" %}active{% endif %}" href="/first/2014">Aerial Assist 2014</a>
+							<a class="dropdown-item {% if page.title == "Ultimate Ascent" %}active{% endif %}" href="/first/2013">Ultimate Ascent 2013</a>
+							<a class="dropdown-item {% if page.title == "Rebound Rumble" %}active{% endif %}" href="/first/2012">Rebound Rumble 2012</a>
+						</div>
+					</li>
+					<li class="nav-item dropdown">
+						<a id="navbardrop" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">
+							Team </a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item {% if page.title == "Team" %}active{% endif %}" href="/team">Team</a>
+							<a class="dropdown-item {% if page.title == "History" %}active{% endif %}" href="/team/history">History</a>
+							<a class="dropdown-item {% if page.title == "Awards" %}active{% endif %}" href="/team/awards">Awards</a>
+							<a class="dropdown-item {% if page.title == "Robots" %}active{% endif %}" href="/team/robots">Robots</a>
+							<a class="dropdown-item {% if page.title == "Mentors" %}active{% endif %}" href="/team/mentors">Mentors</a>
+							<a class="dropdown-item {% if page.title == "Alumni" %}active{% endif %}" href="/team/alumni">Alumni</a>
+						</div>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link {% if page.title == "Blog" %}active{% endif %}" href="/blog">Blog</a>
+					</li>
+					<li class="nav-item dropdown">
+						<a id="navbardrop" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#">Media </a>
+						<div class="dropdown-menu">
+							<a class="dropdown-item {% if page.title == "Photos" %}active{% endif %}" href="/media/photos">Photos</a>
+							<a class="dropdown-item {% if page.title == "Videos" %}active{% endif %}" href="/media/videos">Videos</a>
+							<a class="dropdown-item {% if page.title == "News" %}active{% endif %}" href="/media/news">News</a>
+							<a class="dropdown-item {% if page.title == "Chairman's 2014" %}active{% endif %}" href="/media/chairmans2014">Chairman's 2014</a>
+							<a class="dropdown-item {% if page.title == "Chairman's 2013" %}active{% endif %}" href="/media/chairmans2013">Chairman's 2013</a>
+						</div>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link {% if page.title == "Sponsors" %}active{% endif %}" href="/sponsors">Sponsors</a>
+					</li>
+					<li class="nav-item">
+						<a class="nav-link {% if page.title == "Contact" %}active{% endif %}" href="/contact">Contact</a>
+					</li>
+				</ul>
+			</div>
+		</nav>
+	</div>

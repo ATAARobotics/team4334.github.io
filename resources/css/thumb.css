@@ -1,0 +1,12 @@
+.thumbnail {
+    padding: 0 0 1px 0;
+    border: none;
+    border-radius: 0;
+    background-color: #f0f0f0;
+    margin-top: 15px;
+    height: calc(100% - 15px);
+}
+
+a:link, a:visited, a:hover, a:active {
+    color: #333333;
+}
