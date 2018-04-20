@@ -34,6 +34,18 @@ files: |
 				</div>
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/kieran.jpg">
+						<div class="card-body">
+							<h3 class="card-text">Kieran Bererton</h3>
+							<p class="card-text">Kieran Bererton is a previous team member.</p>
+							<p class="card-text">Kirean supports the team as a:</p>
+							<li class="card-text">Scouting Mentor</li>
+							<li class="card-text">Strategy Mentor</li>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card mb-4 box-shadow">
 						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/clayton-mcneil.jpg">
 						<div class="card-body">
 							<h3 class="card-text">Clayton McNeil</h3>
@@ -46,7 +58,7 @@ files: |
 				</div>
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/mac-hunik.png">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/mac-hunik.jpg">
 						<div class="card-body">
 							<h3 class="card-text">Mac Hunik</h3>
 							<p class="card-text">Mac Hunik is a previous team member. He is now studying as a mechanical engineer.</p>
@@ -58,7 +70,7 @@ files: |
 				</div>
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/alex-vu.png">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/alex-vu.jpg">
 						<div class="card-body">
 							<h3 class="card-text">Alex Vu</h3>
 							<p class="card-text">Alex Vu is a previous team member. He is now studying as a neuroscientist.</p>
@@ -70,7 +82,7 @@ files: |
 				</div>
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/cole-batonyi.png">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/cole-batonyi.jpg">
 						<div class="card-body">
 							<h3 class="card-text">Cole Batonyi</h3>
 							<p class="card-text">Cole Batonyi is a previous team member. He is now studying as a mechanical engineer.</p>
@@ -82,7 +94,7 @@ files: |
 				</div>
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/jeremy-zantua.png">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/jeremy-zantua.jpg">
 						<div class="card-body">
 							<h3 class="card-text">Jeremy Zantua</h3>
 							<p class="card-text">Jeremy Zantua is a previous team member.</p>
