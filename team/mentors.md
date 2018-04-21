@@ -38,7 +38,7 @@ files: |
 						<div class="card-body">
 							<h3 class="card-text">Kieran Bererton</h3>
 							<p class="card-text">Kieran Bererton is a previous team member.</p>
-							<p class="card-text">Kirean supports the team as a:</p>
+							<p class="card-text">Kieran supports the team as a:</p>
 							<li class="card-text">Scouting Mentor</li>
 							<li class="card-text">Strategy Mentor</li>
 						</div>
