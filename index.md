@@ -12,77 +12,41 @@ files: |
 				<div id="myCarousel" class="carousel slide" data-ride="carousel">
 					<!-- Wrapper for slides -->
 					<div class="carousel-inner">
+						{% for post in site.posts limit:1 %}
 						<div class="carousel-item active">
-							<img class="img-fluid d-block mx-auto" src="resources/img/c1.jpeg">
+							<div style="background-image:url('{{ post.img }}'); width:760px; height:390px; background-position:center; background-size:cover;"></div>
 							<div class="carousel-caption">
 								<h4>
-									<a href="/2017/04/07/western-canada/">Western Canada 2017</a>
+									<a href="{{ post.url }}">{{ post.title }}</a>
 								</h4>
-								<p>Team 4334, Alberta Tech Alliance, participated in the 2017 Western Canada Regional this weekend against 50 amazing
-									teams.</p>
+								<p>{{ post.description }}</p>
 							</div>
 						</div>
-						<!-- End Item -->
+						{% endfor %}
+						{% for post in site.posts limit:4 offset:1 %}
 						<div class="carousel-item">
-							<img class="img-fluid d-block mx-auto" src="resources/img/c2.jpg">
+							<div style="background-image:url('{{ post.img }}'); width:760px; height:390px; background-position:center; background-size:cover;"></div>
 							<div class="carousel-caption">
 								<h4>
-									<a href="/2016/09/12/china/">ATA Goes to China!</a>
+									<a href="{{ post.url }}">{{ post.title }}</a>
 								</h4>
-								<p>Team 4334 participated in the 2016 China Robotics Challenge, working with aspiring rookie teams.</p>
+								<p>{{ post.description }}</p>
 							</div>
 						</div>
-						<!-- End Item -->
-						<div class="carousel-item">
-							<img class="img-fluid d-block mx-auto" src="resources/img/c3.jpg">
-							<div class="carousel-caption">
-								<h4>
-									<a href="/2016/04/06/westerncanada2016/">Western Canada 2016</a>
-								</h4>
-								<p>4334 takes home its second regional of 2016 with 2013 and 4625.</p>
-							</div>
-						</div>
-						<!-- End Item -->
-						<div class="carousel-item">
-							<img class="img-fluid d-block mx-auto" src="resources/img/c4.jpeg">
-							<div class="carousel-caption">
-								<h4>
-									<a href="/2016/03/19/utah2016-win/">2016 Utah Regional
-									</a>
-								</h4>
-								<p>Teams 4334, 2468 and 3166 take victory!</p>
-							</div>
-						</div>
-						<!-- End Item -->
-						<div class="carousel-item">
-							<img class="img-fluid d-block mx-auto" src="resources/img/c5.jpg">
-							<div class="carousel-caption">
-								<h4>
-									<a href="/2015/12/12/salvation-army/">
-										Salvation Army Volunteering</a>
-								</h4>
-								<p>Volunteering at Salvation Army in Calgary, AB.</p>
-							</div>
-						</div>
-						<!-- End Item -->
+						{% endfor %}
 					</div>
 					<!-- End Carousel Inner -->
 					<ul class="list-group col-md-4" style="padding-right: 0px">
-						<li class="list-group-item active" data-slide-to="0" data-target="#myCarousel">
-							<h4>Western Canada 2017</h4>
+						{% for post in site.posts limit:1 %}
+						<li class="list-group-item active" data-slide-to="{{ forloop.index0 }}" data-target="#myCarousel">
+							<h4>{{ post.title }}</h4>
 						</li>
-						<li class="list-group-item" data-slide-to="1" data-target="#myCarousel">
-							<h4>ATA Goes to China!</h4>
+						{% endfor %}
+						{% for post in site.posts limit:4 offset:1 %}
+						<li class="list-group-item" data-slide-to="{{ forloop.index }}" data-target="#myCarousel">
+							<h4>{{ post.title }}</h4>
 						</li>
-						<li class="list-group-item" data-slide-to="2" data-target="#myCarousel">
-							<h4>Western Canada 2016</h4>
-						</li>
-						<li class="list-group-item" data-slide-to="3" data-target="#myCarousel">
-							<h4>2016 Utah Regional</h4>
-						</li>
-						<li class="list-group-item" data-slide-to="4" data-target="#myCarousel">
-							<h4>Salvation Army Volunteering</h4>
-						</li>
+						{% endfor %}
 					</ul>
 					<div class="carousel-controls">
 						<a class="carousel-control-prev" data-slide="prev" href="#myCarousel">
