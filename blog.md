@@ -13,8 +13,8 @@ title: Blog
 				<a href="{{ post.url }}">MORE>></a>
 			</p>
 		</div>
-		<div class="col-md-4" style="background-color: #f0f0f0;">
-			<img style="margin-top: 15px; margin-bottom: 15px" class="img-fluid" alt="Image Not Found!" src="{{ post.img }}">
+		<div class="col-md-4" style="background-color: #f0f0f0; padding-right:0px">
+			<img class="img-fluid" alt="Image Not Found!" src="{{ post.img }}">
 		</div>
 	</div>
 	{% endfor %}
