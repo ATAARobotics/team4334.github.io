@@ -24,10 +24,17 @@ files: |
 					<li data-slide-to="3" data-target="#myCarousel"></li>
 					<li data-slide-to="4" data-target="#myCarousel"></li>
 					<li data-slide-to="5" data-target="#myCarousel"></li>
+					<li data-slide-to="6" data-target="#myCarousel"></li>
 				</ol>
 				<!-- Wrapper for slides -->
 				<div class="carousel-inner">
 					<div class="carousel-item active">
+						<img class="img-fluid d-block mx-auto" alt="2018" src="/resources/img/team2018.jpg">
+						<div class="carousel-caption">
+							<h3>2018</h3>
+						</div>
+					</div>
+					<div class="carousel-item">
 						<img class="img-fluid d-block mx-auto" alt="2017" src="/resources/img/team2017.jpeg">
 						<div class="carousel-caption">
 							<h3>2017</h3>

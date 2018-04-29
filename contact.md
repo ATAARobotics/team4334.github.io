@@ -13,5 +13,5 @@ title: Contact
 			</p>
 		</div>
 	</div>
-	<img style="padding-bottom:15px" class="img-fluid d-block mx-auto" src="/resources/img/team2017.jpeg">
+	<img style="padding-bottom:15px" class="img-fluid d-block mx-auto" src="/resources/img/team2018.jpg">
 </div>
