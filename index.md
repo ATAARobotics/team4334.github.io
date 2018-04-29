@@ -14,7 +14,7 @@ files: |
 					<div class="carousel-inner">
 						{% for post in site.posts limit:1 %}
 						<div class="carousel-item active">
-							<div style="background-image:url('{{ post.img }}'); width:760px; height:390px; background-position:center; background-size:cover;"></div>
+							<img class="img-fluid d-block mx-auto" style="object-fit:cover" src="/resources/img/c{{ forloop.index0 }}.jpg">
 							<div class="carousel-caption">
 								<h4>
 									<a href="{{ post.url }}">{{ post.title }}</a>
@@ -25,7 +25,7 @@ files: |
 						{% endfor %}
 						{% for post in site.posts limit:4 offset:1 %}
 						<div class="carousel-item">
-							<div style="background-image:url('{{ post.img }}'); width:760px; height:390px; background-position:center; background-size:cover;"></div>
+							<img class="img-fluid d-block mx-auto" style="object-fit:cover" src="/resources/img/c{{ forloop.index }}.jpg">
 							<div class="carousel-caption">
 								<h4>
 									<a href="{{ post.url }}">{{ post.title }}</a>
