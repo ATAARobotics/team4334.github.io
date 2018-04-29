@@ -11,6 +11,18 @@ files: |
 			<div class="row">
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
+						<img class="img-fluid" alt="Pivot" src="/resources/img/clawboyandrampgirl.JPG">
+						<div class="card-body">
+							<h3 class="card-text">2018 - Clawboy and Rampgirl</h3>
+							<p class="card-text">Clawboy and Rampgirl participated in FIRST POWER UP. It is able to place cubes on the switch and scale as well as in the exchange.</p>
+							<p class="card-text">See more information on POWER UP
+								<a href="/first/2018">here</a>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card mb-4 box-shadow">
 						<img class="img-fluid" alt="Pivot" src="/resources/img/pivot.jpg">
 						<div class="card-body">
 							<h3 class="card-text">2017 - Pivot</h3>
