@@ -29,6 +29,34 @@ files: |
 			<p>In the 2015 season, ATA, along with 624 (CRyptonite) and 1619 (Up-A-Creek Robotics) won the Utah Regional and got placed
 				in the Archimedes Division during the 2015 Championship. The team also took home the Innovation in Control Award sponsored
 				by Rockwell Automation at the Western Canadian Regional.</p>
+			<p>2016 was another successful season for ATA. With Team 2468 (Team Appreciate) and Team 3166 (First Year Ravens), ATA won
+				the Utah Regional in Salt Lake City for the second time. This win earned them a spot at the FRC Championships in St.
+				Louis. Team 4334 also won the “Excellence in Engineering” award in Utah. ATA also won their second event, the Western
+				Canada regional in Calgary, with Team 2013 (Cybergnomes) and Team 4625 (Trappers). 4334 received the “Creativity” award
+				at the Western Canada Regional as well. At FRC Championships ATA was placed in the Hopper division. Here they Teamed
+				up with Team 294 (Beach Cities Robotics), once again Team 2013 (Cybergnomes) and Team 1732 (Hilltoppers). Unfortunately,
+				they were defeated by the eventual division champs in the semifinals by Teams 364 (Team Fusion), 148 (Robowranglers),
+				and 1678 (Citrus Circuits). ATA and their alliance finished with a 5th place ranking in the Hopper division of the FRC
+				Championships.</p>
+			<p>In 2017, ATA competed at the Utah Regional in Salt Lake City once again. ATA’s robot, Pivot, was simple and could only
+				intake gears from the human players and place them on the peg. Pivot also had a very fast and reliable climbing mechanism
+				and rope. Teaming up with 3374 (Jackson Hole RoboBroncos) and 4627 (Manning Robotics) they were eliminated in the quarter
+				finals and finished with a rank of 8. In the time after the Utah Regional, a ground gear intake was added to Pivot to
+				improve gear intake reliability and speed. ATA then competed at the Western Canada regional. Here, Team 2122 (Team Tators)
+				Teamed up with ATA and 1482 (Ghosts) to win the competition. This earned them a ticket to the FRC Championships in Houston.
+				ATA also won the “Quality Award sponsored by Motorola Solutions Foundation” at the Western Canada Regional. ATA was placed
+				in the Carver division at the championships. ATA chose Team 2471 (Team Mean Machine), Team 3256 (Warrior Borgs) and Team
+				599 (Robodox) to join the 3rd alliance. They were eliminated in the quarterfinals and finished with a rank of 4 in the
+				Hopper Division.</p>
+			<p>In 2018, ATA competed in the inaugural Canadian Pacific Regional in Victoria, British Columbia. ATA’s robot had a claw
+				to grab power cubes and place them on the switch or scale and ramps to help other robots climb at the end of the match.
+				Aligning with Team 1868 (Space Cookies) and 5118 (K-BOTS), they were defeated by the event winners, Team 1241 (THEORY6)
+				and their partners 6390 (Hephaestus) and 7173 (Iris Robotics) in the semifinals. However, ATA did win the “Industrial
+				Design” award. In the time after the Canadian Pacific regional, some changes were made to the robot. The ramps were removed
+				because of reliability and technical issues and a wheeled intake was added to improve cube cycle time and cube intake
+				reliability. ATA once again competed at the Canadian Rockies Regional (formerly the Western Canada Regional). Being selected
+				by 6679 (TESLA robotics) along with Team 6351 (Rundle College Robotics) they lost in the semifinals against powerhouse
+				Teams 2122 (Team Tators), 359 (The Hawaiian Kids), and their third selection 4733 (Scarlett Robotics).</p>
 		</div>
 	</div>
 </div>
