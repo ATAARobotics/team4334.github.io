@@ -10,6 +10,13 @@ files: |
 			<h1>ATA in the News</h1>
 			<table class="table table-condensed">
 				<tr>
+					<td>May 12, 2018</td>
+					<td>
+						<a href="https://www.thestar.com/calgary/2018/05/12/high-school-students-hope-to-inspire-young-girls-interested-in-stem.html">
+							High school students hope to inspire young girls interested in STEM</a>
+					</td>
+				</tr>
+				<tr>
 					<td>August 29, 2016</td>
 					<td>
 						<a href="http://calgary.ctvnews.ca/calgary-high-school-students-win-robot-supremacy-in-china-1.3049350">
