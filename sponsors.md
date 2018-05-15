@@ -96,7 +96,7 @@ files: |
 				<a href="https://www.mltaikins.com/">MLT Aikins</a>
 			</div>
 			<div class="col-sm-3">
-				<a href="http://www.nomodic.com/">Nomodic Custom Modular Structures</a>
+				<a href="http://www.nomodic.com/">Nomodic Structures</a>
 			</div>
 			<div class="col-sm-3">
 				<a href="http://northhillcentre.com/">North Hill Centre</a>
