@@ -45,4 +45,86 @@ files: |
 		</div>
 		<script>imageMapResize();</script>
 	</div>
+	<div class="col-md-12">
+		<div class="row">
+			<h1>Past Sponsors</h1>
+		</div>
+		<div class="row" style="margin-bottom:15px;">
+			<div class="col-sm-3">
+				<a href="http://www.aaronmachineshop.com/">Aaron Machine Shop</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="http://www.aoshirley.com/index.html">AO Shirley Foundation</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="https://aeicm.com/">August Electronics</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="http://www.avmax.com/">Avmax</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="https://bigchiefmeatsnacks.com/">Big Chief Beef Jerky</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="https://www.cssd.ab.ca/schools/bishopcarroll/Pages/default.aspx">Bishop Carroll High School</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="http://www.canadahumidor.com/">Canada Humidor</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="https://www.ge.com/ca/en">GE</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="https://www.gibsonenergy.com/">Gibson Energy</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="https://isacalgary.ca/">ISA - Calgary Section</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="http://www.laserequation.com/">Laser Equation Ltd.</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="http://www.lexusofcalgary.com/">Lexus of Calgary</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="https://maxfield.ca/">MaXfield Inc.</a>
+			</div>
+			<div class="col-sm-3">
+				Maxim
+			</div>
+			<div class="col-sm-3">
+				<a href="https://www.mltaikins.com/">MLT Aikins</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="http://www.nomodic.com/">Nomodic Custom Modular Structures</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="http://northhillcentre.com/">North Hill Centre</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="http://qsine.ca/">Qsine</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="https://www.repsol.com">Repsol</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="http://www.sait.ca/">SAIT</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="http://sentio.ca/">Sentio Engineering</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="https://www.solidworks.com/">Solidworks</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="https://www.telus.com/">Telus</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="http://www.timhortons.com">Tim Hortons</a>
+			</div>
+			<div class="col-sm-3">
+				<a href="https://www.westjet.com">Westjet</a>
+			</div>
+		</div>
+	</div>
 </div>
