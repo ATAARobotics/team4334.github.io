@@ -15,7 +15,7 @@ files: |
 				<a href="mailto:team@4334.ca?Subject=Team%20Inquiry" target="_top">team@4334.ca</a>
 				if you wish to become a sponsor.</p>
 			<div class="button-box col-md-12" style="text-align: center">
-				<a class="btn btn-info" href="/resources/pdf/Sponsorship%20Package%202017-2018.pdf" role="button" style="background: #404040; border-radius: 0px; color: white; margin-top: 0px; margin-bottom: 15px">
+				<a class="btn btn-info" href="/resources/pdf/sponsorship.pdf" role="button" style="background: #404040; border-radius: 0px; color: white; margin-top: 0px; margin-bottom: 15px">
 					Sponsorship Information</a>
 			</div>
 		</div>
