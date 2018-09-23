@@ -14,6 +14,25 @@ files: |
  <script src="/resources/js/lg-photos.js"></script>
 ---
 <div class="container" style="max-width: 1140px">
+		<div class="row">
+		<h1 style="margin-top: 10px">2018</h1>
+	</div>
+	<div class="row">
+		<div class="col-md-3">
+			<a href="#" id="beakerhead2018">
+				<div class="thumbnail">
+					<img class="img-fluid" alt="Elevation" src="/albums/Beakerhead2018/Photos/thumb.jpg">
+					<h4 style="padding-left: 5px">Beakerhead</h4>
+				</div>
+			</a>
+		</div>
+		<div class="col-md-3">
+		</div>
+		<div class="col-md-3">
+		</div>
+		<div class="col-md-3">
+		</div>
+	</div>
 	<div class="row">
 		<h1 style="margin-top: 10px">2017</h1>
 	</div>
