@@ -1,4 +1,36 @@
 ﻿$(document).ready(function () {
+    $('#orts2018').on('click', function (e) {
+        $(this).lightGallery({
+            dynamic: true,
+            dynamicEl: [{
+                src: '/albums/OutrunTheStigma2018/Photos/1.jpg',
+                thumb: '/albums/OutrunTheStigma2018/Photos/thumbs/1.jpg'
+            }, {
+                src: '/albums/OutrunTheStigma2018/Photos/2.jpg',
+                thumb: '/albums/OutrunTheStigma2018/Photos/thumbs/2.jpg'
+            }, {
+                src: '/albums/OutrunTheStigma2018/Photos/3.jpg',
+                thumb: '/albums/OutrunTheStigma2018/Photos/thumbs/3.jpg'
+            }, {
+                src: '/albums/OutrunTheStigma2018/Photos/4.jpg',
+                thumb: '/albums/OutrunTheStigma2018/Photos/thumbs/4.jpg'
+            }, {
+                src: '/albums/OutrunTheStigma2018/Photos/5.jpg',
+                thumb: '/albums/OutrunTheStigma2018/Photos/thumbs/5.jpg'
+            }, {
+                src: '/albums/OutrunTheStigma2018/Photos/6.jpg',
+                thumb: '/albums/OutrunTheStigma2018/Photos/thumbs/6.jpg'
+            }, {
+                src: '/albums/OutrunTheStigma2018/Photos/7.jpg',
+                thumb: '/albums/OutrunTheStigma2018/Photos/thumbs/7.jpg'
+            }, {
+                src: '/albums/OutrunTheStigma2018/Photos/8.jpg',
+                thumb: '/albums/OutrunTheStigma2018/Photos/thumbs/8.jpg'
+            }]
+        });
+    });
+});
+$(document).ready(function () {
     $('#beakerhead2018').on('click', function (e) {
         $(this).lightGallery({
             dynamic: true,

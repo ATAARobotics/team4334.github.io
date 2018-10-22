@@ -19,14 +19,20 @@ files: |
 	</div>
 	<div class="row">
 		<div class="col-md-3">
+			<a href="#" id="orts2018">
+				<div class="thumbnail">
+					<img class="img-fluid" alt="Elevation" src="/albums/OutrunTheStigma2018/Photos/thumb.jpg">
+					<h4 style="padding-left: 5px">Outrun the Stigma</h4>
+				</div>
+			</a>
+		</div>
+		<div class="col-md-3">
 			<a href="#" id="beakerhead2018">
 				<div class="thumbnail">
 					<img class="img-fluid" alt="Elevation" src="/albums/Beakerhead2018/Photos/thumb.jpg">
 					<h4 style="padding-left: 5px">Beakerhead</h4>
 				</div>
 			</a>
-		</div>
-		<div class="col-md-3">
 		</div>
 		<div class="col-md-3">
 		</div>
