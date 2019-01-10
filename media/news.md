@@ -10,6 +10,13 @@ files: |
 			<h1>ATA in the News</h1>
 			<table class="table table-condensed">
 				<tr>
+					<td>January 5, 2019</td>
+					<td>
+						<a href="https://calgary.ctvnews.ca/calgary-tech-teams-set-to-build-robots-for-deep-space-1.4242033">
+							Calgary tech teams set to build robots for deep space</a>
+					</td>
+				</tr>
+				<tr>
 					<td>May 12, 2018</td>
 					<td>
 						<a href="https://www.thestar.com/calgary/2018/05/12/high-school-students-hope-to-inspire-young-girls-interested-in-stem.html">
