@@ -1,5 +1,7 @@
 .card {
     background-color: #f0f0f0;
+    /* Has no border edge */
     border-radius: 0;
+    /* Calculates the height */
     height: calc(100% - 24px);
 }
