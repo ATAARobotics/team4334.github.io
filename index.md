@@ -117,9 +117,8 @@ files: |
 			</iframe>
 		</div>
 		<div id="twc" class="col-md-6" style="margin-top: 15px; margin-bottom: 15px">
-			<a class="twitter-timeline" data-dnt="true" data-height="750" data-theme="light" data-width="500" href="https://twitter.com/Team4334?ref_src=twsrc%5Etfw">
-				Tweets by Team4334</a>
-			<script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+			<a class="twitter-timeline" data-width="500" data-height="750" data-dnt="true" href="https://twitter.com/ata4334?ref_src=twsrc%5Etfw">Tweets by ata4334</a>
+			<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 		</div>
 	</div>
 </div>
