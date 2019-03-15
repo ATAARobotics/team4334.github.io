@@ -1,7 +1,10 @@
+#Sets the name of the website
 name: "Team 4334"
+#Sets the description of the website
 description: "Official website of Team 4334 - Alberta Tech Alliance"
 
 permalink: pretty
+#Sets the url of the website
 url: http://4334.ca
 
 paginator: 10

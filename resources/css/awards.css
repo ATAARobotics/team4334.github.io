@@ -1,5 +1,6 @@
 a:link, a:visited, a:hover, a:active {
-    color: #333333;
+    /* Sets the text colour */
+        color: #333333;
 }
 
 .tg {
@@ -8,10 +9,14 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .tg td {
+    /* Sets the font */
     font-family: Calibri, sans-serif;
+    /* Sets the font size */
     font-size: 14px;
     padding: 10px 5px;
+    /* Sets the border style */
     border-style: solid;
+    /* Sets the border width */
     border-width: 0px;
     overflow: hidden;
     word-break: normal;
@@ -29,6 +34,7 @@ a:link, a:visited, a:hover, a:active {
 }
 
 .tg .tg-ee5k {
+    /* Sets the font to bold */
     font-weight: bold;
     color: #000000;
     vertical-align: top;
