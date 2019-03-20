@@ -15,6 +15,7 @@ files: |
 						<div class="card-body">
 							<!--Title for 2018 robot-->
 							<h3 class="card-text">2018 - Clawboy and Rampgirl</h3>
+							<!-- Cole Dewis IS HERE HI JOHN>
 							<!--2018 robot description-->
 							<p class="card-text">Clawboy and Rampgirl participated in FIRST POWER UP. It is able to place cubes on the switch and scale as well as in the exchange.</p>
 							<!--Links to more information 
