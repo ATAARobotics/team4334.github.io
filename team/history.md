@@ -7,11 +7,12 @@ files: |
 <div class="container">
 	<div class="row">
 		<div class="col-md-12" style="padding-top:15px">
+			<!--Description of our team history-->
 			<p>ATA started with one student - Alex Rodrigues. From a great background in FTC and FRC, winning world championships in
 				FTC and winning a spot to world championships in FRC, he chose during his grade 11 year to start a team at Bishop Carroll.
 				In a short 6 months, he organized, trained and got the resources that were required in order to compete in 2012. Although
 				it would be a great accomplishment for such a team to finish a robot on time, the team’s goals were higher. From making
-				a practise robot, to analyzing live streams for hours, to strategizing alliance possibilities, the team set themselves
+				a practice robot, to analyzing live streams for hours, to strategizing alliance possibilities, the team set themselves
 				up to be winners. And they did win. Being highest seeded rookie team, and winning rookie all-star award in the Greater
 				Toronto Regional, they earned their spot in the world championships in St. Louis.</p>
 			<p>In St. Louis, the humble beginnings soon began big dreams. After a struggle in qualifications surrounded by technical

@@ -7,6 +7,7 @@ files: |
 <div class="container">
 	<div class="row">
 		<div class="col-md-12">
+			<!--Description of our team-->
 			<p style="padding-top: 15px">We are 4334, a FRC robotics team based in Calgary, Alberta, Canada. We strive to actively improve ourselves and others
 				spreading FIRST Robotics ideals and values both in and out of competition. With a team compliment of determined, committed
 				and skilled members, we each work year round to promote personal and general improvement within our team and others.

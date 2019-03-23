@@ -66,6 +66,7 @@ files: |
 			<img alt="Image Not Found!" class="img-fluid" src="resources/img/ataleaf.png" style="padding-top: 15px" width="100%">
 		</div>
 		<div class="col-md-9" style="background-color: #f0f0f0">
+			<!--Description of our team-->
 			<p style="margin-top: 15px">We are
 				<b>Team 4334, Alberta Tech Alliance</b>, a FRC robotics team based in Calgary, Alberta, Canada.</p>
 			<p>We strive to actively improve ourselves and others spreading FIRST Robotics ideals and values, both in and out of competition.
@@ -86,6 +87,7 @@ files: |
 	</div>
 	<div class="row" style="margin-top: 15px">
 		<div class="col-md-9" style="background-color: #f0f0f0">
+			<!--Description of FIRST-->
 			<p style="margin-top: 15px">
 				<i>For Inspiration and Recognition of Science and Technology</i> is an international youth organization that operates the
 				FIRST Robotics Competition, FIRST LEGO League, FIRST LEGO League Jr., and First Tech Challenge competitions.</p>

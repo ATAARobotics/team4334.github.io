@@ -13,7 +13,9 @@ files: |
 					<div class="card mb-4 box-shadow">
 						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/louis-batonyi.jpg">
 						<div class="card-body">
+							<!--Name of the mentor-->
 							<h3 class="card-text">Louis Batonyi</h3>
+							<!--Mentors roles on the team-->
 							<p class="card-text">Louis supports the team as a:</p>
 							<li class="card-text">Lead Mentor</li>
 							<li class="card-text">Mechanical Mentor</li>

@@ -11,6 +11,7 @@ files: |
 			<table class="tg">
 				<tr>
 					<th class="tg-k20k">
+						<!--Link to our Blue Alliance page-->
 						<a href="https://www.thebluealliance.com/team/4334/2019">2019</a>
 					</th>
 					<th class="tg-fefd"></th>
@@ -18,7 +19,9 @@ files: |
 				</tr>
 				<tr>
 					<td class="tg-fefd"></td>
+					<!--Regional that we won the award at-->
 					<td class="tg-ee5k">Canadian Pacific Regional</td>
+					<!--Name of the award we won-->
 					<td class="tg-fefd">
 						<li>Quality Award</li>
 					</td>

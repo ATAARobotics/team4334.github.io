@@ -8,9 +8,11 @@ files: |
 	<div class="row">
 		<div class="col-md-12" style="background-color: #f0f0f0">
 			<h1>Sponsors</h1>
+			<!--Desscription of our sponsors-->
 			<p>Our sponsors are an essential piece of our success. They provide the capacity that allows us to thrive. We’re always thankful
 				for our past and present sponsors.</p>
 			<p>You can help our students pursue an interest in science, technology, engineering, and math by sponsoring our team.</p>
+			<!--Links to our email-->
 			<p>Please email us at
 				<a href="mailto:team@4334.ca?Subject=Team%20Inquiry" target="_top">team@4334.ca</a>
 				if you wish to become a sponsor.</p>
@@ -22,6 +24,7 @@ files: |
 	</div>
 	<div class="row">
 		<div class="col-md-12" style="padding-top: 1px;">
+			<!--List of our current sponsors-->
 			<h1>Current Sponsors</h1>
 			<div class="row">
 			</div>
@@ -50,6 +53,7 @@ files: |
 	</div>
 	<div class="col-md-12">
 		<div class="row">
+			<!--List of our past sponsors-->
 			<h1>Past Sponsors</h1>
 		</div>
 		<div class="row" style="margin-bottom:15px;">

@@ -13,9 +13,16 @@ files: |
 					<div class="card mb-4 box-shadow">
 						<img class="img-fluid" alt="Alex Rodrigues" src="/resources/img/alumni/alex-rodrigues.jpg">
 						<div class="card-body">
-							<h3 class="card-text" style="float:left">Alex Rodrigues</h3>
-							<h4 class="card-text" style="font-style:italic; float:right; margin-top: 5px;">2012-2013</h4>
+							<!--Name of mentor and year
+							mentor was on the team-->
+							<h3 class="card-text" 
+							style="float:left">Alex Rodrigues</h3>
+							<h4 class="card-text" 
+							style="font-style:italic; float:right; 
+							margin-top: 5px;">2012-2013</h4>
+							<!--Desciption of mentor-->
 							<p class="card-text" style="clear:both">Alex Rodrigues founded ATA in 2012. He acted as Team Lead for the 2012 and 2013 seasons. He has now moved on.</p>
+							<!--Mentor's past leader positions-->
 							<p class="card-text">Alex is a former:</p>
 							<li class="card-text">Team Leader</li>
 							<li class="card-text">Programming Leader</li>
