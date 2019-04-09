@@ -18,6 +18,13 @@ files: |
 				</tr>
 				<tr>
 					<td class="tg-fefd"></td>
+					<td class="tg-ee5k">Canadian Rockies Regional</td>
+					<td class="tg-fefd">
+						<li>Quality Award</li>
+					</td>
+				</tr>
+				<tr>
+					<td class="tg-fefd"></td>
 					<td class="tg-ee5k">Canadian Pacific Regional</td>
 					<td class="tg-fefd">
 						<li>Quality Award</li>

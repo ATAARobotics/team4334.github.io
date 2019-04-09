@@ -10,6 +10,16 @@
     {% if page.vid == 'none' %}
     <img class="img-fluid d-block mx-auto" style="margin-top:15px; margin-bottom:15px; width:100%" src="{{ page.img }}" />
     {% endif %}
+    {% if page.img2 %}
+    <div class="row">
+        <div class="col">
+                <img class="img-fluid d-block mx-auto" style="margin-top:15px; margin-bottom:15px; width:100%" src="{{ page.img }}" />
+        </div>
+        <div class="col">
+                <img class="img-fluid d-block mx-auto" style="margin-top:15px; margin-bottom:15px; width:100%" src="{{ page.img2 }}" />
+        </div>
+    </div>
+    {% endif %}
     {% if page.vid != 'none' %}
     <div class="row">
         <div class="col-md-6">
