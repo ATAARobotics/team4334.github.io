@@ -25,47 +25,54 @@ files: |
 					<li data-slide-to="4" data-target="#myCarousel"></li>
 					<li data-slide-to="5" data-target="#myCarousel"></li>
 					<li data-slide-to="6" data-target="#myCarousel"></li>
+					<li data-slide-to="7" data-target="#myCarousel"></li>
 				</ol>
 				<!-- Wrapper for slides -->
 				<div class="carousel-inner">
 					<div class="carousel-item active">
-						<img class="img-fluid d-block mx-auto" alt="2018" src="/resources/img/team2018.jpg">
+						<img style="width: 100%" class="img-fluid d-block mx-auto" alt="2019" src="/resources/img/team2019.jpg">
+						<div class="carousel-caption">
+							<h3>2019</h3>
+						</div>
+					</div>
+					<div class="carousel-item">
+						<img style="width: 100%" class="img-fluid d-block mx-auto" alt="2018" src="/resources/img/team2018.jpg">
 						<div class="carousel-caption">
 							<h3>2018</h3>
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img class="img-fluid d-block mx-auto" alt="2017" src="/resources/img/team2017.jpeg">
+						<img style="width: 100%" class="img-fluid d-block mx-auto" alt="2017" src="/resources/img/team2017.jpeg">
 						<div class="carousel-caption">
 							<h3>2017</h3>
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img class="img-fluid d-block mx-auto" alt="2016" src="/resources/img/team2016.jpg">
+						<img style="width: 100%" class="img-fluid d-block mx-auto" alt="2016" src="/resources/img/team2016.jpg">
 						<div class="carousel-caption">
 							<h3>2016</h3>
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img class="img-fluid d-block mx-auto" alt="2015" src="/resources/img/team2015.JPG">
+						<img style="width: 100%" class="img-fluid d-block mx-auto" alt="2015" src="/resources/img/team2015.JPG">
 						<div class="carousel-caption">
 							<h3>2015</h3>
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img class="img-fluid d-block mx-auto" alt="2014" src="/resources/img/team2014.png">
+						<img style="width: 100%" class="img-fluid d-block mx-auto" alt="2014" src="/resources/img/team2014.png">
 						<div class="carousel-caption">
 							<h3>2014</h3>
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img class="img-fluid d-block mx-auto" alt="2013" src="/resources/img/team2013.jpg">
+						<img style="width: 100%" class="img-fluid d-block mx-auto" alt="2013" src="/resources/img/team2013.jpg">
 						<div class="carousel-caption">
 							<h3>2013</h3>
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img class="img-fluid d-block mx-auto" alt="2012" src="/resources/img/team2012.jpg">
+						<img style="width: 100%" class="img-fluid d-block mx-auto" alt="2012" src="/resources/img/team2012.jpg">
 						<div class="carousel-caption">
 							<h3>2012</h3>
 						</div>
