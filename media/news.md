@@ -10,6 +10,13 @@ files: |
 			<h1>ATA in the News</h1>
 			<table class="table table-condensed">
 				<tr>
+					<td>April 15, 2019</td>
+					<td>
+						<a href="https://calgary.ctvnews.ca/video?clipId=1661146&binId=1.1201914&playlistPageNum=1">
+							Robotics team looks to send Warthog to Texas</a>
+					</td>
+				</tr>
+				<tr>
 					<td>January 5, 2019</td>
 					<td>
 						<a href="https://calgary.ctvnews.ca/calgary-tech-teams-set-to-build-robots-for-deep-space-1.4242033">
