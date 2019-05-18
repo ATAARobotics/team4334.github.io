@@ -1,4 +1,4 @@
-﻿$(document).ready(function(){
+$(document).ready(function(){
     
 	var clickEvent = false;
 	$('#myCarousel').carousel({

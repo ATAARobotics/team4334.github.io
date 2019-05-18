@@ -1,4 +1,4 @@
-﻿---
+---
 #FIRST page
 layout: first
 title: FIRST

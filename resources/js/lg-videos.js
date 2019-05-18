@@ -1,4 +1,4 @@
-﻿$(document).ready(function() {
+$(document).ready(function() {
   $('#houston2017').on('click', function(e) {
       $(this).lightGallery({
           dynamic: true,

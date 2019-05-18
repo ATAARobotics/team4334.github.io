@@ -1,4 +1,4 @@
-﻿---
+---
 layout: media
 title: Chairman's 2013
 files: |

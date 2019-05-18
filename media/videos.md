@@ -1,4 +1,4 @@
-﻿---
+---
 layout: media
 title: Videos
 files: |
