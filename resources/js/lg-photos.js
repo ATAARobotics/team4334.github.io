@@ -1,4 +1,278 @@
 $(document).ready(function () {
+    $('#buildseason2020').on('click', function (e) {
+        $(this).lightGallery({
+            dynamic: true,
+            dynamicEl: [{
+                src: '/albums/buildseason2020/Photos/1.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/1.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/2.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/2.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/3.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/3.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/4.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/4.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/5.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/5.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/6.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/6.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/7.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/7.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/8.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/8.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/9.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/9.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/10.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/10.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/11.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/11.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/12.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/12.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/13.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/13.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/14.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/14.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/15.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/15.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/16.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/16.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/17.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/17.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/18.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/18.jpg'
+            }, {
+                src: '/albums/buildseason2020/Photos/19.jpg',
+                thumb: '/albums/buildseason2020/Photos/thumbs/19.jpg'
+            }]
+        });
+    });
+});
+
+$(document).ready(function () {
+    $('#offseason2019').on('click', function (e) {
+        $(this).lightGallery({
+            dynamic: true,
+            dynamicEl: [{
+                src: '/albums/offseason2019/Photos/1.jpg',
+                thumb: '/albums/offseason2019/Photos/thumbs/1.jpg'
+            }, {
+                src: '/albums/offseason2019/Photos/2.jpg',
+                thumb: '/albums/offseason2019/Photos/thumbs/2.jpg'
+            }, {
+                src: '/albums/offseason2019/Photos/3.jpg',
+                thumb: '/albums/offseason2019/Photos/thumbs/3.jpg'
+            }, {
+                src: '/albums/offseason2019/Photos/4.jpg',
+                thumb: '/albums/offseason2019/Photos/thumbs/4.jpg'
+            }, {
+                src: '/albums/offseason2019/Photos/5.jpg',
+                thumb: '/albums/offseason2019/Photos/thumbs/5.jpg'
+            }, {
+                src: '/albums/offseason2019/Photos/6.jpg',
+                thumb: '/albums/offseason2019/Photos/thumbs/6.jpg'
+            }, {
+                src: '/albums/offseason2019/Photos/7.jpg',
+                thumb: '/albums/offseason2019/Photos/thumbs/7.jpg'
+            }, {
+                src: '/albums/offseason2019/Photos/8.jpg',
+                thumb: '/albums/offseason2019/Photos/thumbs/8.jpg'
+            }, {
+                src: '/albums/offseason2019/Photos/9.jpg',
+                thumb: '/albums/offseason2019/Photos/thumbs/9.jpg'
+            }, {
+                src: '/albums/offseason2019/Photos/10.jpg',
+                thumb: '/albums/offseason2019/Photos/thumbs/10.jpg'
+            }]
+        });
+    });
+});
+$(document).ready(function () {
+    $('#canpacific2019').on('click', function (e) {
+        $(this).lightGallery({
+            dynamic: true,
+            dynamicEl: [{
+                src: '/albums/canpacific2019/Photos/1.jpg',
+                thumb: '/albums/canpacific2019/Photos/thumbs/1.jpg'
+            }, {
+                src: '/albums/canpacific2019/Photos/2.jpg',
+                thumb: '/albums/canpacific2019/Photos/thumbs/2.jpg'
+            }, {
+                src: '/albums/canpacific2019/Photos/3.jpg',
+                thumb: '/albums/canpacific2019/Photos/thumbs/3.jpg'
+            }, {
+                src: '/albums/canpacific2019/Photos/4.jpg',
+                thumb: '/albums/canpacific2019/Photos/thumbs/4.jpg'
+            }, {
+                src: '/albums/canpacific2019/Photos/5.jpg',
+                thumb: '/albums/canpacific2019/Photos/thumbs/5.jpg'
+            }, {
+                src: '/albums/canpacific2019/Photos/6.jpg',
+                thumb: '/albums/canpacific2019/Photos/thumbs/6.jpg'
+            }, {
+                src: '/albums/canpacific2019/Photos/7.jpg',
+                thumb: '/albums/canpacific2019/Photos/thumbs/7.jpg'
+            }, {
+                src: '/albums/canpacific2019/Photos/8.jpg',
+                thumb: '/albums/canpacific2019/Photos/thumbs/8.jpg'
+            }, {
+                src: '/albums/canpacific2019/Photos/9.jpg',
+                thumb: '/albums/canpacific2019/Photos/thumbs/9.jpg'
+            }, {
+                src: '/albums/canpacific2019/Photos/10.jpg',
+                thumb: '/albums/canpacific2019/Photos/thumbs/10.jpg'
+            }]
+        });
+    });
+});
+$(document).ready(function () {
+    $('#CanRockies2019').on('click', function (e) {
+        $(this).lightGallery({
+            dynamic: true,
+            dynamicEl: [{
+                src: '/albums/CanRockies2019/Photos/1.jpg',
+                thumb: '/albums/CanRockies2019/Photos/thumbs/1.jpg'
+            }, {
+                src: '/albums/CanRockies2019/Photos/2.jpg',
+                thumb: '/albums/CanRockies2019/Photos/thumbs/2.jpg'
+            }, {
+                src: '/albums/CanRockies2019/Photos/3.jpg',
+                thumb: '/albums/CanRockies2019/Photos/thumbs/3.jpg'
+            }, {
+                src: '/albums/CanRockies2019/Photos/4.jpg',
+                thumb: '/albums/CanRockies2019/Photos/thumbs/4.jpg'
+            }, {
+                src: '/albums/CanRockies2019/Photos/5.jpg',
+                thumb: '/albums/CanRockies2019/Photos/thumbs/5.jpg'
+            }, {
+                src: '/albums/CanRockies2019/Photos/6.jpg',
+                thumb: '/albums/CanRockies2019/Photos/thumbs/6.jpg'
+            }]
+        });
+    });
+});
+$(document).ready(function () {
+    $('#canpacific2018').on('click', function (e) {
+        $(this).lightGallery({
+            dynamic: true,
+            dynamicEl: [{
+                src: '/albums/canpacific2018/Photos/1.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/1.jpg'
+            }, {
+                src: '/albums/canpacific2018/Photos/2.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/2.jpg'
+          }, {
+                src: '/albums/canpacific2018/Photos/3.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/3.jpg'
+            }, {
+                src: '/albums/canpacific2018/Photos/4.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/4.jpg'
+            }, {
+                src: '/albums/canpacific2018/Photos/5.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/5.jpg'
+            }, {
+                src: '/albums/canpacific2018/Photos/6.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/6.jpg'
+            }, {
+                src: '/albums/canpacific2018/Photos/7.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/7.jpg'
+            }, {
+                src: '/albums/canpacific2018/Photos/8.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/8.jpg'
+            }, {
+                src: '/albums/canpacific2018/Photos/9.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/9.jpg'
+            }, {
+                src: '/albums/canpacific2018/Photos/10.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/10.jpg'
+            }, {
+                src: '/albums/canpacific2018/Photos/11.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/11.jpg'
+            }, {
+                src: '/albums/canpacific2018/Photos/12.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/12.jpg'
+            }, {   
+                src: '/albums/canpacific2018/Photos/13.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/13.jpg'
+            }, {
+                src: '/albums/canpacific2018/Photos/14.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/14.jpg'
+            }, {
+                src: '/albums/canpacific2018/Photos/15.jpg',
+                thumb: '/albums/canpacific2018/Photos/thumbs/15.jpg'
+            }, {
+                src: '/albums/canpacific2018/Photos/16.jpg',
+             thumb: '/albums/canpacific2018/Photos/thumbs/16.jpg'
+            }]
+        });
+    });
+});
+$(document).ready(function () {
+    $('#CanRockies2018').on('click', function (e) {
+        $(this).lightGallery({
+            dynamic: true,
+            dynamicEl: [{
+                src: '/albums/CanRockies2018/Photos/1.jpg',
+                thumb: '/albums/CanRockies2018/Photos/thumbs/1.jpg'
+            }, {
+                src: '/albums/CanRockies2018/Photos/2.jpg',
+                thumb: '/albums/CanRockies2018/Photos/thumbs/2.jpg'
+            }, {
+                src: '/albums/CanRockies2018/Photos/3.jpg',
+                thumb: '/albums/CanRockies2018/Photos/thumbs/3.jpg'
+            }, {
+                src: '/albums/CanRockies2018/Photos/4.jpg',
+                thumb: '/albums/CanRockies2018/Photos/thumbs/4.jpg'
+            }, {
+                src: '/albums/CanRockies2018/Photos/5.jpg',
+                thumb: '/albums/CanRockies2018/Photos/thumbs/5.jpg'
+            }, {
+                src: '/albums/CanRockies2018/Photos/6.jpg',
+                thumb: '/albums/CanRockies2018/Photos/thumbs/6.jpg'
+            }, {
+                src: '/albums/CanRockies2018/Photos/7.jpg',
+                thumb: '/albums/CanRockies2018/Photos/thumbs/7.jpg'
+            }, {
+                src: '/albums/CanRockies2018/Photos/8.jpg',
+                thumb: '/albums/CanRockies2018/Photos/thumbs/8.jpg'
+            }, {
+                src: '/albums/CanRockies2018/Photos/9.jpg',
+                thumb: '/albums/CanRockies2018/Photos/thumbs/9.jpg'
+            }, {
+                src: '/albums/CanRockies2018/Photos/10.jpg',
+                thumb: '/albums/CanRockies2018/Photos/thumbs/10.jpg'
+            }, {
+                src: '/albums/CanRockies2018/Photos/11.jpg',
+                thumb: '/albums/CanRockies2018/Photos/thumbs/11.jpg'
+            }, {
+                src: '/albums/CanRockies2018/Photos/12.jpg',
+                thumb: '/albums/CanRockies2018/Photos/thumbs/12.jpg'
+            }, {   
+                src: '/albums/CanRockies2018/Photos/13.jpg',
+                thumb: '/albums/CanRockies2018/Photos/thumbs/13.jpg'
+            }, {
+                src: '/albums/CanRockies2018/Photos/14.jpg',
+                thumb: '/albums/CanRockies2018/Photos/thumbs/14.jpg'
+            }]
+        });
+    });
+});
+$(document).ready(function () {
     $('#orts2018').on('click', function (e) {
         $(this).lightGallery({
             dynamic: true,

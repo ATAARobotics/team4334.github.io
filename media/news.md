@@ -10,6 +10,13 @@ files: |
 			<h1>ATA in the News</h1>
 			<table class="table table-condensed">
 				<tr>
+					<td>January 5, 2020</td>
+					<td>
+						<a href="https://calgaryherald.com/news/local-news/for-calgary-high-schoolers-robotics-competition-offers-gateway-to-stem">
+							For Calgary high schoolers, robotics competition offers gateway to STEM</a>
+					</td>
+				</tr>
+				<tr>
 					<td>April 15, 2019</td>
 					<td>
 						<a href="https://calgary.ctvnews.ca/video?clipId=1661146&binId=1.1201914&playlistPageNum=1">

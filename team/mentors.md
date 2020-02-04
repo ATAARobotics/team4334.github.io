@@ -22,86 +22,136 @@ files: |
 				</div>
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/joel-gallant.jpg">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/chris-dascollas.jpg">
 						<div class="card-body">
-							<h3 class="card-text">Joel Gallant</h3>
-							<p class="card-text">Joel Gallant is a previous team member.</p>
-							<p class="card-text">Joel supports the team as a:</p>
-							<li class="card-text">Lead Mentor</li>
-							<li class="card-text">Programming Mentor</li>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/kieran.jpg">
-						<div class="card-body">
-							<h3 class="card-text">Kieran Bererton</h3>
-							<p class="card-text">Kieran Bererton is a previous team member.</p>
-							<p class="card-text">Kieran supports the team as a:</p>
-							<li class="card-text">Scouting Mentor</li>
+							<h3 class="card-text">Chris Dascollas</h3>
+							<p class="card-text">Chris supports the team as a:</p>
 							<li class="card-text">Strategy Mentor</li>
+							<li class="card-text">Scouting Mentor</li>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/clayton-mcneil.jpg">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/chris-lemmon.jpg">
 						<div class="card-body">
-							<h3 class="card-text">Clayton McNeil</h3>
-							<p class="card-text">Clayton McNeil is a previous team member.</p>
-							<p class="card-text">Clayton supports the team as a:</p>
-							<li class="card-text">CAD Mentor</li>
-							<li class="card-text">Electronics Mentor</li>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/mac-hunik.jpg">
-						<div class="card-body">
-							<h3 class="card-text">Mac Hunik</h3>
-							<p class="card-text">Mac Hunik is a previous team member. He is now studying as a mechanical engineer.</p>
-							<p class="card-text">Mac supports the team as a:</p>
-							<li class="card-text">Fabrication Mentor</li>
-							<li class="card-text">Drive Coach</li>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/alex-vu.jpg">
-						<div class="card-body">
-							<h3 class="card-text">Alex Vu</h3>
-							<p class="card-text">Alex Vu is a previous team member. He is now studying as a neuroscientist.</p>
-							<p class="card-text">Alex supports the team as a:</p>
-							<li class="card-text">CAD Mentor</li>
+							<h3 class="card-text">Chris Lemmon</h3>
+							<p class="card-text">Chris Lemmon is an alumni and original founding member of 4334.</p>
+							<p class="card-text">Chris supports the team as a:</p>
+							<li class="card-text">Mechanical Mentor</li>
 							<li class="card-text">Design Mentor</li>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/cole-batonyi.jpg">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/jason-heard.jpg">
 						<div class="card-body">
-							<h3 class="card-text">Cole Batonyi</h3>
-							<p class="card-text">Cole Batonyi is a previous team member. He is now studying as a mechanical engineer.</p>
-							<p class="card-text">Cole supports the team as a:</p>
-							<li class="card-text">CAD Mentor</li>
-							<li class="card-text">Design Coach</li>
+							<h3 class="card-text">Jason Heard</h3>
+							<p class="card-text">Jason supports the team as a:</p>
+							<li class="card-text">Programming Mentor</li>
 						</div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/jeremy-zantua.jpg">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/patrick-kornak.png">
 						<div class="card-body">
-							<h3 class="card-text">Jeremy Zantua</h3>
-							<p class="card-text">Jeremy Zantua is a previous team member.</p>
-							<p class="card-text">Jeremy supports the team as a:</p>
-							<li class="card-text">CAD Mentor</li>
+							<h3 class="card-text">Patrick Kornak</h3>
+							<p class="card-text">Patrick supports the team as a:</p>
+							<li class="card-text">Outreach Mentor</li>
+							<li class="card-text">Photographer</li>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card mb-4 box-shadow">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/shelley-organ.jpg">
+						<div class="card-body">
+							<h3 class="card-text">Shelley Organ</h3>
+							<p class="card-text">Shelley supports the team as a:</p>
+							<li class="card-text">ATAA Board Member</li>
+							<li class="card-text">Outreach Mentor</li>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card mb-4 box-shadow">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/robert-paradis.jpg">
+						<div class="card-body">
+							<h3 class="card-text">Robert Paradis</h3>
+							<p class="card-text">Robert supports the team as a:</p>
+							<li class="card-text">Programming Mentor</li>
+							<li class="card-text">Computer Specialist</li>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card mb-4 box-shadow">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/shayna-labbe.jpg">
+						<div class="card-body">
+							<h3 class="card-text">Shayna Labbe</h3>
+							<p class="card-text">Shayna Labbe is an alumni of team 1305 in North Bay, Ontario. </p>
+							<p class="card-text">Shayna supports the team as a:</p>
+							<li class="card-text">Safety Coordinator</li>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card mb-4 box-shadow">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/nadine-storrier.jpg">
+						<div class="card-body">
+							<h3 class="card-text">Nadine Storrier</h3>
+							<p class="card-text">Nadine supports the team as a:</p>
+							<li class="card-text">ATAA Board Member</li>
+							<li class="card-text">Organizational Manager</li>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card mb-4 box-shadow">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/david-gibson.jpg">
+						<div class="card-body">
+							<h3 class="card-text">David Gibson</h3>
+							<p class="card-text">David supports the team as a:</p>
+							<li class="card-text">Safety Coordinator</li>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card mb-4 box-shadow">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/jason-mcelra.jpg">
+						<div class="card-body">
+							<h3 class="card-text">Jason McElra</h3>
+							<p class="cart-text">Jason McElra is an alumni and original founding member of 4334.</p>
+							<p class="card-text">Jason supports the team as a:</p>
+							<li class="card-text">Mechanical Mentor</li>
+							<li class="card-text">Fabrication Mentor</li>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card mb-4 box-shadow">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/mike-pare.jpg">
+						<div class="card-body">
+							<h3 class="card-text">Mike Pare</h3>
+							<p class="card-text">Mike supports the team as a:</p>
+							<li class="card-text">IT Specialist</li>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card mb-4 box-shadow">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/john-brandt.jpg">
+						<div class="card-body">
+							<h3 class="card-text">John Brandt</h3>
+							<p class="card-text">John Brandt is an alumni of 4334.</p>
+							<p class="card-text">John supports the team as a:</p>
+							<li class="card-text">Scouting Mentor</li>
+							<li class="card-text">Programming Mentor</li>
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
+	</div>
