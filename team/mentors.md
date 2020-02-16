@@ -22,7 +22,7 @@ files: |
 				</div>
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/chris-dascollas.jpg">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/chris-dascollas.png">
 						<div class="card-body">
 							<h3 class="card-text">Chris Dascollas</h3>
 							<p class="card-text">Chris supports the team as a:</p>
@@ -120,19 +120,7 @@ files: |
 				</div>
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/jason-mcelra.jpg">
-						<div class="card-body">
-							<h3 class="card-text">Jason McElra</h3>
-							<p class="cart-text">Jason McElra is an alumni and original founding member of 4334.</p>
-							<p class="card-text">Jason supports the team as a:</p>
-							<li class="card-text">Mechanical Mentor</li>
-							<li class="card-text">Fabrication Mentor</li>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/mike-pare.jpg">
+						<img class="img-fluid" alt="Image Not Found!" src="/resources/img/mentors/mike-pare.png">
 						<div class="card-body">
 							<h3 class="card-text">Mike Pare</h3>
 							<p class="card-text">Mike supports the team as a:</p>
