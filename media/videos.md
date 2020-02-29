@@ -16,6 +16,50 @@ files: |
 ---
 <div class="container" style="max-width: 1140px">
 	<div class="row">
+		<h1 style="margin-top: 10px">2019</h1>
+	</div>
+	<div class="row">
+		<div class="col-md-3">
+			<a id="canpacific2019" href="#">
+				<div class="thumbnail">
+					<img class="img-fluid" alt="Elevation" src="/albums/canpacific2019/Photos/thumb.jpg">
+					<h4 style="padding-left: 5px">Canadian Pacific Regional</h4>
+				</div>
+			</a>
+		</div>
+		<div class="col-md-3">
+			<a id="CanRockies2019" href="#">
+				<div class="thumbnail">
+					<img class="img-fluid" alt="Elevation" src="/albums/CanRockies2019/Photos/thumb.jpg">
+					<h4 style="padding-left: 5px">Canadian Rockies Regional</h4>
+				</div>
+			</a>
+		</div>
+		<div class="col-md-3">
+		</div>
+		<div class="col-md-3">
+		</div>
+	</div>
+	<div class="row">
+		<h1 style="margin-top: 10px">2018</h1>
+	</div>
+	<div class="row">
+		<div class="col-md-3">
+			<a id="CanRockies2018" href="#">
+				<div class="thumbnail">
+					<img class="img-fluid" alt="Elevation" src="/albums/CanRockies2018/Photos/thumb.jpg">
+					<h4 style="padding-left: 5px">Canadian Rockies Regional</h4>
+				</div>
+			</a>
+		</div>
+	</div>
+	<div class="col-md-3">
+	</div>
+	<div class="col-md-3">
+	</div>
+	<div class="col-md-3">
+	</div>
+	<div class="row">
 		<h1 style="margin-top: 10px">2017</h1>
 	</div>
 	<div class="row">

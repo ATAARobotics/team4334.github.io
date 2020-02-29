@@ -1,4 +1,167 @@
 $(document).ready(function() {
+    $('#canpacific2019').on('click', function(e) {
+        $(this).lightGallery({
+            dynamic: true,
+            dynamicEl: [{
+                src: 'https://youtu.be/aXOZZH_Jd10',
+                poster: 'https://img.youtube.com/vi/aXOZZH_Jd10/0.jpg',
+                'subHtml': "<h4>Qualifications 6</h4>"
+            },{
+                src: 'https://youtu.be/HLmDWcxqE5c',
+                poster: 'https://img.youtube.com/vi/HLmDWcxqE5c/0.jpg',
+                'subHtml': "<h4>Qualifications 10</h4>"
+            },{
+                src: 'https://youtu.be/2MHRrPHCRNY',
+                poster: 'https://img.youtube.com/vi/2MHRrPHCRNY/0.jpg',
+                'subHtml': "<h4>Qualifications 14</h4>"
+            },{
+                src: 'https://youtu.be/Mx_fTS1KtsY',
+                poster: 'https://img.youtube.com/vi/Mx_fTS1KtsY/0.jpg',
+                'subHtml': "<h4>Qualifications 23</h4>"
+            },{
+                src: 'https://youtu.be/jaAZT_PSbEg',
+                poster: 'https://img.youtube.com/vi/jaAZT_PSbEg/0.jpg',
+                'subHtml': "<h4>Qualifications 29</h4>"
+            },{
+                src: 'https://youtu.be/vNR8XOXL5sg',
+                poster: 'http://i3.ytimg.com/vi/vNR8XOXL5sg/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 31</h4>"
+            },{
+                src: 'https://youtu.be/M-YJJDrV4Aw',
+                poster: 'http://i3.ytimg.com/vi/M-YJJDrV4Aw/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 39</h4>"
+            },{
+                src: 'https://youtu.be/qbncYTa1kU4',
+                poster: 'http://i3.ytimg.com/vi/qbncYTa1kU4/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 42</h4>"
+            },{
+                src: 'https://youtu.be/rMgPByFo3iI',
+                poster: 'http://i3.ytimg.com/vi/rMgPByFo3iI/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 51</h4>"
+            },{
+                src: 'https://youtu.be/zr2mSr7a5Kc',
+                poster: 'http://i3.ytimg.com/vi/zr2mSr7a5Kc/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 63</h4>"
+            },{
+                src: 'https://youtu.be/I4n3JJ0lBz8',
+                poster: 'http://i3.ytimg.com/vi/I4n3JJ0lBz8/maxresdefault.jpg',
+                'subHtml': "<h4>Quarterfinals 1</h4>"
+            },{
+                src: 'https://youtu.be/PoLw4HFuRdc',
+                poster: 'http://i3.ytimg.com/vi/PoLw4HFuRdc/maxresdefault.jpg',
+                'subHtml': "<h4>Quarterfinals 2</h4>"
+            },{
+                src: 'https://youtu.be/3_2c_Sko95s',
+                poster: 'http://i3.ytimg.com/vi/3_2c_Sko95s/maxresdefault.jpg',
+                'subHtml': "<h4>Semifinals 1</h4>"
+            },{
+                src: 'https://youtu.be/ZS3xxxKdFBw',
+                poster: 'http://i3.ytimg.com/vi/ZS3xxxKdFBw/maxresdefault.jpg',
+                'subHtml': "<h4>Semifinals 2</h4>"
+            }]
+        });
+    });
+});
+
+$(document).ready(function() {
+    $('#CanRockies2019').on('click', function(e) {
+        $(this).lightGallery({
+            dynamic: true,
+            dynamicEl: [{
+                src: 'https://youtu.be/Twhfn4V2QfI',
+                poster: 'http://i3.ytimg.com/vi/Twhfn4V2QfI/maxresdefault.jpg', 
+                'subHtml': "<h4>Qualification 5</h4>"
+            },{
+                src: 'https://youtu.be/pnnS0JaGYVM',
+                poster: 'http://i3.ytimg.com/vi/pnnS0JaGYVM/maxresdefault.jpg',
+                'subHtml': "<h4>Qualification 11</h4>"
+            },{
+                src: 'https://youtu.be/32Vlr5chZ-c',
+                poster: 'http://i3.ytimg.com/vi/32Vlr5chZ-c/maxresdefault.jpg',
+                'subHtml': "<h4>Qualification 14</h4>"
+            },{
+                src: 'https://youtu.be/LpTMHGXlw-A',
+                poster: 'http://i3.ytimg.com/vi/LpTMHGXlw-A/maxresdefault.jpg',
+                'subHtml': "<h4>Qualification 20</h4>"
+            },{
+                src: 'https://youtu.be/Fewx54vddqk',
+                poster: 'http://i3.ytimg.com/vi/Fewx54vddqk/maxresdefault.jpg',
+                'subHtml': "<h4>Qualification 27</h4>"
+            },{
+                src: 'https://youtu.be/22k1rFfp914',
+                poster: 'http://i3.ytimg.com/vi/22k1rFfp914/maxresdefault.jpg',
+                'subHtml': "<h4>Qualification 33</h4>"
+            },{
+                src: 'https://youtu.be/K5mTL0CrSGU',
+                poster: 'http://i3.ytimg.com/vi/K5mTL0CrSGU/maxresdefault.jpg',
+                'subHtml': "<h4>Qualification 42</h4>"
+            },{
+                src: 'https://youtu.be/p1wzv5YjABg',
+                poster: 'http://i3.ytimg.com/vi/p1wzv5YjABg/maxresdefault.jpg',
+                'subHtml': "<h4>Qualification 45</h4>"
+            },{
+                src: 'https://youtu.be/JHt6Vm4vrho',
+                poster: 'http://i3.ytimg.com/vi/JHt6Vm4vrho/maxresdefault.jpg',
+                'subHtml': "<h4>Qualification 62</h4>"
+            },{
+                src: 'https://youtu.be/L4d52n2oZ9c',
+                poster: 'http://i3.ytimg.com/vi/L4d52n2oZ9c/maxresdefault.jpg',
+                'subHtml': "<h4>Quarterfinal 1</h4>"
+            },{
+                src: 'https://youtu.be/Z0UbRzKk05Y',
+                poster: 'http://i3.ytimg.com/vi/Z0UbRzKk05Y/maxresdefault.jpg',
+                'subHtml': "<h4>Quarterfinal 2</h4>"
+            },{
+                src: 'https://youtu.be/fz-7B7zMYRc',
+                poster: 'http://i3.ytimg.com/vi/fz-7B7zMYRc/maxresdefault.jpg',
+                'subHtml': "<h4>Quarterfinal 3</h4>"
+            },{
+                src: 'https://youtu.be/NlCSdfsEb4M',
+                poster: 'http://i3.ytimg.com/vi/NlCSdfsEb4M/maxresdefault.jpg',
+                'subHtml': "<h4>Semifinal 1</h4>"
+            },{
+                src: 'https://youtu.be/Y_RHCFDSO8M',
+                poster: 'http://i3.ytimg.com/vi/Y_RHCFDSO8M/maxresdefault.jpg',
+                'subHtml': "<h4>Semifinal 2</h4>"
+            }]
+        });
+    });
+});
+
+$(document).ready(function() {
+    $('#CanRockies2018').on('click', function(e) {
+        $(this).lightGallery({
+            dynamic: true,
+            dynamicEl: [{
+                src: 'https://youtu.be/ge1WYyuv5r4',
+                poster: 'https://img.youtube.com/vi/ge1WYyuv5r4/0.jpg',
+                'subHtml': "<h4>Qualifications 21</h4>"
+            }, {
+                src: 'https://youtu.be/AhHfOlg-nYM',
+                poster: 'https://img.youtube.com/vi/AhHfOlg-nYM/0.jpg',
+                'subHtml': "<h4>Qualifications 26</h4>"
+            }, {
+                src: 'https://youtu.be/OVbEPjjVdMQ',
+                poster: 'https://img.youtube.com/vi/OVbEPjjVdMQ/0.jpg',
+                'subHtml': "<h4>Qualifications 31</h4>"
+            }, {
+                src: 'https://youtu.be/BfAgzAhD0TM',
+                poster: 'https://img.youtube.com/vi/BfAgzAhD0TM/0.jpg',
+                'subHtml': "<h4>Qualifications 41</h4>"
+            }, {
+                src: 'https://youtu.be/24gshWj4YOg',
+                poster: 'https://img.youtube.com/vi/24gshWj4YOg/0.jpg',
+                'subHtml': "<h4>Qualifications 45</h4>"
+            }, {
+                src: 'https://youtu.be/1ue5XvNYM78',
+                poster: 'https://img.youtube.com/vi/1ue5XvNYM78/0.jpg',
+                'subHtml': "<h4>Qualifications 50</h4>"
+            }]
+        });
+    });
+});
+
+$(document).ready(function() {
   $('#houston2017').on('click', function(e) {
       $(this).lightGallery({
           dynamic: true,

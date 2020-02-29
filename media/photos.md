@@ -14,10 +14,76 @@ files: |
  <script src="/resources/js/lg-photos.js"></script>
 ---
 <div class="container" style="max-width: 1140px">
-		<div class="row">
+	<div class="row">
+		<h1 style="margin-top: 10px">2020</h1>
+	</div>
+	<div class="row">
+		<div class="col-md-3">
+			<a href="#" id="buildseason2020">
+				<div class="thumbnail">
+					<img class="img-fluid" alt="Elevation" src="/albums/buildseason2020/Photos/thumb.jpg">
+					<h4 style="payment-left: 5px">Build Season</h4>
+				</div>
+			</a>
+		</div>
+		<div class="col-md-3">
+		</div>
+		<div class="col-md-3">
+		</div>
+		<div class="col-md-3">
+		</div>
+	</div>
+	<div class="row">
+		<h1 style="margin-top: 10px">2019</h1>
+	</div>
+	<div class="row">
+		<div class="col-md-3">
+			<a href="#" id="canpacific2019">
+				<div class="thumbnail">
+					<img class="img-fluid" alt="Elevation" src="/albums/canpacific2019/Photos/thumb.jpg">
+					<h4 style="padding-left: 5px">Canadian Pacific Regional</h4>
+				</div>
+			</a>
+		</div>
+		<div class="col-md-3">
+			<a href="#" id="CanRockies2019">
+				<div class="thumbnail">
+					<img class="img-fluid" alt="Elevation" src="/albums/CanRockies2019/Photos/thumb.jpg">
+					<h4 style="padding-left: 5px">Canadian Rockies Regional</h4>
+				</div>
+			</a>
+		</div>
+		<div class="col-md-3">
+			<a href="#" id="offseason2019">
+				<div class="thumbnail">
+					<img class="img-fluid" alt="Elevation" src="/albums/offseason2019/Photos/thumb.jpg">
+					<h4 style="padding-left: 5px">Offseason</h4>
+				</div>
+			</a>
+		</div>
+		<div class="col-md-3">
+		</div>
+	</div>
+	<div class="row">
 		<h1 style="margin-top: 10px">2018</h1>
 	</div>
 	<div class="row">
+		<div class="col-md-3">
+			<a href="#" id="canpacific2018">
+				<div class="thumbnail">
+					<img class="img-fluid" alt="Elevation" src="/albums/canpacific2018/Photos/thumb.jpg">
+					<h4 style="padding-left: 5px">Canadian Pacific Regional</h4>
+				</div>
+			</a>
+		</div>
+		<div class="col-md-3">
+			<a href="#" id="CanRockies2018">
+				<div class="thumbnail">
+					<img class="img-fluid" alt="Elevation" src="/albums/CanRockies2018/Photos/thumb.jpg">
+					<h4 style="padding-left: 5px">Canadian Rockies Regional</h4>
+				</div>
+			</a>
+		</div>
 		<div class="col-md-3">
 			<a href="#" id="orts2018">
 				<div class="thumbnail">
@@ -33,10 +99,6 @@ files: |
 					<h4 style="padding-left: 5px">Beakerhead</h4>
 				</div>
 			</a>
-		</div>
-		<div class="col-md-3">
-		</div>
-		<div class="col-md-3">
 		</div>
 	</div>
 	<div class="row">
