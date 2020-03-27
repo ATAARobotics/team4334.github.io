@@ -11,6 +11,18 @@ files: |
 			<div class="row">
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
+						<img class="img-fluid" alt="Whale Boi" src="/resources/img/whaleboi.jpg">
+						<div class="card-body">
+							<h3 class="card-text">2020 - Whale Boi</h3>
+							<p class="card-text">Whale Boi competed in FIRST Infinite Recharge. It was able to drive under the trench and shoot power cells into the high power port.</p>
+							<p class="card-text">See more information on FIRST Infinite Recharge
+								<a href="/first/2020">here</a>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card mb-4 box-shadow">
 						<img class="img-fluid" alt="Neutrino" src="/resources/img/neutrino.jpg">
 						<div class="card-body">
 							<h3 class="card-text">2019 - Neutrino</h3>

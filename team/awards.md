@@ -11,6 +11,20 @@ files: |
 			<table class="tg">
 				<tr>
 					<th class="tg-k20k">
+						<a href="https://www.thebluealliance.com/team/4334/2020">2020</a>
+					</th>
+					<th class="tg-fefd"></th>
+					<th class="tg-fefd"></th>
+				</tr>
+				<tr>
+					<td class="tg-fefd"></td>
+					<td class="tg-ee5k">Canadian Pacific Regional</td>
+					<td class="tg-fefd">
+						<li>Judges' Award</li>
+					</td>
+				</tr>
+				<tr>
+					<th class="tg-k20k">
 						<a href="https://www.thebluealliance.com/team/4334/2019">2019</a>
 					</th>
 					<th class="tg-fefd"></th>
