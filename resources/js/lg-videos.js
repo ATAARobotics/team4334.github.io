@@ -1,4 +1,66 @@
 $(document).ready(function() {
+    $('#canpacific2020').on('click', function(e) {
+        $(this).lightGallery({
+            dynamic: true,
+            dynamicEl: [{
+                src: 'https://youtu.be/vot_oQYNXVo',
+                poster: 'http://i3.ytimg.com/vi/vot_oQYNXVo/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 7</h4>"
+            },{
+                src: 'https://youtu.be/8Hatix3gRq0',
+                poster: 'http://i3.ytimg.com/vi/8Hatix3gRq0/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 14</h4>"
+            },{
+                src: 'https://youtu.be/l1DuvqUuYxY',
+                poster: 'http://i3.ytimg.com/vi/l1DuvqUuYxY/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 18</h4>"
+            },{
+                src: 'https://youtu.be/Onl4xlqCAPw',
+                poster: 'http://i3.ytimg.com/vi/Onl4xlqCAPw/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 21</h4>"
+            },{
+                src: 'https://youtu.be/o5EDbIGqC8s',
+                poster: 'http://i3.ytimg.com/vi/o5EDbIGqC8s/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 34</h4>"
+            },{
+                src: 'https://youtu.be/MSNWTdlUfbs',
+                poster: 'http://i3.ytimg.com/vi/MSNWTdlUfbs/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 41</h4>"
+            },{
+                src: 'https://youtu.be/WbWsLmFYKzI',
+                poster: 'http://i3.ytimg.com/vi/WbWsLmFYKzI/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 44</h4>"
+            },{
+                src: 'https://youtu.be/a2sBWOVThb8',
+                poster: 'http://i3.ytimg.com/vi/a2sBWOVThb8/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 49</h4>"
+            },{
+                src: 'https://youtu.be/z5yidZvQ-IA',
+                poster: 'http://i3.ytimg.com/vi/z5yidZvQ-IA/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 56</h4>"
+            },{
+                src: 'https://youtu.be/CLohPV0GIew',
+                poster: 'http://i3.ytimg.com/vi/CLohPV0GIew/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 64</h4>"
+            },{
+                src: 'https://youtu.be/OZaf5KFmF_E',
+                poster: 'http://i3.ytimg.com/vi/OZaf5KFmF_E/maxresdefault.jpg',
+                'subHtml': "<h4>Qualifications 70</h4>"
+            },{
+                src: 'https://youtu.be/9TjrM4gjZwY',
+                poster: 'http://i3.ytimg.com/vi/9TjrM4gjZwY/maxresdefault.jpg',
+                'subHtml': "<h4>Quarterfinals 1</h4>"
+            },{
+                src: 'https://youtu.be/mXmTiYbKLJ8',
+                poster: 'http://i3.ytimg.com/vi/mXmTiYbKLJ8/maxresdefault.jpg',
+                'subHtml': "<h4>Quarterfinals 2</h4>"
+            },{
+            }]
+        });
+    });
+});
+
+$(document).ready(function() {
     $('#canpacific2019').on('click', function(e) {
         $(this).lightGallery({
             dynamic: true,

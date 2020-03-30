@@ -11,7 +11,6 @@ files: |
 				<iframe class="embed-responsive-item" width="1140" height="450" src="https://www.youtube.com/embed/V2tMro-Ddac" frameborder="0"
 				 allowfullscreen></iframe>
 			</div>
-
 			<h3>Executive Summary:</h3>
 			<p>&bull; Describe the impact of the&nbsp;
 				<em>FIRST</em>&nbsp;program on team participants with special emphasis on the current season and the preceding two to five
