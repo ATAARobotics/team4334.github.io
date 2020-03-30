@@ -24,6 +24,13 @@ files: |
 					</td>
 				</tr>
 				<tr>
+					<td>February 18, 2019</td>
+					<td>
+						<a href="https://calgary.ctvnews.ca/calgary-students-add-finishing-touches-to-battle-bots-1.4302310">
+							Calgary Students add finishing touches to Battle Bots</a>
+					</td>
+				</tr>
+				<tr>
 					<td>January 5, 2019</td>
 					<td>
 						<a href="https://calgary.ctvnews.ca/calgary-tech-teams-set-to-build-robots-for-deep-space-1.4242033">

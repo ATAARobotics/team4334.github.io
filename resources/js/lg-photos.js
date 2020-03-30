@@ -1,4 +1,19 @@
 $(document).ready(function () {
+    $('#canpacific2020').on('click', function (e) {
+        $(this).lightGallery({
+            dynamic: true,
+            dynamicEl: [{
+                src: '/albums/canpacific2020/Photos/1.jpg',
+                thumb: '/albums/canpacific2020/Photos/1.jpg'
+            }, {
+                src: '/albums/canpacific2020/Photos/2.jpg',
+                thumb: '/albums/canpacific2020/Photos/2.jpg'
+            }]
+        });
+    });
+});
+
+$(document).ready(function () {
     $('#buildseason2020').on('click', function (e) {
         $(this).lightGallery({
             dynamic: true,

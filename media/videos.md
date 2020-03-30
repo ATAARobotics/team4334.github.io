@@ -16,6 +16,25 @@ files: |
 ---
 <div class="container" style="max-width: 1140px">
 	<div class="row">
+		<h1 style="margin-top: 10px">2020</h1>
+	</div>
+	<div class="row">
+		<div class="col-md-3">
+			<a id="canpacific2020" href="#">
+				<div class="thumbnail">
+					<img class="img-fluid" alt="Elevation" src="/albums/canpacific2020/Photos/thumb.jpg">
+					<h4 style="padding-left: 5px">Canadian Pacific Regional</h4>
+				</div>
+			</a>
+		</div>
+		<div class="col-md-3">
+		</div>
+		<div class="col-md-3">
+		</div>
+		<div class="col-md-3">
+		</div>
+	</div>
+	<div class="row">
 		<h1 style="margin-top: 10px">2019</h1>
 	</div>
 	<div class="row">

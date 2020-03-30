@@ -35,7 +35,7 @@ files: |
 				</div>
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Pivot" src="/resources/img/clawboyandrampgirl.JPG">
+						<img class="img-fluid" alt="Pivot" src="/resources/img/clawboyandrampgirl.jpg">
 						<div class="card-body">
 							<h3 class="card-text">2018 - Clawboy and Rampgirl</h3>
 							<p class="card-text">Clawboy and Rampgirl participated in FIRST POWER UP. It is able to place cubes on the switch and scale as well as in the exchange.</p>
@@ -72,7 +72,7 @@ files: |
 				</div>
 				<div class="col-md-4">
 					<div class="card mb-4 box-shadow">
-						<img class="img-fluid" alt="Elevation" src="/resources/img/elevation.JPG">
+						<img class="img-fluid" alt="Elevation" src="/resources/img/elevation.jpg">
 						<div class="card-body">
 							<h3 class="card-text">2015 - Elevation</h3>
 							<p class="card-text">Elevation participated in Recycle Rush. Elevation is designed for bottom stacking and flipping totes.</p>
