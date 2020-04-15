@@ -116,7 +116,7 @@ files: |
 		<div class="col-md-3">
 			<a id="championships2016" href="#">
 				<div class="thumbnail">
-					<img class="img-fluid" alt="Elevation" src="/resources/img/elevation.JPG">
+					<img class="img-fluid" alt="Elevation" src="/resources/img/elevation.jpg">
 					<h4 style="padding-left: 5px">St. Louis Championships</h4>
 				</div>
 			</a>

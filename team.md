@@ -54,7 +54,7 @@ files: |
 						</div>
 					</div>
 					<div class="carousel-item">
-						<img style="width: 100%" class="img-fluid d-block mx-auto" alt="2015" src="/resources/img/team2015.JPG">
+						<img style="width: 100%" class="img-fluid d-block mx-auto" alt="2015" src="/resources/img/team2015.jpg">
 						<div class="carousel-caption">
 							<h3>2015</h3>
 						</div>
