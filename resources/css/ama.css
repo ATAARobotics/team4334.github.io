@@ -1,0 +1,15 @@
+body {
+    color: black;
+}
+
+#amahome {
+    background-image: url('/resources/img/ama.png');
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 450px;
+}
+
+.zoom {
+    list-style-image: url("/favicon.ico");
+    font-size: x-large;
+}
