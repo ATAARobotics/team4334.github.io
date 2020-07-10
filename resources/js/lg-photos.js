@@ -177,6 +177,9 @@ $(document).ready(function () {
             }, {
                 src: '/albums/CanRockies2019/Photos/6.jpg',
                 thumb: '/albums/CanRockies2019/Photos/thumbs/6.jpg'
+            }, {
+                src: '/albums/CanRockies2019/Photos/6.jpg',
+                thumb: '/albums/CanRockies2019/Photos/thumbs/6.jpg'
             }]
         });
     });
