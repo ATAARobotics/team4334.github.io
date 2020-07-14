@@ -6,10 +6,41 @@ body {
     background-image: url('/resources/img/ama.png');
     background-size: 100%;
     background-repeat: no-repeat;
-    height: 450px;
+    height: 475px;
 }
 
-.zoom {
-    list-style-image: url("/favicon.ico");
-    font-size: x-large;
+a.amaButton{
+    padding:0.35em 1.2em;
+    border:0.1em solid #000000;
+    margin:0 0.3em 0.3em 0;
+    border-radius:0.12em;
+    text-decoration:none;
+    color:#000000;
+    text-align:center;
+    transition: all 0.2s;
+}
+a.amaButton:hover{
+    color:#626262;
+    background-color:#cacaca;
+}
+
+@media screen and (max-width: 400px) {
+    #amahome {
+        height: 200px
+    }
+}
+@media screen and (min-width: 400px) {
+    #amahome {
+        height: 225px
+    }
+}
+@media screen and (min-width: 500px){
+    #amahome {
+        height: 350px
+    }
+}
+@media screen and (min-width: 1000px){
+    #amahome {
+        height: 475px
+    }
 }
