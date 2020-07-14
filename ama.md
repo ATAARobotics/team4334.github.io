@@ -22,7 +22,7 @@ files: |
             <img class="img-fluid" alt="Team 4334 and Team 5015 Members" src="/resources/img/bcvi2020award.jpg">
         </div>
         <div class="col-md-4">
-            <h1>How do I get involed?</h1>
+            <h1>How do I get involved?</h1>
             <p>The AMA will be held July 25, 2020 through a Zoom Webinar.</p>
             <div style="text-align: center">
                 <a class="amaButton" href="https://us02web.zoom.us/webinar/register/WN_AGR9PS4gQ0efI_SPL-opYg">Join Us!</a>
